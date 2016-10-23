@@ -1,2 +1,7 @@
-# uris
-Metadata file for assigning URIs
+# uris - metadata for assigning URIs
+
+ 1. URIs are made of two elements, separated by a period: `AuthorURI.TitleOfBook`
+	1. Author URI is made of two elements: 
+		- `YEAR of DEATH` (always 4 digits, add zeros in the beginning for dates before 1000 AH)
+		- `SHUHRA` of the author
+	2. Book title  URI Example: `0748Dhahabi.TarikhIslam`  • Add URIs to `Add URI` column • Make sure that URI of an author does not exist, before creating one!  Comment: The easiest way to do that is to search for the year of death in Annotation to OpenArabic  https://github.com/OpenArabic/Annotation • Creating AUTHOR uri  1. Ideally we should use SHUHRAs (which are ideosyncratic)  2. When it is difficult to identify the SHUHRA, I used the following two elements (as they seems to present in the majority of records)  0. Date of death  1. Ibn Fulan (name of the father)  2. Nisba (geographical, religious, tribal)   Issues with dates:  If only the century is known, use the last year of that century  4th century hijri > `0400`  If pre-hijra:  56 before hijra > `0001`  If current time:  > `1450` • Use camelCase when connecting words  Example TarikhIslam < Taʾrīḫ al-islām • Hamzas are dropped  Example: Sual < Suʾāl  • ʿAyns are transliterated with `c` and capitalized when necessary  Example: Cali < ʿAlī  Example: Ictidal < iʿtidāl • Shorten titles to one or two words when possible • Drop `kitab` from the title  
