@@ -1,6 +1,7 @@
 # uris - metadata for assigning URIs
 
- URIs are made of two elements, separated by a period: `AuthorURI.TitleOfBook`
+URIs are made of two elements, separated by a period: `AuthorURI.TitleOfBook`
+
 	1. Author URI is made of two elements: 
 		- `YEAR of DEATH` (always 4 digits, add zeros in the beginning for dates before 1000 AH)
 		- `SHUHRA` of the author
