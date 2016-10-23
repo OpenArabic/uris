@@ -17,7 +17,8 @@ URIs are made of two elements, separated by a period: `AuthorURI.TitleOfBook`
 		1. `#BookURI##===#` (no highlighting) — the `URI` for this book may be added
 		2. `#BookURI?##===#` (highlighted with black) — there is no need to add the `URI` for this book for now
 		3. `#BookURI-##===#` (highlighted with red) — there is no need to add the `URI` for this book for now
-6. **Adding the `URI`**
+
+6. **Adding `URIs`**
 	1. Make sure that the `URI` of an author does not exist, before creating one; the easiest way to do that is to search for the year of death in Annotation to OpenArabic https://github.com/OpenArabic/Annotation
 	2. If it exists, use the existing one; if not, you need to create one
 
