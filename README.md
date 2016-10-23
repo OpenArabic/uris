@@ -1,6 +1,6 @@
 # uris - metadata for assigning URIs
 
-# Workflow
+# General
 
 1. Use EditPadPro with OpenArabic mARkdown installed
 2. Open file `__Entire_Corpus_Working.txt` > text in the file should get automatically highlighted
@@ -13,7 +13,7 @@
 		2. `#BookURI?##===#` (highlighted with black) — there is no need to add the `URI` for this book for now
 		3. `#BookURI-##===#` (highlighted with red) — there is no need to add the `URI` for this book for now
 
-6. **Adding `URIs`**
+# **Adding `URIs`**
 	1. Make sure that the `URI` of an author does not exist, before creating one; the easiest way to do that is to search for the year of death in Annotation to OpenArabic https://github.com/OpenArabic/Annotation
 	2. If it exists, use the existing one; if not, you need to create one
 
@@ -24,9 +24,9 @@
 			2. If pre-hijri (for example, 56 before hijra), use `0001` 
 			3. If current time, use `1450`
 		3. Issues with **shuhra**: when it is difficult to identify the `SHUHRA`, use the following elements (as they seem to be present in the majority of records)
-			1. In this order of priority: `Laqab`, `Kunya`, `Nasab` (`Ibn Fulan`, where `Fulan` is the name of the father)
+			1. In this order of priority: `Laqab`, `Kunya`, `Nasab` (`Ibn Fulan`, where `Fulan` is the name of the father).
 			3. In this order of priority: `Nisba` geographical; `Nisba` religious; `Nisba` tribal
-			4. *Examples*: `0430AbuNucaymIsbahani`, `0463KhatibBaghdadi`, `0900AbuCabdAllahHimyari`
+			4. *Examples*: `0430AbuNucaymIsbahani`, `0463KhatibBaghdadi`, `0900AbuCabdAllahHimyari`.
 
 	4. **Creating Book URI**
 		1. Drop the word *kitāb* from the title
@@ -34,9 +34,11 @@
 		2. Use camelCase when connecting words, for example: *Taʾrīḫ al-islām* becomes `TarikhIslam`
 		2. Drop *hamza*s, for example: *Suʾāl*, becomes `Sual`
 		3. *ʿAyn*s are transliterated with `c` and capitalized when necessary, for example: ʿAlī becomes `Cali`; *iʿtidāl* becomes `Ictidal`
-		4. Otherwise, Library of Congress transliteration system
+		4. In everything else: Library of Congress transliteration system.
 
 	5. **Adding the URI to the record**
 		1. Replace `#BookURI##===#` with `#FOLDER#===#`
 		2. Insert the `URI` between `#FOLDER#===#` and `(TAGS: ...)`
-		3. if everything done correctly, the line will get highligted with orange 
+		3. if everything done correctly, the line will get highligted with orange.
+
+ 
