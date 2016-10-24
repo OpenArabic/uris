@@ -30,12 +30,14 @@
 		4. *Examples*: `0430AbuNucaymIsbahani`, `0463KhatibBaghdadi`, `0900AbuCabdAllahHimyari`.
 
 4. **Creating Book URI**
-	1. Drop the word *kitāb* from the title
+	1. Add the title to the `Author URI` — separated with a `period`.
+	2. Drop the word *kitāb* from the title
 	2. Abbreviate the title to the shortest meaningful string, for example: *al-Kāmil fī-l-taʾrīḫ* becomes `Kamil`
 	2. Use camelCase when connecting words, for example: *Taʾrīḫ al-islām* becomes `TarikhIslam`
 	2. Drop *hamza*s, for example: *Suʾāl*, becomes `Sual`
 	3. *ʿAyn*s are transliterated with `c` and capitalized when necessary, for example: ʿAlī becomes `Cali`; *iʿtidāl* becomes `Ictidal`
 	4. In everything else: Library of Congress transliteration system.
+	5. *Examples*: `0430AbuNucaymIsbahani.HilyaAwliya`, `0463KhatibBaghdadi.TarikhBaghdad`, `0900AbuCabdAllahHimyari.RawdMictar`
 
 5. **Adding the URI to the record**
 	1. Replace `#BookURI##===#` with `#FOLDER#===#`

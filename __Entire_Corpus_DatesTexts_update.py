@@ -48,4 +48,14 @@ with open("__Entire_Corpus_DatesTexts_2016_10_11_upd.txt", "r", encoding="utf8")
     with open("__Entire_Corpus_DatesTexts_2016_10_11_upd.txt" , "w", encoding="utf8") as f9:
         f9.write(ids)
 
+# Another list
+with open("__Entire_Corpus_DatesTexts_Simple.txt", "r", encoding="utf8") as f1:
+    ids = f1.read()
+
+    for a in added:
+        ids = ids.replace("\t%s\n" % a, "")
+
+    with open("__Entire_Corpus_DatesTexts_Simple.txt" , "w", encoding="utf8") as f9:
+        f9.write(ids)
+
 print("Processed!")
