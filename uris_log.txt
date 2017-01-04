@@ -1,0 +1,13 @@
+2017-01-03	2470 URIs created	2462 remains
+2017-01-03	2405 URIs created	2527 remains
+2016-12-10	2401 URIs created	2546 remains
+2016-12-09	2310 URIs created	2681 remains
+2016-12-08	2284 URIs created	2707 remains
+2016-12-08	2261 URIs created	2734 remains
+2016-12-07	2218 URIs created	2778 remains
+2016-12-06	2169 URIs created	2852 remains
+2016-12-05	2169 URIs created	2852 remains
+2016-12-04	2135 URIs created	2893 remains
+2016-12-03	2089 URIs created	5205 remains
+2016-12-02	2030 URIs created	5561 remains
+2016-12-01	2015 URIs created	5606 remains

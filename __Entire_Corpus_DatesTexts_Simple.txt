@@ -2,9 +2,6 @@
 
 #FOLDER#===# 0100AH -
 
-	JK_007525
-	JK_007526
-	JK_007527
 	Shia_000052
 	Shia_001354
 	Shia_001355
@@ -12,28 +9,19 @@
 	Shia_004006
 	Shia_004622
 	Shia_004623
-	JK_007521
-	JK_007532
-	JK_007532
 	Shamela_0023622
-	JK_007559
 	JK_007559
 	JK_007550
 	JK_007545
-	JK_007545
-	JK_007556
 	JK_007556
 	Shia_001112
 	Shia_003986
 	JK_007553
-	JK_007553
-
 
 #FOLDER#===# 0200AH -
 
 	Shia_001265
 	JK_007547
-	JK_007549
 	JK_007549
 	JK_001450
 	JK_007551
@@ -41,8 +29,6 @@
 	Shamela_0026887
 	JK_007546
 	Shia_003659
-	JK_000611
-	Shia_001877
 	JK_007627
 	Shamela_0029699
 	Shamela_0001342
@@ -56,8 +42,6 @@
 	Shamela_0006388
 	JK_000746
 	JK_001038
-	Shamela_0009862
-	Shia_003660Vols
 	Shamela_0005610
 	Shia_003665
 	Shia_001267
@@ -66,11 +50,8 @@
 	Shia_001879
 	Shamela_0029701
 	JK_000492
-	Shamela_0009556
-	Shamela_0012399
 	Shamela_0016050
 	Shia_001881
-	JK_007561
 	JK_007561
 	Shamela_0009412
 	JK_009218
@@ -80,11 +61,8 @@
 	Shamela_0037361
 	JK_007604
 	JK_007617
-	JK_007617
 	JK_007604
 	JK_007586
-	Shamela_0011783
-	Shamela_0012851
 	Shia_001113
 	Shia_001114
 	JK_000677
@@ -100,7 +78,6 @@
 	Shamela_0000263
 	Shia_003666
 	JK_007622
-	Shamela_0007450
 	JK_007622
 	JK_009193
 	Shamela_0013110
@@ -139,22 +116,12 @@
 	Shamela_0011037
 	Shamela_0012698
 	Shamela_0021627
-	JK_000786
 	JK_011413
-	Shamela_0007767
 	Shamela_0008219
-	Shamela_0009944
-	Shia_001904Vols
 	Shamela_0001423
 	Shamela_0007819
 	JK_012049
 	Shamela_0007610
-	Shamela_0012863
-	JK_000749
-	Shamela_0006044
-	Shamela_0008494
-	Shamela_0010272
-	Shamela_0095563
 	JK_000566
 	Shamela_0021799
 	JK_001170
@@ -166,14 +133,8 @@
 	Shamela_0029848
 	Shamela_0029707
 	Shamela_0029847
-	Shia_004484
-	JK_007528
 	Shamela_0021676
 	JK_006963
-	Shamela_0001341
-	Shamela_0001346
-	Shamela_0008223
-	Shamela_0009647
 	Shamela_0021724
 	Shamela_0005369
 	Shamela_0009313
@@ -205,7 +166,6 @@
 	Shamela_0013104
 	Shamela_0026550
 	Shamela_0026664
-	Shamela_0029711
 	JK_000528
 	JK_001283
 	Shamela_0009356
@@ -222,33 +182,12 @@
 	JK_000679
 	Shamela_0000700
 	Shamela_0013131
-	Shamela_0023777
 	JK_000575
 	JK_001333
 	JK_001435
 	Shamela_0013023
 	Shamela_0013168
-	JK_001127
-	JK_011115
-	Shamela_0006225
-	Shamela_0008061
-	Shamela_0008071
-	Shamela_0008230
-	Shamela_0008242
-	Shamela_0008254
-	Shamela_0008256
-	Shamela_0008259
-	Shamela_0008266
-	Shamela_0008273
-	Shamela_0009306
-	Shamela_0010628
-	Shamela_0011030
-	Shamela_0022347
 	Shamela_0026740
-	Shia_001934
-	Shia_001942
-	Shia_001945
-	Shia_001947
 	JK_001235
 	JK_007589
 	Shamela_0006206
@@ -257,10 +196,7 @@
 	Shamela_0026440
 	Shamela_0026592
 	Shamela_0008202
-	Shamela_0023600
 	Shamela_0026489
-	Shia_001270Vols
-	JK_007601
 	JK_007601
 	JK_001161
 	JK_006706
@@ -275,9 +211,7 @@
 	JK_011588
 	JK_011593
 	Shamela_0009317
-	Shamela_0012872
 	Shamela_0026470
-	Shamela_0029712
 	JK_010077
 	JK_010618
 	Shamela_0000618
@@ -290,7 +224,6 @@
 	Shia_001272
 	Shia_001273Vols
 	Shia_003987
-
 
 #FOLDER#===# 0300AH -
 
@@ -308,49 +241,20 @@
 	Shamela_0013050
 	Shamela_0013051
 	Shamela_0026595
-	Shamela_0009654
 	Shamela_0029702
-	JK_000130
-	JK_000475
-	JK_000669
-	JK_000703
-	JK_000723
-	JK_000735
 	JK_000836
-	JK_001079
-	JK_001202
-	JK_010206
 	JK_011291
-	Shamela_0000829
-	Shamela_0005507
-	Shamela_0005645
-	Shamela_0005705
-	Shamela_0006434
-	Shamela_0006772
 	Shamela_0008205
-	Shamela_0008225
-	Shamela_0008361
-	Shamela_0008623
-	Shamela_0021577
-	Shamela_0022643
-	Shamela_0026871
 	Shia_001740Vols
-	Shia_001964Vols
-	Shia_001970
 	Shia_001972
-	Shia_001973
-	Shia_001974
 	JK_010651
 	Shamela_0000651
 	Shamela_0009563
-	JK_000485
 	JK_000488
 	JK_000653
-	Shamela_0012520
 	Shamela_0013071
 	Shamela_0013161
 	Shamela_0026576
-	Shia_001976Vols
 	Shia_001989
 	Shamela_0009640
 	Shamela_0036950
@@ -380,10 +284,8 @@
 	Shamela_0121382
 	Shia_001993Vols
 	Shamela_0026443
-	JK_007067
 	JK_011321
 	Shamela_0008252
-	Shamela_0010704
 	Shamela_0012834
 	Shamela_0021488
 	Shia_003675Vols
@@ -393,13 +295,11 @@
 	JK_000795
 	JK_001130
 	JK_001327
-	JK_001486
 	JK_011319
 	Shamela_0007365
 	Shamela_0008251
 	Shamela_0013067
 	Shamela_0013167
-	Shamela_0021618
 	Shamela_0023408
 	Shia_001998
 	Shia_001999
@@ -439,40 +339,9 @@
 	Shamela_0021113
 	Shamela_0022549
 	Shamela_0119492
-	JK_000947
 	JK_009291
-	JK_010216
-	JK_010652
 	Shamela_0000564
-	Shamela_0000652
-	Shamela_0006893
-	Shamela_0025950
-	Shamela_0037033
-	Shamela_0037054
 	Shia_002335Vols
-	Shia_004668
-	JK_000126
-	JK_000292
-	JK_000469
-	JK_007043
-	JK_007100
-	JK_009327
-	JK_010593
-	JK_010653
-	JK_010676
-	Shamela_0000593
-	Shamela_0006222
-	Shamela_0007032
-	Shamela_0009211
-	Shamela_0009380
-	Shamela_0009568
-	Shamela_0010765
-	Shamela_0021108
-	Shamela_0022547
-	Shamela_0026237
-	Shamela_0026986
-	Shamela_0030526
-	Shia_002003Vols
 	JK_007023
 	JK_010734
 	Shamela_0000734
@@ -493,31 +362,7 @@
 	Shamela_0026102
 	Shamela_0026567
 	Shamela_0117366
-	Shamela_0117366
-	JK_000048
-	JK_000682
-	JK_000743
-	JK_001171
-	JK_006474
-	JK_009207
-	JK_011273
-	JK_011598
-	Shamela_0001304
-	Shamela_0001350
-	Shamela_0001485
-	Shamela_0006046
-	Shamela_0008243
-	Shamela_0008658
-	Shamela_0009595
-	Shamela_0009699
-	Shamela_0011930
-	Shamela_0013140
-	Shamela_0028183
 	Shia_002008
-	Shia_002498Vols
-	JK_006922
-	Shamela_0005644
-	Shamela_0026738
 	JK_000752
 	JK_009163
 	Shamela_0005776
@@ -551,9 +396,7 @@
 	Shamela_0030384
 	JK_000339
 	JK_001438
-	JK_007082
 	Shamela_0006365
-	Shamela_0009948
 	Shamela_0013111
 	Shamela_0095590
 	Shia_003683
@@ -662,13 +505,10 @@
 	JK_000919
 	JK_009164
 	JK_009369
-	JK_010351
 	Shamela_0006934
 	Shamela_0009160
 	Shamela_0009221
-	Shamela_0012404
 	Shamela_0026556
-	Shia_001277
 	JK_000491
 	JK_007584
 	Shamela_0013100
@@ -681,59 +521,20 @@
 	Shamela_0029897
 	Shamela_0029898
 	Shia_002031
-	JK_000039
 	JK_000422
-	JK_000478
 	JK_000598
-	JK_000599
-	JK_000608
-	JK_000638
-	JK_000675
 	JK_000771
-	JK_001332
 	JK_007626
-	JK_009158
-	JK_010260
-	JK_011455
-	JK_011560
-	JK_011642
-	Shamela_0000720
-	Shamela_0001311
-	Shamela_0001353
-	Shamela_0001428
-	Shamela_0006233
-	Shamela_0008204
-	Shamela_0008222
-	Shamela_0008239
-	Shamela_0008245
 	Shamela_0009065
-	Shamela_0009324
-	Shamela_0009512
-	Shamela_0010531
-	Shamela_0012745
-	Shamela_0012746
-	Shamela_0012864
-	Shamela_0012989
-	Shamela_0013016
-	Shamela_0013035
-	Shamela_0013045
 	Shamela_0013059
 	Shamela_0013083
-	Shamela_0013130
-	Shamela_0013162
-	Shamela_0026474
-	Shamela_0026743
-	Shamela_0028925
 	Shamela_0029781
 	Shamela_0029867
 	Shamela_0029868
-	Shia_002032
 	Shia_002033
 	Shia_002065
 	Shia_002066
-	Shia_002067
 	Shia_002068
-	Shia_002069Vols
 	JK_007626
 	JK_010099
 	Shamela_0000099
@@ -801,7 +602,6 @@
 	Shamela_0010806
 	Shamela_0010488
 	Shamela_0023594
-	Shamela_0029727
 	JK_010226
 	Shamela_0000226
 	Shamela_0022381
@@ -854,22 +654,7 @@
 	Shamela_0026500
 	Shamela_0029942
 	Shamela_0036104
-	Shia_000003
-	Shia_000004
-	Shia_001134
-	Shia_001135
-	Shia_001136
-	Shia_001137
-	Shia_001138
-	Shia_001139
-	Shia_001140Vols
-	Shia_001142Vols
-	Shia_001144
-	Shia_001145
-	Shia_001146
 	Shia_001147
-	Shia_001148
-	Shia_001149Vols
 	Shia_002074
 	Shia_002075
 	JK_000173
@@ -899,61 +684,17 @@
 	Shia_001282Vols
 	Shia_003993
 	Shia_003994
-	JK_000329
-	JK_000424
-	JK_000477
-	JK_000522
 	JK_000529
-	JK_000579
-	JK_000604
-	JK_000652
-	JK_000928
-	JK_001143
 	JK_007611
-	JK_009188
 	JK_009326
-	JK_009399
 	JK_010425
-	JK_011444
-	JK_011503
-	JK_011562
-	JK_011570
 	Shamela_0000083
-	Shamela_0001518
-	Shamela_0005651
-	Shamela_0008209
-	Shamela_0008226
-	Shamela_0008238
-	Shamela_0008338
-	Shamela_0009082
-	Shamela_0009434
-	Shamela_0009449
-	Shamela_0009771
-	Shamela_0010843
-	Shamela_0011331
 	Shamela_0011433
-	Shamela_0013038
-	Shamela_0013074
-	Shamela_0013097
-	Shamela_0013124
-	Shamela_0013184
-	Shamela_0021474
-	Shamela_0021794
-	Shamela_0022418
-	Shamela_0026441
-	Shamela_0026514
-	Shamela_0026517
-	Shamela_0030361
-	Shamela_0030375
-	Shamela_0030609
 	Shamela_0037056
 	Shamela_0037460
 	Shamela_0037461
 	Shamela_0037487
 	Shia_002082
-	Shia_002083Vols
-	Shia_002087
-	Shia_002088
 	Shia_003117Vols
 	JK_007611
 	JK_000171
@@ -995,47 +736,19 @@
 	Shia_002090
 	Shia_000903
 	JK_001096
-	JK_010552
 	Shamela_0006861
-	Shamela_0007301
 	Shamela_0009564
-	JK_000956
-	JK_001134
-	JK_001272
-	JK_001302
-	JK_001326
-	JK_001497
-	JK_006987
-	JK_010614
 	JK_010638
-	JK_010668
 	Shamela_0000489
-	Shamela_0000668
-	Shamela_0006917
-	Shamela_0006979
-	Shamela_0006987
-	Shamela_0006994
-	Shamela_0006995
-	Shamela_0008660
-	Shamela_0009244
-	Shamela_0009986
-	Shamela_0010545
-	Shamela_0012017
 	Shamela_0027093
 	Shamela_0029734
 	JK_010776
-	Shamela_0008233
-	Shamela_0009107
 	Shamela_0023235
 	Shamela_0028100
 	Shamela_0031373
 	Shia_003906Vols
 	Shamela_0026545
-	JK_000248
-	JK_000384
-	JK_000570
 	JK_000587
-	JK_000714
 	JK_006910
 	JK_006921
 	JK_008008
@@ -1043,28 +756,18 @@
 	JK_010092
 	JK_010370
 	JK_010560
-	JK_011329
 	Shamela_0001736
-	Shamela_0003976
-	Shamela_0006015
 	Shamela_0006897
 	Shamela_0006909
 	Shamela_0006933
-	Shamela_0008210
 	Shamela_0009252
 	Shamela_0009347
 	Shamela_0009977
 	Shamela_0010414
 	Shamela_0010529
-	Shamela_0013005
-	Shamela_0013022
-	Shamela_0013153
-	Shamela_0021663
 	Shamela_0021710
 	Shamela_0023787
 	Shamela_0026675
-	Shamela_0029737
-	Shamela_0030769
 	Shamela_0037586
 	Shia_002091
 	Shia_003912
@@ -1100,7 +803,6 @@
 	Shia_001287
 	Shia_002092
 
-
 #FOLDER#===# 0400AH -
 
 	Shia_001288
@@ -1132,8 +834,6 @@
 	Shia_001155
 	Shia_001156
 	Shia_002340
-	Shamela_0023644
-	Shamela_0012852
 	JK_000395
 	JK_000683
 	Shamela_0001139
@@ -1166,72 +866,24 @@
 	Shia_002527Vols
 	Shamela_0029746
 	Shamela_0030435
-	Shia_000006
-	Shia_000007
-	Shia_000008
-	Shia_000009
-	Shia_000010
-	Shia_000012
-	Shia_000013
-	Shia_000014
-	Shia_000015
-	Shia_000016
-	Shia_001291
-	Shia_001292
-	Shia_001293
-	Shia_001296
-	Shia_001297
-	Shia_001298
-	Shia_001300
-	Shia_001301
-	Shia_001302
 	Shia_001303
-	Shia_001304
-	Shia_001305
-	Shia_001306
-	Shia_001307
-	Shia_001308
-	Shia_001309
-	Shia_001310
-	Shia_001311
-	Shia_001312
-	Shia_001313Vols
-	Shia_001317
-	Shia_001318
-	Shia_001319
-	Shia_001320
-	Shia_001321
-	Shia_001322Vols
-	Shia_002745
-	Shia_003687
-	Shia_003995
 	JK_000600
-	JK_000624
-	JK_000738
 	JK_009216
 	Shamela_0003548
-	Shamela_0009368
 	Shamela_0009754
 	Shamela_0013146
-	Shamela_0013147
-	Shamela_0013164
 	Shamela_0021702
 	Shamela_0026395
 	Shamela_0029747
 	Shia_002094
-	Shia_002095
 	Shamela_0008534
 	Shamela_0009383
 	Shamela_0009789
 	Shamela_0026562
 	Shamela_0030399
 	Shamela_0008232
-	JK_000326
-	JK_000764
 	JK_001314
 	Shamela_0007229
-	Shamela_0009200
-	Shamela_0013150
 	JK_001314
 	Shamela_0029749
 	JK_011024
@@ -1241,20 +893,12 @@
 	Shamela_0030586
 	Shamela_0030587
 	JK_009255
-	JK_009302
 	JK_010252
-	JK_010521
-	JK_010722
-	Shamela_0000722
 	Shamela_0004135
-	Shamela_0007853
 	Shamela_0012720
-	Shamela_0026536
 	Shamela_0007262
 	Shamela_0026533
 	Shamela_0026584
-	JK_010672
-	Shamela_0000672
 	Shamela_0005723
 	Shamela_0011237
 	Shamela_0029751
@@ -1264,65 +908,20 @@
 	JK_007570
 	JK_010545
 	Shamela_0012858
-	JK_001313
-	JK_007093
-	Shamela_0002491
 	Shamela_0021691
-	Shamela_0023578
-	Shia_002529Vols
-	JK_001037
 	JK_006965
-	JK_007079
-	JK_010704
 	Shamela_0006311
-	Shamela_0006534
-	Shamela_0007227
-	Shamela_0010706
 	Shamela_0029752
-	Shia_004669Vols
 	JK_000334
 	Shamela_0006520
 	Shamela_0010269
-	JK_000596
-	JK_000736
-	JK_000848
-	JK_000860
-	JK_000977
-	JK_009155
-	JK_009185
 	JK_010640
 	JK_011454
-	JK_011458
-	JK_011498
-	JK_011558
 	Shamela_0000640
 	Shamela_0001453
-	Shamela_0005562
-	Shamela_0006449
-	Shamela_0006721
-	Shamela_0008221
-	Shamela_0008237
-	Shamela_0008246
-	Shamela_0009312
-	Shamela_0009416
-	Shamela_0009853
-	Shamela_0010637
-	Shamela_0010659
 	Shamela_0011431
 	Shamela_0012842
-	Shamela_0013118
-	Shamela_0013141
-	Shamela_0021485
-	Shamela_0021602
-	Shamela_0021783
-	Shamela_0026429
-	Shamela_0027105
-	Shamela_0029766
 	Shamela_0029888
-	Shamela_0030552
-	Shia_002096
-	Shia_002098
-	Shia_002099
 	JK_010752
 	Shamela_0000752
 	Shamela_0029767
@@ -1332,7 +931,6 @@
 	JK_001095
 	Shamela_0009855
 	Shamela_0013143
-	Shamela_0037837
 	JK_000231
 	Shamela_0006319
 	Shia_000017
@@ -1368,8 +966,6 @@
 	JK_000605
 	Shamela_0012721
 	Shamela_0022334
-	Shamela_0037065
-	Shamela_0037327
 	Shia_002100
 	JK_000586
 	Shamela_0008272
@@ -1390,40 +986,19 @@
 	Shamela_0008173
 	Shia_000024
 	JK_009234
-	JK_009294
-	JK_009324
 	JK_010612
 	JK_010753
 	JK_010780
-	Shamela_0000563
 	Shamela_0000612
 	Shamela_0000753
 	Shamela_0000780
 	Shamela_0001589
-	Shamela_0010486
-	Shamela_0012817
 	Shia_001330
 	Shia_001331
 	Shia_001332
 	Shia_001333
 	Shia_004001
 	Shia_004002
-	JK_000290
-	JK_000545
-	JK_001238
-	JK_001269
-	JK_001309
-	JK_009139
-	JK_009396
-	JK_011658
-	Shamela_0000765
-	Shamela_0006120
-	Shamela_0006157
-	Shamela_0007239
-	Shamela_0007242
-	Shamela_0008346
-	Shamela_0009768
-	Shamela_0022881
 	Shamela_0012742
 	Shamela_0029948
 	Shamela_0029951
@@ -1432,11 +1007,6 @@
 	Shamela_0029959
 	Shamela_0029960
 	Shamela_0029961
-	JK_009230
-	JK_010621
-	Shamela_0000621
-	Shamela_0005351
-	Shamela_0010768
 	JK_000480
 	JK_008000
 	Shamela_0001600
@@ -1454,172 +1024,33 @@
 	Shamela_0012228
 	Shamela_0037025
 	Shamela_0037491
-	JK_000122
-	JK_000182
-	JK_000229
-	JK_000283
-	JK_000343
-	JK_000426
-	JK_000452
-	JK_000538
-	JK_001284
-	JK_009305
-	JK_009337
-	JK_009338
-	JK_009339
-	JK_009342
-	JK_009345
-	JK_009346
-	JK_009347
-	JK_009348
-	JK_009349
-	JK_009350
-	JK_009351
-	JK_009352
-	JK_009353
-	JK_009355
-	JK_011036
-	Shamela_0000767
-	Shamela_0001028
-	Shamela_0001036
-	Shamela_0002216
-	Shamela_0006321
-	Shamela_0006521
-	Shamela_0006874
-	Shamela_0009728
-	Shamela_0010432
-	Shamela_0010518
-	Shamela_0012446
-	Shamela_0013109
-	Shia_001028Vols
-	Shia_002540
-	Shia_002905Vols
 	Shamela_0012749
-	JK_000021
-	JK_000024
-	JK_000314
-	JK_000484
-	JK_000631
-	JK_000711
-	JK_000728
-	JK_000733
 	JK_000849
 	JK_000909
-	JK_000949
-	JK_001288
 	JK_001316
 	JK_006962
-	JK_007027
 	JK_007038
-	JK_007124
-	JK_009179
 	JK_010775
-	JK_011283
-	JK_011320
-	JK_011331
 	Shamela_0000775
-	Shamela_0001378
-	Shamela_0002863
-	Shamela_0003328
 	Shamela_0003590
 	Shamela_0006983
 	Shamela_0007243
-	Shamela_0007531
-	Shamela_0007861
-	Shamela_0008203
-	Shamela_0008258
-	Shamela_0008970
-	Shamela_0009292
-	Shamela_0009300
 	Shamela_0009757
-	Shamela_0010660
-	Shamela_0012415
-	Shamela_0012992
-	Shamela_0013025
-	Shamela_0013053
-	Shamela_0013061
-	Shamela_0013085
-	Shamela_0013114
-	Shamela_0013134
 	Shamela_0022793
 	Shamela_0022877
 	Shamela_0022921
 	Shamela_0026579
-	Shamela_0027089
 	Shamela_0029876
-	Shia_001754Vols
-	Shia_002105
-	Shia_002106
-	Shia_002107
-	Shia_002108Vols
 	Shamela_0026566
-	JK_000032
-	JK_010709
 	JK_010786
 	Shamela_0000786
-	Shamela_0006869
 	Shamela_0021664
-	Shia_000025
-	Shia_000026Vols
-	Shia_000032
-	Shia_000033Vols
-	Shia_000041
-	Shia_000042
-	Shia_001157Vols
-	Shia_001161Vols
-	Shia_001334
-	Shia_001335
-	Shia_002341Vols
-	Shia_002748Vols
-	Shia_002750Vols
-	Shia_002934
 	Shamela_0030388
-	JK_000135
-	JK_000275
-	JK_000607
-	JK_000627
-	JK_000632
-	JK_000636
-	JK_000720
 	JK_000727
-	JK_000761
-	JK_000776
-	JK_000837
-	JK_007078
 	JK_007596
-	JK_009142
-	JK_009186
-	JK_009195
 	JK_009382
 	JK_010637
-	Shamela_0001932
-	Shamela_0005428
-	Shamela_0005646
-	Shamela_0005673
-	Shamela_0005815
-	Shamela_0006025
-	Shamela_0006353
-	Shamela_0010842
 	Shamela_0010909
-	Shamela_0012985
-	Shamela_0013012
-	Shamela_0013020
-	Shamela_0013048
-	Shamela_0013055
-	Shamela_0013089
-	Shamela_0013125
-	Shamela_0021475
-	Shamela_0021491
-	Shamela_0022551
-	Shamela_0026373
-	Shamela_0026750
-	Shamela_0029892
-	Shamela_0030025
-	Shia_002116
-	Shia_002156
-	Shia_002158
-	Shia_002161
-	Shia_002162
 	JK_007596
 	JK_009257
 	JK_009321
@@ -1652,20 +1083,12 @@
 	Shamela_0029922
 	Shamela_0038186
 	JK_000051
-	JK_001019
 	JK_001248
-	JK_006906
 	Shamela_0006376
 	Shamela_0006782
-	Shamela_0008187
-	Shamela_0011562
-	Shamela_0012055
-	Shamela_0022664
 	Shamela_0026660
 	Shamela_0029984
 	Shamela_0029991
-	Shamela_0037697
-	JK_007594
 	JK_007594
 	JK_001285
 	Shamela_0006684
@@ -1707,7 +1130,6 @@
 	Shia_004493
 	Shamela_0009066
 	JK_007573
-	Shamela_0005363
 	JK_000052
 	JK_000317
 	JK_000392
@@ -1729,11 +1151,7 @@
 	Shamela_0026456
 	Shia_000923Vols
 	Shia_003154Vols
-	JK_000419
-	JK_000563
 	Shamela_0001150
-	Shamela_0008345
-	Shamela_0009608
 	Shamela_0011253
 	Shamela_0026926
 	JK_000974
@@ -1743,12 +1161,6 @@
 	Shamela_0001586
 	Shamela_0006752
 	Shamela_0012287
-	JK_001211
-	JK_007065
-	Shamela_0005567
-	Shamela_0007014
-	Shamela_0009357
-	Shamela_0010025
 	Shamela_0029773
 	JK_000969
 	JK_001304
@@ -1807,7 +1219,6 @@
 	JK_001246
 	JK_000840
 	JK_009304
-	JK_009391
 	Shamela_0010911
 	Shamela_0026549
 	Shamela_0026886
@@ -1817,55 +1228,27 @@
 	Shia_002550Vols
 	Shia_002936
 
-
 #FOLDER#===# 0500AH -
 
-	JK_001150
-	JK_006919
-	JK_010181
-	Shamela_0001390
 	Shamela_0006907
-	Shamela_0009078
-	Shamela_0009231
-	Shamela_0021562
-	Shamela_0023636
 	Shamela_0037488
-	Shia_002552
 	Shamela_0023582
 	JK_000463
 	Shamela_0003580
 	Shamela_0012820
 	Shia_004004
 	Shia_004005
-	JK_000767
-	JK_000853
 	JK_001199
-	JK_005006
-	JK_005019
-	JK_005020
 	JK_007591
 	JK_008003
-	JK_009178
-	Shamela_0001578
 	Shamela_0005695
-	Shamela_0005996
-	Shamela_0006002
-	Shamela_0006060
-	Shamela_0006080
-	Shamela_0006083
-	Shamela_0006277
-	Shamela_0026591
-	Shamela_0026876
 	Shamela_0029778
 	JK_001297
 	Shamela_0006072
 	JK_001253
-	Shamela_0000041
 	Shamela_0006768
-	Shamela_0012217
 	Shamela_0026209
 	Shamela_0026588
-	Shia_002553Vols
 	Shamela_0009628
 	Shamela_0030027
 	Shamela_0009394
@@ -1874,18 +1257,13 @@
 	Shamela_0009096
 	Shamela_0012050
 	Shamela_0012857
-	JK_000464
 	JK_001016
-	JK_009152
 	JK_009202
 	JK_009281
-	Shamela_0003637
 	Shamela_0006920
 	Shamela_0007840
-	Shamela_0007891
 	Shamela_0009594
 	Shamela_0009622
-	Shamela_0010803
 	Shamela_0026585
 	JK_000882
 	Shamela_0012929
@@ -1906,7 +1284,6 @@
 	Shamela_0006461
 	Shamela_0021673
 	Shamela_0029726
-	Shia_003692
 	Shamela_0006117
 	Shamela_0022852
 	Shamela_0029782
@@ -1920,13 +1297,6 @@
 	Shamela_0010444
 	Shamela_0026654
 	Shamela_0037610
-	JK_009160
-	Shamela_0006446
-	Shamela_0021680
-	Shamela_0026542
-	Shamela_0026884
-	Shamela_0029900
-	Shamela_0036506
 	Shamela_0026481
 	Shamela_0029902
 	Shamela_0121376
@@ -1962,7 +1332,6 @@
 	Shamela_0029783
 	Shamela_0029903
 	Shamela_0029904
-	JK_000287
 	Shamela_0026862
 	Shamela_0000740
 	Shamela_0005354
@@ -2024,7 +1393,6 @@
 	Shamela_0026378
 	Shamela_0026665
 	Shamela_0029932
-	Shamela_0026437
 	Shia_003697
 	JK_001050
 	Shamela_0011681
@@ -2036,20 +1404,6 @@
 	Shamela_0012757
 	JK_010670
 	Shamela_0000670
-	Shamela_0009371
-	Shamela_0022053
-	Shamela_0026467
-	Shamela_0026468
-	Shamela_0026469
-	Shamela_0026501
-	Shamela_0026707
-	Shamela_0026719
-	Shamela_0026735
-	Shamela_0026742
-	Shamela_0026851
-	Shamela_0026861
-	Shamela_0026866
-	Shamela_0029789
 	Shia_001343
 	JK_007575
 	Shamela_0009450
@@ -2059,36 +1413,12 @@
 	Shamela_0023358
 	Shia_000047
 	Shia_001344Vols
-	Shia_001347
 	Shia_002369Vols
 	Shia_003700
 	JK_001207
 	Shamela_0007375
 	JK_000610
-	JK_001154
-	Shamela_0001093
-	Shamela_0005706
 	Shamela_0009372
-	Shamela_0009448
-	Shamela_0009452
-	Shamela_0009634
-	Shamela_0012883
-	Shamela_0026658
-	Shamela_0026670
-	Shamela_0026985
-	Shamela_0027087
-	Shamela_0029790
-	Shamela_0030024
-	Shamela_0030047
-	Shamela_0030092
-	Shamela_0030095
-	Shamela_0030240
-	Shamela_0030622
-	Shamela_0030623
-	Shamela_0030625
-	Shamela_0030626
-	Shamela_0030628
-	Shamela_0030631
 	Shia_002175
 	JK_000955
 	JK_001424
@@ -2100,20 +1430,6 @@
 	JK_008004
 	Shamela_0012845
 	Shamela_0026426
-	Shamela_0096233
-	JK_000030
-	JK_000301
-	JK_001463
-	JK_009141
-	Shamela_0000613
-	Shamela_0001514
-	Shamela_0004289
-	Shamela_0006251
-	Shamela_0006862
-	Shamela_0006864
-	Shamela_0009734
-	Shamela_0029793
-	Shamela_0030324
 	JK_006917
 	Shamela_0006922
 	Shamela_0007060
@@ -2150,21 +1466,9 @@
 	Shamela_0006371
 	Shamela_0011370
 	Shamela_0011820
-	JK_000222
-	JK_010686
-	JK_010698
-	Shamela_0000698
-	Shamela_0001703
 	Shamela_0006439
-	Shamela_0009707
-	Shamela_0009737
-	Shamela_0012727
-	Shamela_0021503
-	Shamela_0021739
-	Shia_001039Vols
 	Shamela_0006429
 	JK_007625
-	JK_009242
 	JK_010732
 	Shamela_0000732
 	Shamela_0011372
@@ -2174,34 +1478,8 @@
 	Shia_001352
 	Shia_002179
 	Shamela_0030731
-	JK_000672
-	JK_001266
-	JK_001277
-	Shamela_0001441
-	Shamela_0006075
-	Shamela_0006749
-	Shamela_0006900
-	Shamela_0007546
-	Shamela_0009074
 	Shamela_0009250
 	Shamela_0009376
-	Shamela_0009381
-	Shamela_0009390
-	Shamela_0009561
-	Shamela_0010482
-	Shamela_0011279
-	Shamela_0012736
-	Shamela_0022645
-	Shamela_0026390
-	Shamela_0026710
-	Shamela_0026747
-	Shamela_0029794
-	Shamela_0030266
-	Shamela_0030314
-	Shamela_0030346
-	Shamela_0030617
-	Shamela_0030657
-	Shamela_0038202
 	Shia_001353
 	Shia_002181
 	Shia_002371
@@ -2214,8 +1492,6 @@
 	JK_010570
 	Shamela_0022712
 	Shamela_0023119
-	JK_006908
-	Shamela_0006902
 	JK_001174
 	Shamela_0008459
 	Shia_001357
@@ -2229,7 +1505,6 @@
 	JK_001264
 	Shamela_0006470
 
-
 #FOLDER#===# 0600AH -
 
 	Shamela_0026490
@@ -2237,39 +1512,9 @@
 	Shamela_0009374
 	Shia_002182
 	JK_007593
-	JK_007593
-	JK_000154
-	JK_000156
-	JK_000254
-	JK_000328
-	JK_000335
-	JK_000337
-	JK_000352
-	JK_000430
 	JK_000574
-	JK_000671
-	JK_000941
 	Shamela_0001449
-	Shamela_0005554
-	Shamela_0006425
-	Shamela_0006467
 	Shamela_0006596
-	Shamela_0006763
-	Shamela_0007268
-	Shamela_0008463
-	Shamela_0009384
-	Shamela_0011218
-	Shamela_0011315
-	Shamela_0011317
-	Shamela_0011417
-	Shamela_0012010
-	Shamela_0021731
-	Shamela_0023745
-	Shamela_0026075
-	Shamela_0030317
-	Shamela_0030855
-	Shia_000998Vols
-	Shia_002183
 	JK_005016
 	Shamela_0005433
 	Shamela_0006065
@@ -2293,7 +1538,6 @@
 	JK_007597
 	Shamela_0005548
 	Shamela_0007240
-	Shamela_0026370
 	Shamela_0030518
 	JK_007597
 	JK_000149
@@ -2309,11 +1553,8 @@
 	Shamela_0000093
 	Shamela_0009593
 	Shamela_0023163
-	JK_001294
 	JK_010427
 	Shamela_0000242
-	Shamela_0009770
-	Shamela_0030665
 	Shamela_0012847
 	Shamela_0026560
 	JK_009237
@@ -2322,49 +1563,11 @@
 	Shia_004687Vols
 	JK_000280
 	JK_000537
-	JK_000782
-	JK_001028
-	JK_001429
-	JK_010136
-	Shamela_0000178
-	Shamela_0001875
-	Shamela_0003128
-	Shamela_0004425
-	Shamela_0005400
-	Shamela_0006404
-	Shamela_0009385
 	Shamela_0009398
-	Shamela_0009618
-	Shamela_0009624
-	Shamela_0009831
-	Shamela_0010460
-	Shamela_0010480
-	Shamela_0010720
-	Shamela_0011771
-	Shamela_0012735
-	Shamela_0012740
-	Shamela_0021626
-	Shamela_0021635
 	Shamela_0022870
 	Shamela_0023799
-	Shamela_0026339
 	Shamela_0026554
 	Shamela_0026662
-	Shamela_0026733
-	Shamela_0027095
-	Shamela_0029413
-	Shamela_0029428
-	Shamela_0029449
-	Shamela_0029458
-	Shamela_0029653
-	Shamela_0029738
-	Shamela_0029937
-	Shamela_0030003
-	Shamela_0030021
-	Shamela_0030134
-	Shamela_0030242
-	Shamela_0030294
-	Shamela_0037653
 	Shia_002184
 	Shia_003235
 	Shamela_0037057
@@ -2373,7 +1576,6 @@
 	JK_001223
 	JK_006903
 	JK_009151
-	JK_009278
 	JK_010719
 	Shamela_0000719
 	Shamela_0006196
@@ -2389,9 +1591,7 @@
 	Shamela_0000761
 	Shamela_0006070
 	Shamela_0006974
-	Shamela_0009389
 	Shamela_0023427
-	Shamela_0026471
 	JK_011032
 	Shamela_0001032
 	Shia_003702
@@ -2436,24 +1636,7 @@
 	Shamela_0002749
 	Shia_002206
 	Shia_004485
-	Shia_001362Vols
-	Shia_001365
-	Shia_001366
-	Shia_001367
-	Shia_001368
-	Shia_001369
-	Shia_001370
-	Shia_001371
-	Shia_001372
-	Shia_001373
-	Shia_001374
-	Shia_001375
-	Shia_001376
-	Shia_001377
 	Shia_003704
-	Shia_003705
-	Shia_003706
-	Shia_004007
 	JK_000206
 	JK_000873
 	JK_001292
@@ -2474,15 +1657,8 @@
 	Shamela_0021703
 	Shamela_0008667
 	Shamela_0037489
-	JK_000160
-	JK_000333
-	Shamela_0006517
-	Shamela_0020855
-	Shamela_0021536
-	Shamela_0026047
 	Shamela_0026557
 	Shamela_0029466
-	Shia_002616Vols
 	JK_000647
 	JK_000739
 	JK_001027
@@ -2497,7 +1673,6 @@
 	Shamela_0098123
 	JK_007066
 	Shamela_0009681
-	Shia_004691
 	Shamela_0026924
 	Shia_000053
 	Shia_000054
@@ -2518,7 +1693,6 @@
 	JK_011153
 	Shamela_0001153
 	Shia_001010Vols
-	Shia_002637Vols
 	JK_007008
 	JK_007017
 	JK_009404
@@ -2536,25 +1710,6 @@
 	Shamela_0009879
 	Shamela_0021813
 	Shamela_0026641
-	JK_000128
-	JK_009214
-	JK_010665
-	Shamela_0000665
-	Shamela_0009100
-	Shamela_0009799
-	Shamela_0023588
-	JK_007036
-	Shamela_0006226
-	Shamela_0021567
-	Shamela_0026669
-	Shamela_0026723
-	Shamela_0026764
-	Shia_003928Vols
-	Shia_003932Vols
-	JK_009287
-	JK_010240
-	Shamela_0000240
-	Shamela_0000802
 	JK_007607
 	Shamela_0010091
 	Shamela_0030696
@@ -2565,14 +1720,10 @@
 	Shia_004010
 	JK_000790
 	Shia_000063Vols
-	JK_000648
 	JK_010724
 	JK_010764
 	Shamela_0000724
 	Shamela_0000764
-	Shamela_0006028
-	Shia_002209
-	Shia_001380
 	JK_001117
 	Shamela_0006583
 	JK_000236
@@ -2594,7 +1745,6 @@
 	Shia_004011
 	Shia_004012
 
-
 #FOLDER#===# 0700AH -
 
 	JK_010644
@@ -2610,19 +1760,12 @@
 	Shamela_0005968
 	Shamela_0011244
 	Shamela_0030246
-	Shamela_0010447
-	Shamela_0022301
-	Shamela_0026565
-	Shamela_0030558
-	Shamela_0030700
 	Shia_003711
 	Shamela_0001388
 	Shamela_0001419
 	JK_000277
 	JK_009323
-	JK_010372
 	Shamela_0011809
-	Shamela_0012400
 	JK_000876
 	Shamela_0001394
 	Shamela_0026925
@@ -2636,111 +1779,28 @@
 	Shamela_0011750
 	Shamela_0010781
 	Shamela_0037713
-	JK_010627
-	JK_010771
-	Shamela_0000771
-	Shamela_0001349
 	Shamela_0029481
 	JK_007109
 	Shamela_0007341
 	Shamela_0027085
 	JK_000107
-	JK_000590
 	Shamela_0001594
-	Shamela_0006011
-	Shamela_0012532
 	Shia_003951
 	Shamela_0011371
 	Shamela_0021509
-	JK_010321
-	Shamela_0000321
 	Shamela_0027101
-	JK_009244
-	Shia_000066Vols
-	Shia_000068
-	Shia_000069
-	Shia_000070Vols
-	Shia_000075Vols
-	Shia_000089Vols
-	Shia_000091Vols
-	Shia_000094Vols
-	Shia_000103Vols
-	Shia_000107Vols
-	Shia_000109Vols
-	Shia_001384
-	Shia_002754
-	Shia_002939
-	Shia_003712
-	Shia_004013
-	Shia_004014Vols
-	Shia_004015
-	Shia_004016
-	Shia_004017
-	Shia_004018
-	Shia_004019
-	Shia_004020
 	JK_001419
 	JK_000380
-	JK_000898
-	JK_000899
-	JK_000900
 	JK_000901
-	JK_000902
-	JK_000903
-	JK_000904
-	JK_000905
-	JK_001440
-	JK_006983
-	JK_006984
 	JK_009268
 	JK_010414
 	Shamela_0000264
 	Shamela_0000301
-	Shamela_0000327
-	Shamela_0000792
-	Shamela_0001463
-	Shamela_0002864
-	Shamela_0002908
-	Shamela_0004118
-	Shamela_0007564
-	Shamela_0007631
-	Shamela_0008596
-	Shamela_0008630
-	Shamela_0008983
-	Shamela_0009370
-	Shamela_0010784
-	Shamela_0011162
-	Shamela_0011216
-	Shamela_0011238
-	Shamela_0011240
-	Shamela_0011251
-	Shamela_0011258
-	Shamela_0011285
-	Shamela_0011288
-	Shamela_0011290
-	Shamela_0011578
-	Shamela_0012081
-	Shamela_0012153
-	Shamela_0012769
-	Shamela_0021499
-	Shamela_0021565
-	Shamela_0021578
-	Shamela_0022647
-	Shamela_0022648
-	Shamela_0022650
-	Shamela_0022651
-	Shamela_0022665
-	Shamela_0022666
-	Shamela_0022667
-	Shamela_0022668
-	Shamela_0022808
 	Shamela_0025814
 	Shamela_0025863
 	Shamela_0027248
 	Shamela_0036155
 	Shamela_0036551
-	Shamela_0038157
-	Shamela_0096844
 	JK_011677
 	Shamela_0010526
 	JK_007126
@@ -2759,9 +1819,7 @@
 	Shamela_0029802
 	JK_006902
 	Shamela_0006255
-	Shamela_0023653
 	Shamela_0036626
-	Shia_003714Vols
 	JK_007084
 	Shamela_0011406
 	JK_000454
@@ -2769,7 +1827,6 @@
 	JK_001188
 	Shamela_0005724
 	Shamela_0006603
-	Shamela_0007380
 	JK_000253
 	JK_000803
 	JK_001099
@@ -2778,8 +1835,6 @@
 	Shamela_0006649
 	Shamela_0008360
 	Shamela_0023626
-	Shamela_0023628
-	Shamela_0029864
 	Shia_002645Vols
 	Shamela_0011385
 	Shamela_0012846
@@ -2787,17 +1842,6 @@
 	Shamela_0095571
 	JK_005200
 	Shamela_0023023
-	JK_000363
-	JK_001226
-	JK_006803
-	JK_007083
-	JK_007091
-	Shamela_0005918
-	Shamela_0006366
-	Shamela_0006663
-	Shamela_0008622
-	Shamela_0010657
-	Shamela_0011569
 	JK_001236
 	JK_007053
 	Shamela_0006843
@@ -2806,32 +1850,10 @@
 	Shamela_0023788
 	Shia_002649Vols
 	JK_000429
-	JK_000699
-	JK_001173
 	JK_006953
-	JK_007039
 	JK_009393
 	JK_009400
-	JK_010221
-	Shamela_0002582
-	Shamela_0005688
-	Shamela_0006342
-	Shamela_0006531
 	Shamela_0006848
-	Shamela_0007350
-	Shamela_0008195
-	Shamela_0010321
-	Shamela_0010461
-	Shamela_0011064
-	Shamela_0012861
-	Shamela_0022848
-	Shamela_0026112
-	Shamela_0026890
-	Shamela_0029830
-	Shamela_0030341
-	Shamela_0030673
-	Shamela_0036949
-	Shia_002211Vols
 	JK_000369
 	JK_010091
 	Shamela_0000693
@@ -2842,15 +1864,9 @@
 	Shamela_0026099
 	Shamela_0037051
 	JK_007639
-	JK_011184
-	Shamela_0001184
-	Shia_000963Vols
 	Shia_002213
 	Shia_003716
 	JK_007639
-	JK_000096
-	JK_000097
-	JK_000099
 	JK_000602
 	JK_001335
 	JK_012048
@@ -2859,14 +1875,8 @@
 	Shia_002215Vols
 	Shia_004509
 	JK_000571
-	JK_011044
-	Shamela_0001044
 	Shamela_0005680
 	JK_000007
-	JK_000184
-	JK_000233
-	JK_000942
-	JK_001002
 	JK_001023
 	JK_001131
 	JK_001142
@@ -2874,35 +1884,20 @@
 	JK_001455
 	JK_006709
 	Shamela_0005352
-	Shamela_0005509
-	Shamela_0006347
-	Shamela_0006355
 	Shamela_0006969
 	Shamela_0006970
 	Shamela_0006972
 	Shamela_0006978
-	Shamela_0006984
 	Shamela_0006988
 	Shamela_0006991
 	Shamela_0007501
-	Shamela_0008602
-	Shamela_0010322
-	Shamela_0010778
-	Shamela_0010826
-	Shamela_0011088
 	Shamela_0011376
 	Shamela_0011825
 	Shamela_0096770
 	Shia_003952Vols
 	JK_000302
-	JK_000471
-	JK_001492
 	Shamela_0008544
-	Shamela_0008636
-	Shamela_0011428
 	Shamela_0026906
-	Shia_002218Vols
-	Shia_002222Vols
 	JK_007054
 	Shamela_0000788
 	Shamela_0012052
@@ -2935,10 +1930,6 @@
 	Shamela_0012145
 	Shia_000111Vols
 	JK_005022
-	Shamela_0006338
-	Shamela_0008634
-	Shamela_0026113
-	Shamela_0026114
 	JK_000215
 	JK_000261
 	JK_007111
@@ -2950,19 +1941,13 @@
 	Shamela_0007534
 	JK_001103
 	Shamela_0007241
-	Shamela_0009108
 	JK_010580
 	Shamela_0000580
 	Shamela_0011355
 	Shamela_0095575
 	Shamela_0009859
-	Shamela_0027104
-	JK_001164
 	JK_006855
-	JK_010575
-	Shamela_0000575
 	Shamela_0001396
-	Shamela_0006582
 	Shamela_0006982
 	Shamela_0010696
 	JK_001021
@@ -3005,60 +1990,8 @@
 	Shia_003956
 	Shia_004503
 	Shamela_0009508
-	JK_000162
-	JK_000226
-	JK_000256
-	JK_000991
-	JK_001135
-	JK_001271
-	JK_001421
-	JK_007060
-	Shamela_0005978
-	Shamela_0006061
-	Shamela_0006133
-	Shamela_0006495
-	Shamela_0008490
-	Shamela_0011436
-	Shamela_0012703
-	Shamela_0021592
-	Shamela_0021593
-	Shamela_0037338
-	Shia_002662Vols
-	JK_000034
-	JK_000071
-	JK_000127
-	JK_000259
-	JK_000340
-	JK_006673
-	JK_007052
 	JK_007567
-	JK_009231
-	JK_010131
-	JK_010200
-	Shamela_0000132
-	Shamela_0000137
-	Shamela_0000200
-	Shamela_0000667
-	Shamela_0000696
-	Shamela_0001519
-	Shamela_0004033
-	Shamela_0004268
-	Shamela_0005767
-	Shamela_0006238
-	Shamela_0006490
-	Shamela_0009552
-	Shamela_0010443
-	Shamela_0010463
-	Shamela_0010782
-	Shamela_0010900
-	Shamela_0010910
-	Shamela_0011363
-	Shamela_0021730
-	Shamela_0022566
 	Shamela_0022720
-	Shamela_0026141
-	Shamela_0095735
-	Shia_002228
 	JK_007567
 	JK_009378
 	JK_007089
@@ -3072,7 +2005,6 @@
 	Shia_001387
 	Shia_004021
 
-
 #FOLDER#===# 0800AH -
 
 	Shamela_0095577
@@ -3081,13 +2013,9 @@
 	JK_000232
 	JK_000879
 	JK_011090
-	Shamela_0000067
-	Shamela_0000708
 	Shamela_0006308
 	Shamela_0008526
 	Shamela_0011816
-	Shamela_0096753
-	Shia_004022
 	JK_000734
 	JK_000996
 	JK_001472
@@ -3100,7 +2028,6 @@
 	Shamela_0023640
 	Shamela_0096551
 	JK_009381
-	Shamela_0029878
 	JK_000628
 	JK_005021
 	JK_007116
@@ -3123,14 +2050,8 @@
 	Shamela_0009375
 	Shamela_0030531
 	Shamela_0038149
-	Shamela_0009856
-	Shamela_0011760
-	Shamela_0037554
 	Shia_001084
-	JK_009258
-	JK_010708
 	Shamela_0005421
-	Shia_001388
 	JK_000119
 	JK_001011
 	Shamela_0005406
@@ -3147,13 +2068,6 @@
 	Shamela_0008675
 	Shamela_0011056
 	JK_009204
-	JK_000312
-	JK_000966
-	Shamela_0005635
-	Shamela_0005937
-	Shamela_0021765
-	Shamela_0029677
-	Shamela_0036427
 	Shia_000814Vols
 	Shia_000125
 	Shia_000126Vols
@@ -3179,80 +2093,15 @@
 	Shamela_0021600
 	Shamela_0022364
 	Shamela_0096878
-	JK_000581
-	Shamela_0010045
-	Shamela_0010710
-	Shamela_0010830
-	Shia_003725
-	Shia_003726
-	JK_001336
 	Shamela_0023613
-	JK_000123
-	JK_000136
-	JK_000434
-	JK_000559
-	JK_000609
-	JK_000641
-	JK_000685
-	JK_000702
-	JK_000755
-	JK_000775
-	JK_001031
-	JK_001203
 	JK_001260
-	JK_001329
-	JK_006670
-	JK_006801
-	JK_006975
-	JK_007058
-	JK_009256
-	Shamela_0000347
-	Shamela_0001565
-	Shamela_0001581
-	Shamela_0002102
-	Shamela_0005702
-	Shamela_0005719
-	Shamela_0005729
-	Shamela_0005738
-	Shamela_0005908
-	Shamela_0005940
-	Shamela_0005993
-	Shamela_0006009
-	Shamela_0006023
-	Shamela_0006035
-	Shamela_0008316
-	Shamela_0009111
-	Shamela_0009377
-	Shamela_0011057
-	Shamela_0011118
-	Shamela_0012115
-	Shamela_0012220
-	Shamela_0012865
-	Shamela_0021489
-	Shamela_0021601
-	Shamela_0022644
-	Shamela_0022804
-	Shamela_0023802
-	Shamela_0025955
-	Shamela_0026324
-	Shamela_0026891
-	Shamela_0029563
-	Shamela_0030287
-	Shamela_0030718
-	Shamela_0030733
-	Shia_001041Vols
-	Shia_001805
-	Shia_002240Vols
 	Shia_002242
 	Shia_002247
 	Shia_002248
-	Shia_002667Vols
 	Shia_004510
 	JK_010770
 	Shamela_0012726
 	Shamela_0030306
-	JK_009270
-	Shamela_0000427
 	Shamela_0008550
 	Shamela_0023140
 	Shia_000131
@@ -3262,7 +2111,6 @@
 	Shamela_0010340
 	Shamela_0021744
 	Shamela_0021547
-	Shamela_0023842
 	JK_001215
 	Shamela_0007051
 	Shamela_0010049
@@ -3273,11 +2121,8 @@
 	Shia_003729Vols
 	JK_006851
 	Shamela_0009968
-	JK_000449
 	Shamela_0009708
 	Shamela_0009733
-	Shamela_0023618
-	Shia_002670Vols
 	Shia_001392Vols
 	JK_000983
 	JK_006971
@@ -3288,7 +2133,6 @@
 	Shamela_0096848
 	Shamela_0096853
 	JK_000252
-	JK_009266
 	Shamela_0006172
 	Shia_001395Vols
 	JK_000262
@@ -3299,17 +2143,12 @@
 	JK_000787
 	Shamela_0006094
 	Shamela_0021619
-	JK_000066
 	JK_000788
 	JK_009143
 	JK_011703
-	Shamela_0001404
 	Shamela_0006336
-	Shamela_0008317
-	Shamela_0009098
 	Shamela_0011446
 	Shamela_0021609
-	Shamela_0023798
 	Shia_002249Vols
 	Shamela_0009134
 	Shia_003731
@@ -3340,21 +2179,8 @@
 	Shia_004024
 	Shia_004693Vols
 
-
 #FOLDER#===# 0900AH -
 
-	JK_000997
-	JK_001048
-	JK_001160
-	JK_007014
-	Shamela_0001391
-	Shamela_0001500
-	Shamela_0005675
-	Shamela_0005956
-	Shamela_0006585
-	Shamela_0008663
-	Shamela_0023177
-	Shamela_0026111
 	JK_001179
 	Shamela_0006973
 	Shamela_0009985
@@ -3375,77 +2201,6 @@
 	Shamela_0030312
 	Shamela_0030358
 	Shamela_0008959
-	JK_000440
-	JK_000553
-	JK_001217
-	JK_006705
-	JK_009166
-	JK_009184
-	JK_009249
-	JK_009250
-	JK_009252
-	JK_009264
-	JK_009274
-	JK_009379
-	JK_009388
-	JK_009390
-	JK_010191
-	JK_010213
-	JK_010224
-	JK_010242
-	JK_010248
-	JK_010262
-	JK_010733
-	JK_010781
-	Shamela_0000191
-	Shamela_0000209
-	Shamela_0000213
-	Shamela_0000222
-	Shamela_0000248
-	Shamela_0000360
-	Shamela_0000733
-	Shamela_0000781
-	Shamela_0001345
-	Shamela_0001385
-	Shamela_0001417
-	Shamela_0001438
-	Shamela_0001975
-	Shamela_0005396
-	Shamela_0005955
-	Shamela_0006253
-	Shamela_0006935
-	Shamela_0006975
-	Shamela_0007039
-	Shamela_0009388
-	Shamela_0009992
-	Shamela_0010483
-	Shamela_0010924
-	Shamela_0011429
-	Shamela_0011479
-	Shamela_0011797
-	Shamela_0012824
-	Shamela_0021542
-	Shamela_0021560
-	Shamela_0021659
-	Shamela_0021944
-	Shamela_0023077
-	Shamela_0025851
-	Shamela_0026097
-	Shamela_0026551
-	Shamela_0026582
-	Shamela_0028112
-	Shamela_0029569
-	Shamela_0029729
-	Shamela_0030315
-	Shamela_0036040
-	Shamela_0036041
-	Shamela_0036951
-	Shamela_0037466
-	Shamela_0038158
-	Shamela_0096851
-	Shamela_0097803
-	Shia_001837Vols
-	Shia_002261Vols
 	Shamela_0012018
 	JK_001192
 	Shamela_0006243
@@ -3456,7 +2211,6 @@
 	JK_001093
 	Shamela_0006591
 	Shamela_0023624
-	Shamela_0023685
 	JK_001312
 	Shamela_0007237
 	JK_001312
@@ -3543,34 +2297,9 @@
 	Shamela_0006327
 	Shamela_0012019
 	Shia_004624
-	JK_000678
-	JK_001324
-	JK_007070
-	JK_009334
 	Shia_002264
 	Shia_004512
-	Shamela_0009059
 	JK_000203
-	JK_009318
-	Shamela_0000661
-	Shamela_0006247
-	Shamela_0006544
-	Shamela_0009801
-	Shamela_0009973
-	Shamela_0012570
-	Shamela_0021629
-	Shamela_0037886
-	JK_008001
-	Shamela_0002677
-	Shia_002265Vols
-	JK_000291
-	JK_000888
-	Shamela_0001466
-	Shamela_0006121
-	Shamela_0009279
-	Shamela_0011444
-	Shia_000871Vols
-	Shia_000873Vols
 	Shamela_0037064
 	Shamela_0009283
 	Shamela_0010016
@@ -3608,19 +2337,12 @@
 	Shamela_0003565
 	Shamela_0006136
 	Shamela_0009282
-	JK_009233
-	Shamela_0000630
-	Shia_004673Vols
 	Shia_000196Vols
 	Shia_000204Vols
 	Shia_002755
 	Shia_002945Vols
-	JK_000674
-	JK_007030
 	JK_009144
 	Shamela_0005555
-	Shamela_0005989
-	Shamela_0006064
 	Shia_002378
 	Shia_001404
 	Shia_004026
@@ -3628,28 +2350,14 @@
 	Shia_004486
 	JK_007131
 	Shamela_0021639
-	JK_000298
 	JK_001044
-	JK_006671
-	JK_006973
-	JK_007006
 	JK_009332
-	JK_009365
-	Shamela_0001571
-	Shamela_0005769
-	Shamela_0005979
-	Shamela_0007266
-	Shamela_0008635
-	Shamela_0012731
-	Shamela_0021660
 	Shia_000206
 	Shia_000207
 	Shia_000208
 	Shia_000209
 	Shia_000210
 	Shia_001405
-	Shia_002284Vols
-	Shia_002287Vols
 	Shia_002756
 	Shia_004027
 	JK_000115
@@ -3673,9 +2381,6 @@
 	Shamela_0036475
 	Shia_001406Vols
 	Shia_001414
-	JK_000159
-	Shamela_0009873
-	Shia_003746Vols
 	JK_010649
 	Shamela_0000649
 	Shia_004695Vols
@@ -3713,12 +2418,10 @@
 	JK_007130
 	Shamela_0021644
 	JK_007637
-	JK_007637
 	JK_010967
 	Shamela_0008567
 	Shamela_0023743
 	Shia_002293
-	Shia_001174Vols
 	Shia_001186
 	Shia_001415
 	JK_000202
@@ -3727,7 +2430,6 @@
 	Shia_002379
 	Shia_003961Vols
 	Shia_004514
-	JK_007634
 	JK_007634
 	JK_000176
 	Shia_000979Vols
@@ -3741,7 +2443,6 @@
 	JK_007081
 	Shamela_0007037
 	Shamela_0026033
-	Shamela_0036446
 	Shamela_0036572
 	JK_001185
 	Shamela_0006990
@@ -3753,15 +2454,10 @@
 	Shamela_0007565
 	Shia_004676
 
-
 #FOLDER#===# 1100AH -
 
 	Shamela_0000091
 	JK_005201
-	JK_010473
-	JK_010766
-	Shamela_0000473
-	Shamela_0007414
 	Shia_001187Vols
 	Shia_001217Vols
 	Shia_001417
@@ -3780,15 +2476,12 @@
 	Shia_001542Vols
 	Shia_002389Vols
 	Shia_003749
-	JK_001080
-	Shamela_0010010
 	JK_000196
 	JK_010654
 	Shamela_0010929
 	Shamela_0027083
 	Shia_000881Vols
 	JK_007635
-	Shamela_0005446
 	Shia_002759
 	JK_000216
 	Shamela_0005410
@@ -3845,33 +2538,7 @@
 	Shamela_0009964
 	Shia_004517
 	Shia_000233
-	JK_000169
-	JK_000296
-	JK_000327
-	JK_000357
-	JK_000988
-	JK_000995
-	JK_001032
-	JK_011796
-	Shamela_0001756
-	Shamela_0002241
-	Shamela_0005983
-	Shamela_0006315
-	Shamela_0006348
-	Shamela_0006456
-	Shamela_0007556
-	Shamela_0011990
-	Shamela_0021590
-	Shamela_0029877
-	Shia_001055Vols
-	Shia_002296
-	Shia_002297
 	Shia_000234Vols
-	JK_001229
-	JK_009245
-	Shamela_0006382
-	Shamela_0008353
-	Shamela_0025791
 	Shamela_0027254
 	JK_000198
 	Shamela_0021597
@@ -3888,92 +2555,14 @@
 	Shia_004040
 	JK_009149
 
-
 #FOLDER#===# 1200AH -
 
 	JK_000193
 	Shia_000259
 	Shia_000260
 	Shia_002962
-	JK_000348
-	JK_000353
-	JK_000799
-	JK_000805
-	JK_006870
-	JK_006871
-	JK_006872
-	JK_006873
-	JK_006874
-	JK_006875
-	JK_006876
-	JK_006877
-	JK_006878
-	JK_006879
-	JK_006880
-	JK_006881
-	JK_006882
-	JK_006883
-	JK_006884
-	JK_006886
-	JK_006888
-	JK_006889
-	JK_006890
-	JK_006891
-	JK_006892
-	JK_006893
-	JK_006894
-	JK_006895
-	JK_006896
-	JK_006897
-	JK_006898
-	JK_011797
-	Shamela_0000239
-	Shamela_0000350
-	Shamela_0001395
-	Shamela_0001467
-	Shamela_0001685
-	Shamela_0007485
-	Shamela_0007486
-	Shamela_0007488
-	Shamela_0007489
-	Shamela_0007495
-	Shamela_0007499
-	Shamela_0007504
-	Shamela_0007603
-	Shamela_0007612
-	Shamela_0007629
-	Shamela_0007637
-	Shamela_0008137
-	Shamela_0008383
-	Shamela_0008524
-	Shamela_0008531
-	Shamela_0011070
-	Shamela_0011099
-	Shamela_0011126
-	Shamela_0011217
-	Shamela_0011221
-	Shamela_0011266
-	Shamela_0011318
-	Shamela_0011328
-	Shamela_0011334
-	Shamela_0011369
-	Shamela_0011381
-	Shamela_0011383
 	Shamela_0011539
-	Shamela_0011572
-	Shamela_0012061
-	Shamela_0012078
-	Shamela_0012092
-	Shamela_0021709
-	Shamela_0030850
-	Shamela_0030882
-	Shamela_0031246
-	Shamela_0031457
-	Shamela_0031465
-	Shia_002695
-	Shia_002696
 	Shia_002963
-	Shia_004041
 	JK_001088
 	Shamela_0007059
 	Shia_002396
@@ -4036,39 +2625,12 @@
 	JK_000360
 	Shamela_0001123
 	Shia_002761Vols
-	JK_000152
-	JK_000165
-	JK_000175
-	JK_000187
 	JK_000199
-	JK_000251
-	JK_000465
-	JK_000870
-	JK_001012
-	JK_001036
 	JK_001091
-	JK_001245
-	JK_006955
 	JK_007102
 	Shamela_0002671
 	Shamela_0003863
-	Shamela_0005208
-	Shamela_0006359
-	Shamela_0006455
-	Shamela_0006519
-	Shamela_0006844
-	Shamela_0006854
-	Shamela_0006886
-	Shamela_0007264
-	Shamela_0007342
-	Shamela_0007566
-	Shamela_0009242
-	Shamela_0011437
 	Shamela_0021608
-	Shamela_0023623
-	Shamela_0037029
-	Shamela_0037030
-	Shia_001059
 	Shia_001085Vols
 	Shia_002764
 	JK_000170
@@ -4078,8 +2640,6 @@
 	Shamela_0036573
 	Shia_000990Vols
 	Shamela_0035888
-	Shia_001060Vols
-	Shia_002697Vols
 	Shia_003752Vols
 	JK_009261
 	Shamela_0001544
@@ -4090,12 +2650,8 @@
 	Shia_000317Vols
 	Shia_000360
 	Shia_000711
-	JK_000906
 	Shamela_0010652
-	Shamela_0022835
 	Shamela_0026535
-	Shamela_0036066
-	Shia_002702Vols
 	Shamela_0006610
 	JK_005014
 	Shamela_0006076
@@ -4104,22 +2660,6 @@
 	Shamela_0008637
 	JK_010250
 	Shamela_0031375
-	Shia_000361
-	Shia_000362
-	Shia_000363
-	Shia_000364
-	Shia_000365
-	Shia_000366
-	Shia_000367
-	Shia_000368Vols
-	Shia_000370
-	Shia_000371
-	Shia_000372Vols
-	Shia_000374Vols
-	Shia_000376Vols
-	Shia_000382
-	Shia_002765
-	Shia_002766Vols
 	Shamela_0007554
 	Shamela_0007620
 	Shamela_0011079
@@ -4127,19 +2667,9 @@
 	JK_009362
 	JK_007633
 	JK_012057
-	Shamela_0002386
-	Shamela_0008555
-	Shamela_0008571
-	Shamela_0009841
-	Shamela_0011073
-	Shamela_0011074
-	Shamela_0011354
-	Shamela_0011573
 	JK_007633
 	Shamela_0000189
-	Shamela_0001515
 	Shamela_0097799
-	Shia_004661
 	Shamela_0007520
 	Shamela_0007567
 	Shamela_0011082
@@ -4160,7 +2690,6 @@
 	Shamela_0012001
 	Shamela_0015555
 	Shia_002397Vols
-
 
 #FOLDER#===# 1300AH -
 
@@ -4184,7 +2713,6 @@
 	Shamela_0000918
 	Shamela_0005385
 	Shia_000996Vols
-	Shia_001555Vols
 	Shia_002969
 	JK_000332
 	Shamela_0006546
@@ -4199,10 +2727,7 @@
 	JK_009251
 	Shamela_0006146
 	Shamela_0022769
-	JK_001010
 	Shamela_0000247
-	Shamela_0006457
-	Shamela_0009943
 	Shamela_0097809
 	Shia_000388
 	JK_007003
@@ -4219,21 +2744,15 @@
 	Shamela_0010426
 	Shamela_0012027
 	Shia_000394Vols
-	Shamela_0006362
-	Shamela_0007625
 	Shia_000398
 	Shia_002773
 	Shia_004523
 	Shia_004548
 	Shia_004549Vols
 	Shia_004552Vols
-	JK_000098
-	JK_000264
-	Shamela_0005760
 	Shia_000399
 	Shia_000400
 	Shia_000401Vols
-	Shia_001863Vols
 	Shia_002774Vols
 	Shamela_0037633
 	Shia_000922
@@ -4292,11 +2811,9 @@
 	Shamela_0023692
 	Shia_002298
 	Shia_003759
-	JK_000268
 	JK_010793
 	Shamela_0000259
 	Shamela_0005414
-	Shamela_0006309
 	Shamela_0010438
 	Shamela_0021525
 	Shamela_0031381
@@ -4428,10 +2945,6 @@
 	Shamela_0007249
 	Shamela_0012754
 	Shamela_0038114
-	Shamela_0000552
-	Shamela_0007472
-	Shamela_0012935
-	Shamela_0021515
 	Shia_001564Vols
 	Shamela_0009798
 	Shia_003768
@@ -4686,7 +3199,6 @@
 	Shia_004533
 	Shia_004534
 
-
 #FOLDER#===# 1400AH -
 
 	Shamela_0009838
@@ -4731,7 +3243,6 @@
 	Shamela_0115133
 	Shamela_0115134
 	Shia_000474Vols
-	Shia_001615Vols
 	Shamela_0001009
 	Shia_000481
 	Shia_000482
@@ -4804,9 +3315,7 @@
 	Shia_002840Vols
 	Shia_002842Vols
 	Shia_004091
-	Shia_001625
 	Shia_002405
-	Shia_002406Vols
 	Shia_004625
 	Shia_004708
 	Shamela_0008573
@@ -5114,7 +3623,6 @@
 	Shamela_0011382
 	Shamela_0012933
 	Shamela_0001012
-	Shamela_0001013
 	Shamela_0001014
 	Shamela_0001015
 	Shamela_0001016
@@ -6396,7 +4904,6 @@
 	Shia_000690
 	Shia_000691
 	Shia_000692Vols
-	Shia_000695
 	Shia_000696
 	Shia_000697Vols
 	Shia_000703
@@ -6457,7 +4964,6 @@
 	Shia_001104
 	Shia_001105
 	Shia_001106
-	Shia_001626Vols
 	Shia_001629
 	Shia_001630
 	Shia_001631
@@ -6485,11 +4991,9 @@
 	Shia_001653Vols
 	Shia_001655
 	Shia_001656
-	Shia_001657Vols
 	Shia_001659
 	Shia_001660Vols
 	Shia_001662
-	Shia_001663Vols
 	Shia_001666Vols
 	Shia_001671Vols
 	Shia_001674Vols
@@ -6553,7 +5057,6 @@
 	Shia_002900
 	Shia_003017Vols
 	Shia_003020
-	Shia_003021
 	Shia_003022
 	Shia_003023Vols
 	Shia_003025
@@ -6577,7 +5080,6 @@
 	Shia_003653
 	Shia_003654
 	Shia_003655
-	Shia_003656Vols
 	Shia_003658
 	Shia_003773
 	Shia_003774
@@ -6745,7 +5247,6 @@
 	Shia_004263
 	Shia_004264
 	Shia_004265
-	Shia_004266Vols
 	Shia_004267
 	Shia_004268
 	Shia_004269Vols

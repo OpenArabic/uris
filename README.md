@@ -1,6 +1,15 @@
 # uris - metadata for assigning URIs
 
-# General
+## Temporary TAGs
+
+1. `MODERN` : a modern book that may be worth including into the corpus
+2. `MAJALLA` : a run of a journal; not sure how to assign a URI to journals yet
+3. `EXCLUDE` : no need to include the text (modern) into the corpus, at least at the moment
+4. `DIFFICULT`: a difficult case
+5. `NOTCLEAR`: not clear what from metadata (add a date, if available, for reference: `0381NOTCLEAR`)
+6. `PERSIAN`: the book is in Persian (mostly, modern Shi`i law)
+
+## General
 
 1. Use EditPadPro with OpenArabic mARkdown installed
 2. Open file `__Entire_Corpus_Working.txt` > text in the file should get automatically highlighted
