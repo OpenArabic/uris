@@ -1,3277 +1,5572 @@
 
 ===========================================
-2017-01-03	2470 URIs created	2462 remains
+2017-01-29 11:50:29.526303	4282 URIs created	0 remains
 ===========================================
+
 0001AbuTalibCabdManaf
 	Diwan
+
 0001AwsIbnHajar
 	Diwan
+
 0001CalqamaFahl
 	Diwan
+
 0001CamrIbnKulthum
 	Diwan
+
 0001CamrIbnMalik
 	Diwan
+
 0001CamrIbnQumaya
 	Diwan
+
 0001CantaraIbnShaddad
 	Diwan
+
 0001CurwaIbnWard
 	Diwan
+
 0001HajibIbnMudallil
 	Diwan
+
 0001HarithIbnHilliza
 	Diwan
+
 0001HatimTai
 	Diwan
+
 0001ImruQays
 	Diwan
+
+0001ImruQaysKindi
+	Diwan
+
 0001KitabAllah
 	QuranKarim
+
 0001LaqitIbnYacmur
 	Diwan
+
 0001MuhalhilIbnRabica
 	Diwan
+
 0001MuthaqqibCabdi
 	Diwan
+
 0001NabighaDhubyani
 	Diwan
+
 0001QaysIbnKhatim
 	Diwan
+
 0001SalamaIbnJandal
 	Diwan
+
 0001SamawalIbnCadiya
 	Diwan
+
 0001Shanfara
 	Diwan
+
 0001SulaykIbnSulaka
 	Diwan
+
 0001TaabbataSharran
 	Diwan
+
 0001TarafaIbnCabd
 	Diwan
+
 0001TufaylGhanawi
 	Diwan
+
 0001ZuhayrIbnAbiSulma
 	Diwan
+
 0005Hadira
 	Diwan
+
 0007MaymunIbnQaysAcsha
 	Diwan
+
 0011CamirIbnTufayl
 	Diwan
+
+0021CamrZubaydi
+	Diwan
+
 0022ShammakhIbnDirar
 	Diwan
+
 0024TumadirBinCamrKhansa
 	Diwan
+
 0026KacbIbnZuhayr
 	Diwan
+
+0030CurwaIbnHizam
+	Diwan
+
 0037IbnMuqbil
 	Diwan
+
 0040CaliIbnAbiTalib
-	NahjBalagha
+	Diwan, NahjBalagha
+
 0041LabidIbnRabica
 	Diwan
+
 0045JarwalIbnAwsHutaya
 	Diwan
+
 0050KhirniqBintBadr
 	Diwan
+
 0054HassanIbnThabit
 	Diwan
+
+0060MucawiyaIbnAbiSyfyan
+	Diwan
+
+0068AbdAllahIbnCabbas
+	GharibQuran
+
+0068QaysIbnDharihLubna
+	Diwan
+
+0068QaysMajnunLayla
+	Diwan
+
+0080LaylaAkhyaliyya
+	Diwan
+
 0080UqayshirAsadi
 	Diwan
+
+0082JamilButhayna
+	Diwan
+
+0085SulaymIbnQaysHilali
+	KitabSulaym
+
+0090AkhtalShacir
+	Diwan
+
+0090RaciNumayriShacir
+	Diwan
+
 0090WaddahYaman
 	Diwan
+
+0093IbnAbiRabica
+	Diwan
+
 0094ZaynCabidin
-	SahifaSajjadiya
+	SahifaSajjadiya, SharhRisalaHuquq
+
+0095CadiIbnRiqac
+	Diwan
+
 0104MujahidIbnJabr
 	Tafsir
+
+0105AhwasAnsari
+	Diwan
+
+0105KuthayyirCazza
+	Diwan
+
+0110Farazdaq
+	Diwan
+
 0110HasanBasri
 	FadailMakka
+
 0110IbnSirin
 	MuntakhabKalamFiTafsirAhlam
+
+0110JarirShacir
+	Diwan
+
+0117DhuRumma
+	Diwan
+
 0117IbnDicamaSadusi
 	NasikhWaMansukh
+
 0122ZaydIbnCali
 	MusnadZayd
+
+0124IbnShihabZuhri
+	TanzilQuran
+
+0125NabighaShaybani
+	Diwan
+
+0125Tirimmah
+	Diwan
+
+0126KumaytIbnZaydAsadi
+	Rawda
+
 0128IbnAbiHabibMisri
 	AhadithYazid
+
+0130CurwaIbnCudhayna
+	Diwan
+
+0130IbnBashirKhariji
+	Diwan
+
+0131ZubayrHamdani
+	NuskhatZubayr
+
 0132HammamIbnMunabbih
 	Sahifa
+
+0141MusaIbnCuqba
+	AhadithMinMaghazi
+
 0142IbnMuqaffac
-	AdabKabir
-	AdabSaghir
-	AdabSaghirWaKabir
-	KalilaWaDimna
+	AdabKabir, AdabSaghir, AdabSaghirWaKabir, KalilaWaDimna
+
+0145MufaddalIbnCumarJufi
+	Tawhid
+
+0146MajacaIbnZubayr
+	MinHadith
+
+0148AbuHamzaThumali
+	Tafsir
+
+0148JacfarSadiq
+	MisbahSharica
+
 0150AbuHanifa
-	FiqhAkbar
-	Musnad
-	SharhMaysir
+	FiqhAkbar, Musnad, SharhMaysir
+
+0150IbnJurayj
+	Juz
+
 0150MuqatilIbnSulayman
 	TafsirMuqatil
+
 0151IbnIshaq
 	Sira
+
+0151MucammarIbnRashid
+	Jamic
+
 0156IbnAbiCuruba
 	Manasik
+
+0157AbuMikhnafAzdi
+	MaqtalHusayn
+
 0161SufyanThawri
-	Faraid
-	Hadith
-	Tafsir
+	Faraid, Hadith, Tafsir
+
 0164MajishunMadani
 	Hajj
+
+0167BashsharIbnBurdShacir
+	Diwan
+
+0167SariIbnYahyaBasri
+	AhadithSari
+
 0168IbnTahman
 	Mashyakha
+
 0168MufaddalDabbi
-	AmthalCarab
-	Mufaddaliyat
+	AmthalCarab, Mufaddaliyat
+
 0170AbuZaydQurashi
 	JamharaAshcarCarab
+
 0170KhalilFarahidi
-	Cayn
-	JumalFiNahw
+	Cayn, JumalFiNahw
+
 0175LaythIbnSacd
-	CasharaAhadith
-	MajlisMinFawaid
+	CasharaAhadith, Cawali, MajlisMinFawaid
+
 0179MalikIbnAnas
-	MudawwanaKubra
-	Muwatta
-	SharhMuwatta
+	MudawwanaKubra, Muwatta, SharhMuwatta
+
+0180AbuShamaqmaq
+	Diwan
+
 0180IbnJacfarAnsari
 	HadithIsmacil
+
 0180Sibawayh
 	KitabSibawayh
+
 0181IbnMubarak
-	Jihad
-	Musnad
-	Zuhd
+	Diwan, Jihad, Musnad, Zuhd
+
 0182AbuYusufYacqub
-	Athar
-	IkhtilafAbiHanifa
-	Kharaj
-	RaddCalaSiyarAwzaci
+	Athar, IkhtilafAbiHanifa, Kharaj, RaddCalaSiyarAwzaci
+
+0182MarwanIbnAbiHafsa
+	Diwan
+
+0184AbuIshaqZuhri
+	JuzMinNuskha
+
+0185IbnCimranMawsili
+	Zuhd
+
 0188IbnMuhammadFazari
 	Siyar
+
+0189IbnHamzaKisai
+	MushtabihatQuran
+
 0189MuhammadShaybani
-	Asl
-	Athar
-	HujjaCalaAhlMadina
-	JamicSaghir
-	Kasb
-	Siyar
+	Asl, Athar, HujjaCalaAhlMadina, JamicSaghir, Kasb, Siyar, SiyarKabir
+
 0191IbnQasimMisri
 	MajalisIbnQasim
+
+0192IbnAhnaf
+	Diwan
+
 0195IbnCamrSadusi
 	Amthal
+
 0195IbnFudaylDabbi
 	Duca
+
 0195MuarrijSadusi
 	HadhfMinNasabQuraysh
+
 0197IbnWahbQurashi
-	JamicFiHadith
-	MuharabaMinMuwattaIbnWahb
-	MuwattaIbnWahb
-	QadaMinMuwattaIbnWahb
-	Qadar
+	JamicFiHadith, MuharabaMinMuwattaIbnWahb, MuwattaIbnWahb, QadaMinMuwattaIbnWahb, Qadar
+
 0197WakicIbnJarrah
-	NuskhaWakic
+	NuskhaWakic, Zuhd
+
+0198AbuNuwasShacir
+	Diwan
+
+0198RabicaRaqqi
+	Diwan
+
 0198SufyanIbnCuyayna
-	JuzFihiHadith
-	JuzHadith
+	JuzFihiHadith, JuzHadith
+
 0200AbuShis
 	Diwan
+
 0200IbnCumarDabbi
 	Fitna
+
+0200IbnJacfarSadiq
+	Masail
+
 0200YahyaIbnSalam
-	Tafsir
-	Tasarif
+	Tafsir, Tasarif
+
 0203IbnSulaymanGhazi
 	MusnadRida
+
 0203YahyaIbnAdam
 	Kharaj
+
 0204AbuDawudTayalisi
 	Musnad
+
 0204HishamKalbi
 	Asnam
+
 0204IbnKalbi
-	AnsabKhayl
-	JamharaAnsab
-	NasabMacad
+	AnsabKhayl, JamharaAnsab, NasabMacad
+
 0204Shafici
-	AhkamQuran
-	IkhtilafHadith
-	JimacCilm
-	Musnad
-	Risala
-	TafsirShafici
-	Umm
+	AhkamQuran, Diwan, IkhtilafHadith, JimacCilm, Musnad, Risala, SunanMathura, TafsirShafici, Umm
+
 0206AbuMuhammadQutrub
 	Azmina
+
 0206IbnMirarShaybani
 	Jim
+
+0207IbnBakkarQaysi
+	Juz
+
 0207IbnZiyadFarra
 	MacaniQuran
+
 0207Waqidi
-	FutuhSham
-	Maghazi
-	Ridda
+	FutuhSham, Maghazi, Ridda
+
 0209AbuCaliAshyabBaghdadi
 	JuzAshyab
-0209IbnMuthannaTaymi
-	Dibaj
+
 0209MacmarIbnMuthanna
-	Khayl
+	Dibaj, Khayl, MajazQuran
+
+0210CaliyyaBintMahdi
+	Diwan
+
 0211AbuCatahiya
 	Diwan
+
 0211CabdRazzakSancani
-	AmaliFiAthar
-	Musannaf
-	Tafsir
+	AmaliFiAthar, Musannaf, Tafsir
+
+0212IbnMusaQurashi
+	Zuhd
+
+0212IbnMuzahimMinqari
+	WaqcaSiffin
+
 0213IbnHisham
-	SiraNabawiyya
-	Tijan
+	SiraNabawiyya, Tijan
+
+0213IbnJabalaShacir
+	Diwan
+
 0214IbnCabdHakamMisri
 	SiraCumarIbnCabdCaziz
+
 0215AkhfashAwsat
-	Qawafi
+	MacaniQuran, Qawafi
+
+0215IbnCabdAllahAnsari
+	HadithAnsari
+
+0215IbnHazimBahili
+	Diwan
+
 0216IbnQuraybAsmaci
-	Asmaciyat
-	Ibl
-	Sha
-0219AbuNucaymIbnDykayn
+	Asmaciyat, FuhulaShucara, Ibl, KhalqInsan, Sha
+
+0218CabdAclaGhassani
+	Nuskha
+
+0219AbuNucaymIbnDukayn
 	Salat
+
+0219IbnMuslimBasri
+	Ahadith
+
 0219IbnZubayrHumaydi
 	Musnad
+
+0220AbuJacfarIskafi
+	MicyarWaMuwazana
+
+0221IbnAbiIyasCasqalani
+	Juz
+
 0222IbnBakkarDabi
-	AkhbarWafidat
-	AkhbarWafidin
-0224AbuCubaydIbnSallam
-	Amwal
-	GharibHadith
-	NasikhWaMansukh
-0224IbnSallamBaghdadi
-	Amthal
+	AkhbarWafidat, AkhbarWafidin
+
+0222IbnNaficHimsi
+	Hadith
+
+0223IbnSalihKatibLayth
+	Nuskha
+
+0224IbnMuhammadMadaini
+	Tacazi
+
 0224QasimIbnSalam
-	FadailQuran
-	GharibMusannaf
-	Iman
-	KhutabWaMawaciz
-	NasikhWaMansukh
-	Silah
-	Tuhur
+	Amthal, Amwal, FadailQuran, GharibHadith, GharibMusannaf, Iman, KhutabWaMawaciz, LughatQabail, NasikhWaMansukh, Silah, Tuhur
+
 0227IbnMansurKhurasani
-	Sunan
-	TafsirMinSunanSacid
+	Sunan, TafsirMinSunanSacid
+
+0228AbuJahmBahili
+	Juz
+
 0228IbnHammadKhuzaci
 	Fitan
+
+0230AbuMushal
+	Nawadir
+
 0230CaliIbnJacd
 	Musnad
+
 0230IbnSacd
-	TabaqatKubra
+	TabaqatKubra, TarjamatHasan, TarjamatHusayn
+
+0230YaclaIbnCibad
+	Juz
+
+0231AbuTamam
+	Diwan
+
+0231IbnCawsTai
+	Wahshiyat
+
+0231IbnMirdasSarraj
+	Hadith
+
 0231IbnSallamJumahi
 	TabaqatFuhulShucara
+
 0231IbnZiyadAcrabi
 	AsmaKhayl
+
 0233YahyaIbnMacin
-	HadithYahya
-	MacrifaRijal
-	MinKalamFiRijal
-	TarikhIbnMacin
+	HadithYahya, MacrifatRijal, MinKalamFiRijal, SualatIbnJunayd, TarikhIbnMacin
+
 0234AbuHasanSacdi
 	TasmiyaManRuwiya
+
 0234AbuKhaythamaNisai
 	Cilm
+
 0234CaliIbnMadini
-	Cilal
-	SualatIbnAbiShayba
+	Cilal, SualatIbnAbiShayba
+
 0234IbnAbiShayba
-	Adab
-	Iman
-	Musannaf
-	Musnad
+	Adab, Iman, Musannaf, Musnad
+
+0235DikJinn
+	Diwan
+
+0235IbnYunusBaghdadi
+	Qada
+
 0236AbuCabdAllahZubayri
 	NasabQuraysh
+
 0238IbnHabibQurtubi
-	AdabNisa
-	AshratSaca
-	MukhtasarFiTibb
+	AdabNisa, AshratSaca, MukhtasarFiTibb
+
 0238IbnRahawayh
 	Musnad
+
 0238MuhammadBarjlani
 	KaramWaJawd
+
+0240CabdSamadIbnMucadhdhal
+	Diwan
+
+0240IbnYahyaKinani
+	Hida
+
 0240KhalifaIbnKhayyat
-	Musnad
-	Tabaqat
-	Tarikh
+	Musnad, Tabaqat, Tarikh
+
 0241IbnHanbal
-	AhkamNisa
-	AsamiWaKuna
-	Ashriba
-	CaqidaRiwayaKhallal
-	CilalWaMacrifa
-	FadailSahaba
-	JamicFiCilal
-	MasailRiwayaCabdAllah
-	MasailRiwayaSalih
-	MinSualatIbnMuhammadAthram
-	Musnad
-	RaddCalaZanadiqa
-	SualatAbiDawudLiIbnHanbal
-	UsulSunna
-	Warac
-	Zuhd
+	AhkamNisa, AsamiWaKuna, Ashriba, CaqidaRiwayaKhallal, CilalWaMacrifa, FadailSahaba, JamicFiCilal, MasailRiwayaCabdAllah, MasailRiwayaSalih, MinSualatIbnMuhammadAthram, Musnad, RaddCalaZanadiqa, SualatAbiDawudLiIbnHanbal, UsulSunna, Warac, Zuhd
+
+0242IbnAslanTusi
+	Arbacun
+
 0243HannadIbnSari
 	Zuhd
+
 0243HarithMuhasibi
-	AdabNufus
-	FahmQuran
-	MahiyaCaql
-	Makasib
-	RisalaMustarshidin
+	AdabNufus, FahmQuran, MahiyaCaql, Makasib, RisalaMustarshidin, Tawahhum
+
 0243IbnYahyaCadani
 	Iman
+
 0244IbnSikkit
-	KanzLughawi
-	QalbWaIbdal
+	IslahMantiq, KanzLughawi, QalbWaIbdal
+
 0245DhuNunMisri
 	Hadith
+
 0245LuwaynMissisi
-	JuzHadith
+	JuzHadith, JuzHadithMissisi
+
 0245MuhammadIbnHabib
-	Muhabbar
-	MukhtalafQabail
-	MunammaqFiAkhbarQuraysh
+	Muhabbar, MukhtalafQabail, MunammaqFiAkhbarQuraysh, UmmahatNabi
+
+0246AbuCaliIbnShadhdhan
+	Hadith
+
 0246AhmadDawraqi
 	MusnadSacdIbnAbiWaqqas
+
 0246DicbilKhuzaci
-	WasayaMuluk
+	Diwan, WasayaMuluk
+
 0246HishamSulami
-	CawaliMalik
-	HadithHisham
+	CawaliMalik, HadithHisham
+
 0246HusaynMarwazi
 	BirrWaSila
+
 0246IbnCumarDuri
 	JuzFihiQiraat
+
 0246IbnIbrahimBursi
 	TathbitImama
+
+0247FathIbnKhaqan
+	QalaidCiqyan
+
 0248AbuHatimSijistani
-	Farq
-	FuhulaShucara
-	Mucammarun
+	Farq, FuhulaShucara, Mucammarun
+
 0249Azraqi
 	AkhbarMakka
+
 0249CabdIbnHamid
-	MuntakhabMinMusnad
+	MinCawaliMusnad, MuntakhabMinMusnad
+
+0250ThabitIbnAbiThabit
+	Farq
+
 0251IbnMansurKawsaj
 	Masail
+
 0251IbnZanjawayh
 	Amwal
+
 0254MuammalIbnIhab
 	JuzMuammal
+
 0255CabdAllahDarimi
 	Sunan
+
 0255IbnAhmadQurtubi
 	Hajj
+
 0255Jahiz
-	AmilWaMamul
-	BayanWaTabyin
-	Bighal
-	Bukhala
-	BursanWaCurjan
-	Cuthmaniya
-	Hayawan
-	MahasinWaAddad
-	MukhtarFiRaddCalaNasara
-	Rasail
-	TabsiraBiTijara
-	TajFiAkhlaq
+	AmilWaMamul, BayanWaTabyin, Bighal, Bukhala, BursanWaCurjan, Cuthmaniya, Hayawan, MahasinWaAddad, MukhtarFiRaddCalaNasara, Rasail, TabsiraBiTijara, TajFiAkhlaq
+
 0256Bukhari
-	AdabMufrad
-	DacifAdabMufrad
-	Ducafa
-	DucafaSaghir
-	KhalqAfcal
-	QiraaKhalfaImam
-	QuraCaynanyn
-	Sahih
-	SahihAdabMufrad
-	SharhKitabFitan
-	TakhrijAhadithMarfuca
-	TarikhKabir
-	TarikhSaghir
+	AdabMufrad, DacifAdabMufrad, Ducafa, DucafaSaghir, KhalqAfcal, QiraaKhalfaImam, QuraCaynanyn, Sahih, SahihAdabMufrad, SharhKitabFitan, TakhrijAhadithMarfuca, TarikhKabir, TarikhSaghir
+
 0256ZubayrIbnBakkar
-	AkhbarMuwaffaqiyat
-	JamharaNasabQuraysh
-	Muntakhab
+	AkhbarMuwaffaqiyat, JamharatNasabQuraysh, Muntakhab
+
+0257IbnAhmadMihzami
+	AkhbarAbiNuwas
+
 0257IbnCabdHakam
 	FutuhMisr
-0258AhmabIbnFurat
-	JuzAhadith
-	JuzCawali
+
+0257IbnCurfaCabdi
+	Juz
+
+0257IbnSacidKufi
+	Juz
+
+0258AhmadIbnFurat
+	JuzAhadith, JuzCawali
+
 0258IbnYahyaNaysaburi
 	Juz
+
 0259IbnYacqubJuzjani
-	AhwalRijal
+	AhwalRijal, AmmaratNubuwwa
+
+0260AbuCaliZacfarani
+	MusnadBilal
+
 0260IbnSahlTabari
 	FirdawsHikmaFiTibb
+
+0260IbnShadhanAzdi
+	Idah
+
+0260ImamCaskari
+	Tafsir
+
 0261AbuHasanCijli
 	MacrifaThiqat
+
 0261Muslim
-	KunaWaAsma
-	Munfaridat
-	Sahih
-	SharhKitabHajj
-	Tamyiz
+	KunaWaAsma, Munfaridat, Sahih, SharhKitabHajj, Tamyiz
+
 0262AbuZaydNumayri
 	TarikhMadina
+
 0262IbnCasimIsbahani
 	Juz
+
+0262IbnMatarWasiti
+	Hadith
+
 0262YacqubIbnShayba
 	MusnadCumarIbnKhattab
+
 0264AbyZurca
 	Ducafa
+
 0264IbnYahyaMuzani
-	Mukhtasar
-	SharhSunna
+	Mukhtasar, SharhSunna, SunanMathura
+
 0265IbnHarbMawsili
 	HadithSyfyanIbnCuyayna
+
+0265IbnNasrThaqafi
+	JuzSacdan
+
 0265SalihIbnHanbal
 	SiraImam
+
+0267HammadIbnIshaq
+	TarikaNabi
+
+0267IbnCabdAllahTarqufi
+	Hadith
+
+0270IbnCabdAllahKhutali
+	MahabbaLiLlah
+
 0270IbnCaffanKufi
 	AmaliWaQiraa
+
+0271IbnSinanQazzaz
+	JuzMinHadith
+
 0272Fakihi
 	AkhbarMakka
+
 0272IbnCassamIsbahani
 	JuzIbnCassam
+
 0272IbnIshaqFakihi
 	HadithFakihi
+
 0273AbuUmayyaTarsusi
-	MusnadAbiUmayya
-	MusnadCabdAllahIbnCumar
+	MusnadAbiUmayya, MusnadCabdAllahIbnCumar
+
+0273HanbalIbnIshaqShaybani
+	Fitan, JuzHanbal
+
 0273IbnMaja
-	SharhMuqaddimaSunan
-	Sunan
+	SharhMuqaddimaSunan, Sunan
+
+0273IbnMuhammadAthram
+	NasikhHadith, Sunan
+
 0274AhmadBarqi
 	Mahasin
-0275AbuDawud
-	Zuhd
+
 0275AbuDawudSijistani
-	Marasil
-	RisalaIlaAhlMakka
-	Sunan
+	Marasil, MasailImamAhmad, RisalaIlaAhlMakka, Sualat, Sunan, Zuhd
+
+0275IbnMuhammadMarwazi
+	AkhbarShuyukh, Warac
+
+0275IbnMulacibMakhzumi
+	Hadith
+
+0276IbnHazimGhifari
+	MusnadGhifari
+
 0276IbnMukhalladQurtubi
 	MaRuwiyaFiHawd
+
 0276IbnQutaybaDinawari
-	AdabKatib
-	AnwaFiMawasim
-	AshribaWaIkhtilafFiha
-	CuyunAkhbar
-	GharibHadith
-	GharibQuran
-	IkhtilafFiLafz
-	ImamaWaSiyasa
-	Jarathim
-	MacaniKabir
-	Macarif
-	RisalaKhatt
-	ShicrWaShucara
-	TawilMukhtalafHadith
-	TawilMushkilQuran
+	AdabKatib, AnwaFiMawasim, AshribaWaIkhtilafFiha, CuyunAkhbar, GharibHadith, GharibQuran, IkhtilafFiLafz, ImamaWaSiyasa, Jarathim, MacaniKabir, Macarif, RisalaKhatt, ShicrWaShucara, TawilMukhtalafHadith, TawilMushkilQuran
+
+0277AbuHatimRazi
+	Zuhd
+
 0277IbnSyfyanFasawi
-	MacrifaWaTarikh
+	MacrifaWaTarikh, Mashyakha
+
 0279Baladhuri
-	AnsabAshraf
-	FutuhBuldan
+	AnsabAshraf, FutuhBuldan
+
 0279IbnAbiKhaythama
 	TarikhKabir
+
 0279Tirmidhi
-	CilalSaghir
-	JamicSahih
-	ShamailMuhammadiya
-	SharhSunan
+	CilalKabir, CilalSaghir, JamicSahih, MukhtasarShamailMuhammadiya, ShamailMuhammadiya, SharhSunan
+
+0280AbuCabbasBirti
+	MusnadIbnCawf
+
 0280CuthmanIbnSacidDarimi
-	NaqdImam
+	NaqdImam, RaddCalaJahmiyya
+
 0280IbnIsmacilKirmani
 	MasailHarb
+
 0280IbnTayfur
-	Baghdad
-	BallaghatNisa
+	Baghdad, BallaghatNisa
+
 0281AbuZurcaDimashqi
-	FawaidMucallala
-	Tarikh
+	FawaidMucallala, Tarikh
+
 0281IbnAbiDunya
-	Ahwal
-	AmrBiMacruf
-	Awliya
-	CaqlWaFadluh
-	Ciyal
-	CumrWaShayb
-	Cuqubat
-	Cuzla
-	DhammBaghy
-	DhammDunya
-	DhammGhiba
-	DhammMalahi
-	DhammMuskir
-	FadailRamadan
-	FarajBacdaShidda
-	HammWaHuzn
-	Hawatif
-	Hilm
-	HilmMucawiya
-	HusnZannBiLlah
-	IctibarWaAcqab
-	IkhlasWaNiyya
-	Ikhwan
-	IshrafFiManazil
-	IslahMal
-	IstinacMacruf
-	Juc
-	KalamLayali
-	MakaidShaytan
-	MakarimAkhlaq
-	ManCashaBacdaMawt
-	Manamat
-	MaqtalCali
-	MaradWaKaffarat
-	MatarWaRacd
-	MudaratNas
-	MuhasabaNafs
-	Muhtadirin
-	MujabuDacwa
-	Mutammanin
-	QadaHawaij
-	QasrAmal
-	Qinaca
-	QiraDayf
-	Qubur
-	RasailFiTawakkul
-	Rida
-	RiqqaWaBuka
-	Sabr
-	SamtWaAdab
-	Shukr
-	ShukrLiLlah
-	SifaJanna
-	SifaNar
-	Tahajjud
-	TawaducWaKhumul
-	Tawba
-	WajalWaTawaththuq
-	Warac
-	Yaqin
-	Zuhd
+	Ahwal, AmrBiMacruf, Awliya, CaqlWaFadluh, Ciyal, CumrWaShayb, Cuqubat, Cuzla, DhammBaghy, DhammDunya, DhammGhiba, DhammMalahi, DhammMuskir, FadailRamadan, FarajBacdaShidda, HammWaHuzn, Hawatif, Hilm, HilmMucawiya, HusnZannBiLlah, IctibarWaAcqab, IkhlasWaNiyya, Ikhwan, IshrafFiManazil, IslahMal, IstinacMacruf, Juc, KalamLayali, MakaidShaytan, MakarimAkhlaq, ManCashaBacdaMawt, Manamat, MaqtalCali, MaradWaKaffarat, MatarWaRacd, MudaratNas, MuhasabaNafs, Muhtadirin, MujabuDacwa, Mutammanin, QadaHawaij, QasrAmal, Qinaca, QiraDayf, Qubur, RasailFiTawakkul, Rida, RiqqaWaBuka, Sabr, SamtWaAdab, Shukr, ShukrLiLlah, SifaJanna, SifaNar, Tahajjud, TawaducWaKhumul, Tawba, WajalWaTawaththuq, Warac, Yaqin, Zuhd
+
+0281IbnHusaynHamdani
+	Juz
+
 0282AbuHanifaDinawari
 	AkhbarTiwal
+
 0282HarithHaythami
 	BughyaBahith
+
+0282IbnAbiUsamaTamimi
+	Cawali
+
+0282IbnHarbCaskari
+	MusnadAbiHurayra
+
 0282IbnIshaqJahdami
-	FadlSalat
+	AhkamQuran, FadlSalat, JuzFihiHadith, JuzMinHadithMalik
+
 0283AbuIshaqThaqafi
 	Gharat
+
+0283BaghandiKabir
+	AmaliBaghandi
+
+0283IbnIbrahimKhuttali
+	Dibaj
+
+0283IbnRumi
+	Diwan
+
 0283SahlTustari
 	Tafsir
+
+0284Buhturi
+	Diwan
+
+0285IbnIbrahimSancani
+	Hadith
+
 0285IbnYazidMubarrad
-	Fadil
-	Tacazi
+	Fadil, KamilFiLugha, Muqtadab, Tacazi
+
 0285IbrahimHarbi
-	GharibHadith
-	IkramDayf
+	GharibHadith, IkramDayf, RisalaFiQuranGhayrMakhluq
+
 0286IbnWaddahQurtubi
 	Bidac
+
 0286Mubarrad
 	NasabCadnan
+
 0287Dahhak
-	AhadWaMathani
-	Awail
-	Diyat
-	Jihad
-	Mudhakkir
-	Salat
-	Sunna
-	Zuhd
+	AhadWaMathani, Awail, Diyat, Jihad, Mudhakkir, Salat, Sunna, Zuhd
+
+0290AbuTalibIbnSalama
+	Fakhir
+
 0290IbnAhmadIbnHanbal
-	FadailCuthman
-	Sunna
+	FadailCuthman, Sunna
+
 0290IbnHasanSaffar
 	BasairDarajat
+
 0291IbnYahyaThaclab
-	Fasih
-	MajalisThaclab
-	QawacidShicr
+	Fasih, MajalisThaclab, QawacidShicr
+
 0292AbuBakrBazzar
 	BahrZakhkhar
+
 0292Bahshal
 	TarikhWasit
+
 0292IbnCaliMarwazi
-	MusnadAbiBakr
+	JumcaWaFadluha, MusnadAbiBakr
+
 0292Yacqubi
-	Buldan
-	TarikhYacqubi
+	Buldan, TarikhYacqubi
+
+0294IbnAyyubRazi
+	FadailQuran
+
 0294IbnNasrMarwazi
-	IkhtilafCulama
-	QiyamRamadan
-	Sunna
-	TaczimQadrSalat
+	IkhtilafCulama, MukhtasarQiyamLayl, QiyamRamadan, SalatWitr, Sunna, TaczimQadrSalat
+
+0295AbuJacfarTirmidhi
+	TafsirBiRiwayaAbiJacfar
+
 0295IbnHasanHarrani
 	FawaidMuntaqa
+
 0296IbnMuctazz
-	Diwan
-	TabaqatShucara
+	Badic, Diwan, TabaqatShucara
+
 0296MuhammadIbnJarrah
-	ManIsmuhCamr
+	ManIsmuhCamr, Waraqa
+
 0297IbnAbiShayba
-	Carsh
-0297IbnAbuShayba
-	JuzFihiMasail
+	Carsh, JuzFihiMasail
+
 0297IbnDawudZahiri
 	Zahra
+
+0298YahyaIbnHusayn
+	Ahkam, TathbitImama, TuhfaCasjadiya
+
+0300IbnCisaAshcari
+	Nawadir
+
 0300IbnJacfarHimyari
 	QurbIsnad
+
 0300IbnKhurdadhbih
-	MasalikWaMamalik
-	MukhtarMinKitabLahw
+	MasalikWaMamalik, MukhtarMinKitabLahw
+
+0300IbnSacidKufi
+	Mumin, Zuhd
+
+0300IbnSulaymanKufi
+	ManaqibImam
+
 0300IbnZakariyaHajari
 	Tacliqat
+
 0300MuallifMajhul
 	AkhbarDawlaCabbasiya
+
 0301AbuBakrFaryabi
-	DalailNubuwwa
+	AhkamCidayn, DalailNubuwwa, FadailQuran, Fawaid, Qadar, SifatNifaq, Siyam
+
 0301Bardiji
-	TabaqatAsma
+	Kabair, TabaqatAsma
+
+0302AbuMuhammadAshyabBaghdadi
+	Juz
+
 0302QasimCawfi
 	DalailFiGharibHadith
+
+0303IbnSufyanNasawi
+	Arbacuna
+
 0303Nasai
-	CamalYawmWaLayla
-	DhikrMudallisin
-	DucafaWaMatrukin
-	FadailQuran
-	FadailSahaba
-	Ighrab
-	Jumca
-	KhasaisAmirMumininCali
-	MajlisanMinImla
-	MiatHadithSaqitaMinSunanKubra
-	NucutAsmaWaSifat
-	SunanKubra
-	SunanSughra
-	Tabaqat
-	TasmiyaFuqaha
-	TasmiyaManLamYarwi
-	TasmiyaShuyukh
-	Wafat
+	CamalYawmWaLayla, DhikrMudallisin, DucafaWaMatrukin, FadailQuran, FadailSahaba, Ighrab, Jumca, KhasaisAmirMumininCali, MajlisanMinImla, MajmucatRasail, MiatHadithSaqitaMinSunanKubra, NucutAsmaWaSifat, Sunan, SunanKubra, SunanSughra, Tabaqat, TasmiyaFuqaha, TasmiyaManLamYarwi, TasmiyaShuyukh, Wafat
+
+0304IbnMuzarrac
+	Amali
+
+0305IbnZakariyaMutarriz
+	Fawaid
+
 0306IbnHayyanDabbi
 	AkhbarQudat
+
 0307AbuYaclaMawsili
-	Mafarid
-	Mucjam
+	HadithIbnBashshar, Mafarid, Mucjam, Musnad
+
+0307IbnHarunRuyani
 	Musnad
+
+0307IbnJarudNaysaburi
+	Muntaqa
+
 0308IbnIbrahimJundi
 	FadailMadina
+
 0309IbnFadlan
 	Rihla
+
+0309IbnHasanAzdi
+	MunjidFiLugha
+
 0309IbnMarzuban
-	DhammThuqala
-	FadlKilab
+	DhammThuqala, FadlKilab, Murua
+
+0310IbnAbiDawudSijistani
+	Masahif
+
 0310IbnAhmadDulabi
-	Dhariyya
-	KunaWaAsma
+	Dhariyya, KunaWaAsma
+
+0310IbnCabbasYazidi
+	Amali
+
+0310IbnCaliMadaini
+	Fawaid
+
 0310Nawbakhti
 	FiraqShica
+
 0310Tabari
-	IkhtilafFuqaha
-	JamicBayan
-	MuntakhabMinDhayl
-	SarihSunna
-	TabsirFiMacalimDin
-	TahdhibAthar
-	Tarikh
+	IkhtilafFuqaha, JamicBayan, MuntakhabMinDhayl, SarihSunna, TabsirFiMacalimDin, TahdhibAthar, Tarikh
+
+0311AbuBakrKhallal
+	AkhamAhlMilal, AmrBiMacruf, HaththCalaTijara, QuraaCindaQubur, Sunna, WuqufWaTarajjul
+
+0311IbnFilBalisi
+	Juz
+
+0311IbnKhuzaumaNaysaburi
+	Fawaid, Sahih, Tawhid
+
+0311IbnSariZajjaj
+	MacaniQuran, TafsirAsmaAllah
+
 0312IbnCaliTusi
 	MukhtasarAhkam
+
 0312IbnMuhammadBaghandi
 	MusnadCumar
+
+0312IbnMuhammadWasiti
+	Juz
+
 0313IbnIshaqSarraj
-	Musnad
+	Baytuta, Musnad
+
 0313IbnZakariyaRazi
-	HawiFiTibb
-0316IbnIshaqIsfaraini
+	HawiFiTibb, RasailFalsafiyya
+
+0313IbnZaydanKufi
 	Musnad
-	Mustrakhraj
+
+0314IbnActhamKufi
+	Futuh
+
+0315AkhfashAsghar
+	Ikhtiyarayn
+
+0315IbnFaydGhassani
+	AkhbarWaHikayat
+
+0316IbnIshaqIsfaraini
+	Musnad, Mustrakhraj
+
+0316IbnSarrajNahwi
+	UsulFiNahw
+
+0316IbnSulaymanSijistani
+	Bacth, MusnadCaisha, Qasida
+
 0317AbuQasimBaghawi
-	AhadithTalut
-	HadithMuscab
-	HikayatShucba
-	JuzFiMasailIbnHanbal
-	JuzThalathaWaThalathina
-	MucjamSahaba
-	MusnadCuthman
-	MusnadUsama
-	TarikhWafatShuyukh
+	AhadithTalut, HadithMuscab, HikayatShucba, JuzFiMasailIbnHanbal, JuzThalathaWaThalathina, MucjamSahaba, MusnadCuthman, MusnadUsama, TarikhWafatShuyukh
+
+0317IbnCammarShahid
+	CilalAhadith
+
+0317IbnHaythamKufi
+	Hadith
+
+0317IbnJabirBattani
+	Zij
+
 0318AbuCurubaHarrani
-	MuntaqaMinTabaqat
+	Ahadith, Awail, JuzBiRiwayatAntaki, MuntaqaMinTabaqat
+
+0318IbnAhmadZubayri
+	SharhImanWaIslam
+
+0318IbnMuhammadHashimi
+	Amali, MusnadIbnAbiAwfa
+
+0319IbnMundhirNaysaburi
+	AwsatFiSunan, Ijmac, Iqnac, IshrafCalaMadhahib, TafsirQuran
+
 0320CaribQurtubi
 	SilaTarikhTabari
+
 0320HakimTirmidhi
-	AdabNafs
-	Amthal
-	CaqlWaHawa
-	Manhiyyat
-	NawadirUsul
-	RiyadatNafs
+	AcdaWaNafs, AdabNafs, Amthal, CaqlWaHawa, Manhiyyat, NawadirUsul, RiyadatNafs
+
+0320IbnMascudCayyashi
+	Tafsir
+
+0320IbnMuhammadBayhaqi
+	Mahasin
+
 0320Israili
 	AghdhiyaWaAdwiya
-0321AbyJacfarTahawi
-	AhkamQuran
-	HadithAbiJacfar
-	MatnAqida
-	MukhtasarIkhtilafCulama
-	SharhMacaniAthar
-	SharhMushkilAthar
-	TakhrijAqida
-	TaswiyaBaynaHaddathanaWaAkhbarana
+
+0321AbuJacfarTahawi
+	AhkamQuran, HadithAbiJacfar, MatnAqida, MukhtasarIkhtilafCulama, SharhMacaniAthar, SharhMushkilAthar, TakhrijAqida, TaswiyaBaynaHaddathanaWaAkhbarana
+
 0321IbnDuraydAzdi
-	FawaidWaAkhbar
-	Ishtiqaq
-	JamharatLugha
-	MatarWaSahab
-	TacliqMinAmali
+	Diwan, FawaidWaAkhbar, Ishtiqaq, JamharatLugha, MatarWaSahab, TacliqMinAmali
+
+0322AbuBakrZubayri
+	Fawaid
+
 0322AbuJacfarCuqayli
 	DucafaKabir
+
+0322IbnAbiCawn
+	Tashbihat
+
+0322IbnCabdAllahDhuhali
+	Fawaid
+
+0322IbnTabataba
+	CiyarShicr
+
 0322KatibBaghdadi
 	TarikhAimma
+
+0323CaliHimyari
+	Juz
+
+0323IbnCabdCazizBasri
+	Saqifa
+
+0323IbnMuhammadWasiti
+	MajmucatAjza
+
 0324Ashcari
-	Ibana
-	MaqalatIslamiyyin
-	RisalaIlaAhlThughr
+	Ibana, MaqalatIslamiyyin, RisalaIlaAhlThughr
+
+0324IbnMuhammadCanbari
+	Majalis
+
+0324IbnMuhammadNaysaburi
+	Ziyadat
+
+0324IbnMusaBaghdadi
+	SabcaFiQiraat
+
+0325IbnCabdAllahWarraq
+	CilalNahw
+
+0325IbnCabdSamadBaghdadi
+	Amali
+
+0325IbnIshaqWashsha
+	Muwashsha
+
+0325IbnMuhammadNaysaburi
+	AhadithMinMusnad
+
+0325IbnSahlRazi
+	AkhbarFakhkh
+
 0327AbuBakrKharaiti
-	FadilatShukr
-	HawatifJinan
-	IctilalQulub
-	MakarimAkhlaq
-	MasawiAkhlaq
-	MuntaqaMinMakarim
+	FadilatShukr, HawatifJinan, IctilalQulub, MakarimAkhlaq, MasawiAkhlaq, MuntaqaMinMakarim
+
 0327IbnAbiHatimRazi
-	AdabShafici
-	BayanKhataBukhari
-	CilalHadith
-	JarhWaTacdil
-	Marasil
-	Tafsir
+	AdabShafici, BayanKhataBukhari, CilalHadith, JarhWaTacdil, Marasil, Tafsir
+
+0327IbnJacfarSamiri
+	FadilatShukrAllah
+
 0328IbnCabdRabbihi
-	CiqdFarid
-	Diwan
-	TabaicNisa
+	CiqdFarid, Diwan, TabaicNisa
+
 0328IbnQasimAnbari
-	MajlisMinAmali
-	ZahirFiMacani
+	MajlisMinAmali, ZahirFiMacani
+
+0329Barbahari
+	SharhSunna
+
+0329IbnAhmadRabaci
+	Juz, MuntaqaMinAkhbarAsmaci
+
 0329IbnBabawayh
-	FiqhRida
-	ImamaWaTabsira
+	FiqhRida, ImamaWaTabsira
+
+0329IbnIbrahimQummi
+	Tafsir
+
+0329IbnMuhammadMarwadhi
+	Muntaqa
+
+0329IbnYacqubKulayni
+	Kafi
+
+0330BahithIbnMarzuban
+	Alfaz
+
+0330IbnCazizSijistani
+	GharibQuran
+
+0330IbnIsmacilMahamili
+	Amali, Duca
+
+0330IbnMuhammadKhashshab
+	Juz
+
+0330IbnMuhammadSulami
+	Juz
+
 0330Sirafi
 	Rihla
+
+0331IbnMukhalladCattar
+	Amali, Fawaid, Juz, MaRawaAkabir, MuntaqaHadith
+
 0333AbuCarabTamimi
-	Mihan
-	TabaqatCulama
+	Mihan, TabaqatCulama
+
+0333AbuMansurMaturidi
+	Tafsir, Tawhid
+
+0333IbnCuqdahKufi
+	FadailAmirMuminin, Wilaya
+
 0333IbnMarwanDinawari
 	MujalasaWaJawahirCilm
+
+0333IbnMuhammadMadini
+	Juz
+
 0334IbnHaikHamdani
-	Iklil
-	SifaJaziraCarab
+	Iklil, SifaJaziraCarab
+
+0334IbnHamdanKhusaybi
+	HidayaKubra
+
+0334IbnHusaynKhiraqi
+	MukhtasarMinMasailIbnHanbal
+
 0334IbnSacidQushayri
 	TarikhRaqqa
+
+0335IbnAhmadTabari
+	FawaidHadithAbiCumayr
+
+0335IbnKulaybShashi
+	Musnad
+
 0335Suli
-	AdabKuttab
-	AkhbarAbiTamam
-	AkhbarRadi
-	AshcarAwladKhulafa
-	JuzMinAhadith
+	AdabKuttab, AkhbarAbiTamam, AkhbarRadi, AshcarAwladKhulafa, JuzMinAhadith
+
+0336IbnAhmadTusi
+	Juz
+
+0336IbnHumamIskafi
+	Takhmis
+
 0337IbnIshaqZajjaji
-	Akhbar
+	Akhbar, Amali, HurufMacani, Lamat, MajalisCulama
+
 0337QudamaIbnJacfar
-	Kharaj
-	NaqdShicr
+	Kharaj, NaqdShicr
+
+0338AbuJacfarNuhhas
+	CumdatKuttab, IcrabQuran, MacaniQuran, NasikhWaMansukh
+
+0339AbuNasrFarabi
+	AlfazMustacmilaFiMantiq, FiMantiq, Huruf, Siyasa
+
+0339IbnAshnani
+	Ajza
+
+0339IbnCamrBaghdadiRazzaz
+	MajmucMusannifat
+
+0340IbnAcrabiBasri
+	Mucjam, QublWaMucanaqa, ZuhdWaSifatZahidin
+
+0341IbnCabdAllahBukhari
+	SirrSilsilaCalawiyya
+
+0341IbnHamidHawrani
+	Juz
+
+0343IbnSulaymanAtrabulusi
+	Hadith
+
+0344IbnSammak
+	Amali, Fawaid, JuzShurut
+
+0344NizamDinShashi
+	Usul
+
+0345IbnCabbasBazzaz
+	HadithShucba
+
+0345IbnCabdWahidGhulamThaclab
+	CasharatFiGharibLugha, YaqutatSirat
+
+0345IbnMuhammadSamarqandi
+	FawaidMuntaqat
+
+0346AsammNaysaburi
+	Majmuc
+
+0346IbnCaliTasti
+	Hadith
+
+0346IbnQasimDimashqi
+	Hadith
+
+0346IbnSahlJundisaburi
+	Nuskha
+
 0346Istakhri
 	MasalikWaMamalik
+
 0346Mascudi
-	AkhbarZaman
-	MurujDhahab
-	TanbihWaIshraf
+	AkhbarZaman, MurujDhahab, TanbihWaIshraf
+
+0347IbnHazlam
+	Juz, Mashyakha
+
 0347IbnYunusSadafi
 	Tarikh
+
+0348IbnMuhammadKhuldi
+	Fawaid
+
+0348IbnSalmanNajjad
+	Amali, DhikrManLahuAyat, Hadith, MusnadCumarIbnKhattab, RaddCalaManYaqulQuranMakhluq
+
 0349IbnCumarMuqri
 	AkhbarNahwiyyin
+
+0350IbnCabdCaliQatifi
+	ShuhubThawaqib
+
+0350IbnIbrahimFarabi
+	MucjamDiwanAdab
+
+0351IbnAhmadSijzi
+	MuntaqaMinMusnadMuqillin
+
+0351IbnCaliHalabiLughawi
+	Ittibac
+
 0351IbnQanic
 	MucjamSahaba
-0354IbnHibban
-	Majruhin
-	MashahirCulamaAmsar
-	Sira
-	Thiqat
+
+0352IbnAhmadKufi
+	Istighatha
+
+0352IbnDuhaymShaybani
+	Fawaid
+
+0352IbnIbrahimKufi
+	Tafsir
+
+0353IbnHarunDimashqi
+	SifatNabi
+
+0353IbnMuhammadMakki
+	Fawaid
+
+0353IbnSacidTanukhi
+	HadithHimyan
+
+0354IbnCabdAllahBazzaz
+	Fawaid
+
+0354IbnCabdJabbarNiffari
+	Mawaqif, Mukhatabat
+
+0354IbnHasanCattar
+	Juz
+
+0354IbnHibbanBusti
+	Majruhin, MashahirCulamaAmsar, RawdatCuqala, Sira, Thiqat
+
+0354Mutanabbi
+	Diwan
+
 0355AbuFarajIsbahani
-	Aghani
-	Diyarat
-	MaqatilTalibiyyin
+	Aghani, Diyarat, ImaShawacir, MaqatilTalibiyyin
+
 0355MuhammadKindi
-	FadailMisr
-	WulatMisr
+	FadailMisr, WulatMisr
+
+0356IbnQasimBaghdadi
+	AmaliFiLugha, Ittibac
+
+0356IbnQasimMisri
+	NuskhatNabit
+
+0357AbuFirasHamdani
+	Diwan
+
+0357IbnMuhammadKinani
+	Hadith, JuzBitaqa
+
+0359AbuBakrNasibi
+	Fawaid, Hadith
+
+0359AbuCaliSawwaf
+	Fawaid, Juz
+
 0360AbuBakrAjurri
-	AdabNufus
-	AkhbarAbiHafs
-	AkhlaqAhlQuran
-	AkhlaqCulama
-	ArbacunaHadithan
-	DhammLiwat
-	FadlQiyamLayl
-	Ghuraba
-	MasalatTaifin
-	Sharica
-	TahrimNard
+	AdabNufus, AkhbarAbiHafs, AkhlaqAhlQuran, AkhlaqCulama, ArbacunaHadithan, DhammLiwat, FadlQiyamLayl, Ghuraba, MasalatTaifin, Sharica, TahrimNard, TasdiqBiNazar
+
+0360AbuBakrAnbari
+	Hadith, MuntaqaMinHadith
+
+0360IbnCaliQassab
+	NukatDalla
+
 0360Khawlani
 	TarikhDaraya
+
+0360KushajimShacir
+	Diwan
+
+0360Ramhurmuzi
+	AmthalHadith, MuhaddithFasil
+
 0360Tabarani
-	AhadithTiwal
-	Awail
-	Duca
-	FadailRamy
-	FadlCasharDhiHijja
-	HadithDabb
-	JuzHadithAhlBasra
-	MakarimAkhlaq
-	ManIsmuhCata
-	MucjamAwsat
-	MucjamKabir
-	MucjamSaghir
-	MusnadShamiyyin
-	TuruqHadithManKadhdhabaCalayya
-	ZiyadadFiJawdWaSakha
+	AhadithTiwal, Awail, Duca, FadailRamy, FadlCasharDhiHijja, HadithDabb, JuzHadithAhlBasra, MakarimAkhlaq, ManIsmuhCata, MucjamAwsat, MucjamKabir, MucjamSaghir, MusnadShamiyyin, TuruqHadithManKadhdhabaCalayya, ZiyadadFiJawdWaSakha
+
+0361IbnCumarDarraj
+	Juz
+
+0361IbnIbrahimTustari
+	MudhakkarWaMuannath
+
+0362IbnAhmadKindi
+	MuhibbWaMahbub
+
+0362IbnHaniAndalusi
+	Diwan
+
+0362IbnMuhammadMuzakki
+	Muzakkiyat
+
+0363IbnHusaynSijistani
+	ManaqibShafici
+
 0363QadiNucman
-	DacaimIslam
-	SharhAkhbar
+	DacaimIslam, SharhAkhbar
+
+0364IbnSunniDinawari
+	CamalYawmWaLayl, Qinaca
+
 0365IbnCadiJurjani
-	AsamiManRawaCanhum
-	KamilFiDucafa
+	AsamiManRawaCanhum, KamilFiDucafa
+
 0365IbnFaqihHamadhani
 	Buldan
+
+0366IbnCabdAllahNaysaburi
+	ManWafaqatKunyatuhu
+
+0366IbnNajidNaysaburi
+	Juz
+
+0366SariRaffaShacir
+	Diwan
+
+0367AbuLaythSamarqandi
+	BahrCulum
+
+0367IbnAhmadDhuhli
+	Juz
+
 0367IbnHawqal
 	SuraArd
+
 0368AbuGhalibZurari
 	Risala
+
+0368IbnJacfarQatici
+	Fawaid
+
 0368Sirafi
 	AkhbarNahwiyyin
+
 0369AbuShaykhIsbahani
-	TabaqatMuhaddithin
+	AhadithAbiZubayr, AkhlaqNabi, AmthalFiHadith, Cawali, Cuzma, DhikrAqran, Fawaid, Hikayat, TabaqatMuhaddithin, Tawbikh
+
+0369IbnMasiBaghdadi
+	Fawaid
+
+0370AzhariHarawi
+	MacaniQiraat, TahdhibLugha, ZahirFiGharibAlfazShafici
+
+0370IbnAhmadIbnKhalawayh
+	HujjaFiQiraatSabca
+
 0370IbnBishrAmidi
-	MutalifWaMukhtalif
+	MutalifWaMukhtalif, Muwazana
+
+0370IbnCaliJassas
+	AhkamQuran, FusulFiUsul
+
+0370IbnQasimKhayyat
+	Hadith
+
+0370IbnRashiqMisri
+	Juz
+
 0371AhmadJurjani
 	Mucjam
+
+0371IbnIbrahimJurjani
+	IctiqadAimmatHadith
+
 0372AbuSacidQayruwani
 	TahdhibMudawwana
+
+0373AbuLaythSamarqandi
+	TanbihGhafilin
+
 0374IbnHusaynAzdi
-	AhadithMuntaqat
-	AsmaManYucrafBiKunya
-	DhikrIsmKullAshab
-	KunaLiManLaYucrafLahuIsm
-	Makhzun
-	ManWafaqaIsmuhuIsmAbihi
+	AhadithMuntaqat, AsmaManYucrafBiKunya, DhikrIsmKullAshab, KunaLiManLaYucrafLahuIsm, Makhzun, ManWafaqaIsmuhuIsmAbihi
+
+0375IbnCabdAllahAbhuri
+	FawaidGharaibHisan
+
+0375IbnHamzaBasri
+	Tanbihat
+
+0375IbnQasimMiyaniji
+	Juz
+
+0377IbnAhmadCasqalani
+	TanbihWaRadd
+
+0377IbnAhmadFarisi
+	HujjaLiQurraSabca, SharhAbyat
+
+0377IbnAhmadJurjani
+	JuzIbnGhitrif
+
+0377IbnMuhammadShimshati
+	AnwarWaMahasinAshcar
+
+0377IbnZaydAnsari
+	Hadith
+
+0378HakimKabir
+	CawaliMalik, Fawaid, ShicarAshabHadith
+
+0378IbnAhmadDarimi
+	Tuhaf
+
+0378IbnIsmacilWarraq
+	MajlisFiFadlYawmCarafa
+
+0378IbnKhalafJubayri
+	Tawassut
+
+0378IbnSalihQahtani
+	QasidaNuniyya
+
+0379IbnMuzaffarBazzaz
+	GharaibHadithMalik, Hadith, HadithShucba
+
 0379MuhammadRabci
-	TarikhMawlidCulama
+	Juz, TarikhMawlidCulama, WasayaCulama
+
+0380AbuBakrKalabadhi
+	BahrFawaid, TacarrufLiMadhhabAhlTasawwuf
+
+0380IbnCabdRahmanIsbahani
+	Wadih
+
+0380IbnIbrahimNucmani
+	Ghayba
+
+0380IbnMuhammadBasili
+	TaqyidKabir
+
+0380Khalidiyyan
+	AshbahWaNazair, TuhafWaHadaya
+
 0380Muhallabi
 	MasalikWaMamalik
+
 0381AbuQasimJawhari
 	MusnadMuwatta
+
 0381IbnBabawayh
+	Amali, CilalSharaic, CuyunAkhbarRida, FadailAshhurThalatha, FadailShica, Hidaya, Ictiqadat, KamalDin, Khisal, MacaniAkhbar, ManLaYahduruhuFaqih, Muqnic, SifatShica, Tawhid, ThawabAcmal
+
+0381IbnCabdRahmanZuhri
+	Hadith
+
+0381IbnHusaynNaysaburi
+	MabsutFiQiraatCashar
+
+0381IbnMuqriIsbahani
+	Arbacuna, Fawaid, JuzNafic, MinHadith, Mucjam, MuntakhabMinGharaibMalik, Rukhsa
+
+0381IbnYusufCallaf
 	Amali
-	CilalSharaic
-	CuyunAkhbarRida
-	FadailAshhurThalatha
-	FadailShica
-	Hidaya
-	Ictiqadat
-	KamalDin
-	Khisal
-	MacaniAkhbar
-	ManLaYahduruhuFaqih
-	Muqnic
-	SifatShica
-	Tawhid
-	ThawabAcmal
+
 0382IbnCabdAllahCaskari
-	AkhbarMusahhifin
+	AkhbarMusahhifin, JamharatAmthal, MasunFiAdab, TashifatMuhaddithin
+
+0382IbnMuhammadBazdawi
+	KanzWusul
+
+0383IbnCabbasKhwarizmi
+	Amthal, MufidCulum
+
+0383IbnHayawayhKhazzaz
+	Mashyakha
+
+0384AbuHasanRummani
+	MacaniHuruf, ManazilHuruf, RisalatHudud
+
+0384IbnCaliTanukhi
+	FarajBacdaShidda, Mustajad, NishwarMuhadara
+
 0384IbnCimranMarzubani
-	MucjamShucara
+	AkhbarSayyidHumaydi, AshcarNisa, MucjamShucara, MukhtasarAkhbarShucaraShica, Muwashshah
+
 0385Daruqutni
-	Afrad
-	AhadithAllatiKhulifaFihaMalikIbnAnas
-	AhadithMuwatta
-	ArbacunaMinMusnadBurayd
-	CilalWarida
-	DhikrAsmaTabicin
-	Ducafa
-	FadailSahaba
-	FawaidAfrad
-	FawaidMuntaqat
-	IlzamatWaTatabbuc
-	MinHadithDhuhali
-	MutalifWaMukhtalif
-	Nuzul
-	RuyatAllah
-	Sifat
-	SualatBarqani
-	SualatNaysaburi
-	Sunan
-	TacliqatCalaMajruhin
+	Afrad, AhadithAllatiKhulifaFihaMalikIbnAnas, AhadithMuwatta, ArbacunaMinMusnadBurayd, CilalWarida, DhikrAsmaTabicin, Ducafa, FadailSahaba, FawaidAfrad, FawaidMuntaqat, IlzamatWaTatabbuc, MawsucatAqwal, MinHadithDhuhali, MutalifWaMukhtalif, Nuzul, RuyatAllah, Sifat, SualatBarqani, SualatHamza, SualatNaysaburi, Sunan, TacliqatCalaMajruhin
+
+0385IbnHasanSirafi
+	SharhAbyatMutanabbi
+
+0385IbnMuhandis
+	HadithAbiQasimCafiya
+
 0385IbnNadim
 	Fihrist
+
 0385IbnShahin
-	Afrad
-	DhikrManIkhtalafaCulama
-	FadailFatima
-	FadailRamadan
-	Fawaid
-	JuzHadith
-	NasikhHadithWaMansukhuh
-	SharhMadhahib
-	TarghibFiFadailAcmal
-	TarikhAsmaDucafa
-	TarikhAsmaThiqat
+	Afrad, DhikrManIkhtalafaCulama, FadailFatima, FadailRamadan, Fawaid, JuzHadith, NasikhHadithWaMansukhuh, SharhMadhahib, TarghibFiFadailAcmal, TarikhAsmaDucafa, TarikhAsmaThiqat
+
+0385SahibIbnCabbadTalqani
+	AmthalSaira, KashfCanMusawiShicrMutanabbi, MuhitFiLugha, Ruznamaja
+
+0385WaWaDimashqi
+	Diwan
+
 0386AbuTalibMakki
 	QutQulub
+
+0386IbnAbiZaydQayrawani
+	NawadirWaZiyadat, Risala
+
+0386IbnCumarHarbi
+	Fawaid, FawaidMuntaqa, Hadith, Harbiyyat, Mashyakha
+
+0386IbnHasnunMuqri
+	LughatFiQuran
+
+0387IbnBattaCukbari
+	IbanaCanSharica, IbanaKubra, IbtalHiyal, SabcunaFiJihad
+
 0387IbnSamcunBaghdadi
 	Amali
+
 0387KatibKhwarizmi
 	MafatihCulum
+
+0388IbnBukayrSyrafi
+	FadailTasmiyya
+
+0388IbnHasanHatimi
+	HilyatMuhadara, RisalaWadiha
+
+0388IbnMuhammadBusti
+	Cuzla, GharibHadith, GhunyaCanKalam, IslahGhalatMuhaddithin, MacalimSunan, ShanDuca
+
 0388Shabushti
 	Diyarat
+
+0390IbnAkhiMimiDaqqaq
+	Fawaid
+
+0390IbnCabdAllahCaskari
+	HaththCalaTalabCilm
+
 0390IbnZakariyaNahrawani
 	JalisSalih
+
 0390Muqaddasi
 	AhsanTaqasim
+
+0392IbnAbiShurayhHarawi
+	AhathidMia
+
+0392IbnCabdCazizJurjani
+	Wisata
+
+0392IbnIsmacilMisri
+	CuqalaMajanin
+
 0392IbnJinniMawsili
-	AlfazMahmuza
-	Carud
-	CilalTathniyya
-	CuqudHamz
-	Khasais
-	LumacFiCarabiyya
-	MubhijFiTafsirAsmaShucara
-	MuhtasinFiTabyin
-	Munsif
-	SirrSinacatIcrab
-	TamamFiTafsirAshcarHudhayl
+	AlfazMahmuza, Carud, CilalTathniyya, CuqudHamz, Khasais, LumacFiCarabiyya, MubhijFiTafsirAsmaShucara, MuhtasinFiTabyin, Munsif, SirrSinacatIcrab, TamamFiTafsirAshcarHudhayl
+
 0393AbuTahirMukhallis
-	Mukhallisiyat
-	SabcatMajalis
+	Mukhallisiyat, SabcatMajalis
+
+0393IbnHammadFarabi
+	MuntakhabMinSihahJawhari, SihahTajLugha
+
+0393IbnWakicTinnisi
+	MunsifLiSariq
+
+0393InShahidQurtubi
+	Diwan
+
+0394IbnMuhammadAzhari
+	MuntaqaHadith
+
 0395AbuHilalCaskari
-	Talkhis
+	Awail, DiwanMacani, FuruqLughawiyya, Sinacatayn, Talkhis, WujuhWaNazair
+
+0395IbnFarisQazwini
+	Ittibac, MakhadhCilm, MucjamMaqayis, MujmalLugha, Sahibi
+
 0395IbnMandahMuhammad
+	Amali, Asami, FathBab, Fawaid, Iman, MacrifaSahaba, MusnadIbnAdham, RaddCalaJahmiyya, RisalaFiFadlAkhbar, Tawhid
+
+0396IbnCataRudhbari
 	Amali
-	Asami
-	FathBab
-	Iman
-	MacrifaSahaba
-	MusnadIbnAdham
-	RaddCalaJahmiyya
-	RisalaFiFadlAkhbar
-	Tawhid
+
+0396IbnCumarWarraq
+	Hadith
+
+0396IbnHasanDimashqi
+	Ahadith, Juz
+
 0398AbuNasrKalabadhi
 	HidayaWaIrshad
+
+0398BadicZamanHamadhani
+	Diwan, Maqamat
+
+0398IbnCaliHamadhani
+	Hadith
+
+0399IbnAbiZamanaynIlbiri
+	QudwatGhazi, RiyadJanna, Tafsir
+
+0400IbnCabdAllahHashimi
+	Amthal
+
+0400IbnCaliHarrani
+	TuhafCuqul
+
 0400IbnCamashliqJacfari
 	JuzIbnCamashliq
+
+0400IbnHusaynBazyar
+	Bayzara
+
+0400IbnHusaynYamani
+	MudahatAmthal
+
+0400IbnJarirTabariSaghir
+	DalailImama, Mustarshid, NawadirMucjizat
+
+0400IbnMuhammadBusti
+	QasidatCunwanHukm
+
+0400IbnMuhammadKhazzaz
+	KifayatAthar
+
+0400IbnMuhammadLihyani
+	Hadith
+
 0400IbnTahirMaqdisi
 	BadWaTarikh
+
 0400IshaqMunajjim
 	AkamMarjan
+
+0400MuallifMajhul
+	HududCalam
+
+0401IbnAyyashJawhari
+	MuqtadabAthar
+
+0401IbnSaburZayyat
+	TibbAimma
+
 0402MuhammadSaydawi
 	MucjamShuyukh
+
+0403AbuBakrBaqillani
+	IcjazQuran, Insaf, IntisarQuran, TamhidAwail
+
 0403IbnFaradi
 	TarikhCulamaAndalus
+
+0403IbnZanjala
+	HujjatQiraat
+
+0405AbuCabbasCasmi
+	Juz
+
 0405AbuFadlHarawi
 	MucjamFiMushtabah
+
 0405HakimNaysaburi
-	MacrifatCulumHadith
-	Mustadrak
-	TalkhisTarikhNaysabur
-	TasmiyaManAkhrajahum
+	MacrifatCulumHadith, MadkhalIlaIklil, MadkhalIlaSahih, Mustadrak, Sualat, TalkhisTarikhNaysabur, TasmiyaManAkhrajahum
+
+0405IbnHusaynHamadhani
+	FawaidWaAkhbar
+
+0406IbnFurakIsbahani
+	MushkilHadith, Tafsir
+
+0406IbnHusaynSharifRida
+	HaqaiqTawil, KhasaisAimma, MajazatNabawiyya
+
+0406IbnMuhammadNaysaburi
+	CuqalaMajanin
+
+0406IbnMuhammadSaqati
+	FadailMucawiya
+
+0406SharifRida
+	Diwan
+
+0407IbnMuhammadKharkushi
+	SharafMustafa
+
 0408IbnCabdCazizTaymi
 	JuzHadith
+
 0409CabdGhaniAzdi
-	Awham
-	FawaidHadith
-	Ghawamis
-	KitabMutawarin
-	Rubaci
-0410IbnMardawayh
-	ThalathaMajalis
-0412Sulami
-	TabaqatSufiya
-0413ShaykhMufid
-	AhkamNisa
-	Amali
-	AqsamMawla
-	Ashraf
-	AwailMaqalat
-	CadamSahwNabi
-	Cawis
-	DhabaihAhlKitab
-	FusulCashara
-	HadithNahnuMacashirAnbiya
-	Hikayat
-	Iclam
-	Ifsah
-	Ikhtisas
-	ImanAbiTalib
-	Irshad
-	Jamal
-	JawabatAhlMawsil
-	Kafia
-	KhulasatIjaz
-	MasailCasharFiGhayba
-	MasailCukbariyya
-	MasailJarudiyya
-	MasailSaghaniyya
-	MasailSarwiyya
-	MasailTusiyya
-	MasalaFiIrada
-	MasalatanFiNassCalaCali
-	MasarShica
-	MashCalaRijlayn
-	Mazar
-	Muqnica
-	NukatFiMuqaddimatUsul
-	NukatIctiqadiyya
-	RasailFiGhayba
-	RisalaFiMacnaMawla
-	RisalaFiMahr
-	RisalaHawlaKhabarMariya
-	RisalatMutca
-	SharhManam
-	TadhkiraBiUsulFiqh
-	TafdilAmirMuminin
-	TashihIctiqadat
-0414AbuHayyanTawhidi
-	AkhlaqWazirayn
-	Basair
-	Imtac
-	Muqabasat
-	Sadaqa
-0414AbuQasimRazi
+	Awham, FawaidHadith, Ghawamis, KitabMutawarin, Rubaci
+
+0410IbnCumarDimashqi
 	Fawaid
-	IslamZaydIbnHaritha
-	MusnadMuqallin
+
+0410IbnMardawayh
+	Majalis, ManaqibCali
+
+0410IbnSalamaBaghdadi
+	NasikhWaMansukh
+
+0411HamidDinKirmani
+	MasabihFiIthbat
+
+0411IbnCubaydAllahGhadairi
+	SharhTakmilatRisala
+
+0412IbnAhmadBaghdadi
+	Hadith
+
+0412IbnAhmadQummi
+	MiatManqaba
+
+0412IbnJacfarQayruwani
+	MaYajuziLiShacir
+
+0412IbnMuhammadHarawi
+	ArbacunaFiShuyukhSufiyya
+
+0412Sulami
+	AdabSuhba, ArbacunaFiTasawwuf, CuyubNafs, Futuwwa, Majlis, SualatLiDaruqutni, TabaqatSufiya, Tafsir, Wasiya
+
+0413IbnTalhaNaccali
+	Fawaid, Juz
+
+0413ShaykhMufid
+	AhkamNisa, Amali, AqsamMawla, Ashraf, AwailMaqalat, CadamSahwNabi, Cawis, DhabaihAhlKitab, FusulCashara, FusulMukhtara, HadithNahnuMacashirAnbiya, Hikayat, Iclam, Ifsah, Ikhtisas, ImanAbiTalib, Irshad, Jamal, JawabatAhlMawsil, Kafia, KhulasatIjaz, MasailCasharFiGhayba, MasailCukbariyya, MasailJarudiyya, MasailSaghaniyya, MasailSarwiyya, MasailTusiyya, MasalaFiIrada, MasalatanFiNassCalaCali, MasarShica, MashCalaRijlayn, Mazar, Muqnica, NukatFiMuqaddimatUsul, NukatIctiqadiyya, RasailFiGhayba, RisalaFiMacnaMawla, RisalaFiMahr, RisalaHawlaKhabarMariya, RisalatMutca, SharhManam, TadhkiraBiUsulFiqh, TafdilAmirMuminin, TashihIctiqadat
+
+0414AbuHayyanTawhidi
+	AkhlaqWazirayn, Basair, Imtac, Muqabasat, Sadaqa
+
+0414AbuQasimRazi
+	Fawaid, IslamZaydIbnHaritha, MusnadMuqallin
+
+0414IbnCaliNaqqash
+	FawaidCiraqiyyin, FununCajaib, Majalis
+
+0414IbnHasanGhadairi
+	Juz
+
+0414IbnMuhammadDinawari
+	Amali
+
+0415IbnAhmadHamadhani
+	TathbitDalailNubuwwa
+
+0415IbnMuhammadIbnBishranBaghdadi
+	Amali, Fawaid
+
+0415IbnMuhammadMahamili
+	LubabFiFiqhShafici
+
+0416CaliIbnMuhammadTihami
+	Diwan
+
+0416IbnNahhasMisri
+	RuyatAllah
+
 0418HibatAllahLalikai
-	KaramatAwliya
-	SharhUsulIctiqad
+	KaramatAwliya, SharhUsulIctiqad
+
 0418WazirMaghribi
-	AdabKhawas
-	Inas
+	AdabKhawas, Inas, Siyasa
+
+0419IbnMuhammadBushanji
+	Hadith
+
+0420IbnCabdAllahKhatibIskafi
+	DurratTanzil
+
+0420IbnHasanTabib
+	Tashbihat
+
+0420IbnMuhammadDimashqi
+	ArbacunaBuldaniyya, ArbacunaFiFadailDhikrRabb
+
+0420IbnMuhammadIbnFadala
+	Fawaid
+
 0421AbuSacdAbi
 	NathrDurr
+
+0421IbnDarrajQastali
+	Diwan
+
 0421IbnMuhammadMarzuqi
-	AmaliMarzuqi
-	AzminaWaAmkina
-	SharhDiwanHamasa
+	AmaliMarzuqi, AzminaWaAmkina, SharhDiwanHamasa
+
 0421Miskawayh
-	Tajarib
+	HawamilWaShawamil, TahdhibAkhlaq, Tajarib
+
+0422QadiCabdWahhabThaclabi
+	TalqinFiFiqh
+
+0423IbnCubaydAllahHarbi
+	Fawaid
+
+0425IbnYasirJawbari
+	Ahadith
+
 0425RaqiqQayruwani
 	QutbSurur
+
+0426IbnAhmadIbnShadhan
+	Hadith, Juz, MashyakhaSughra
+
+0426IbnCabdMalikAndalusi
+	TawabicWaZawabic
+
+0426IbnMuhammadBarqani
+	SualatLiDaruqutni
+
 0427HamzaJurjani
-	Sualat
-	TarikhJurjan
+	Sualat, TarikhJurjan
+
+0427IbnCaliShahrazuri
+	Hadith
+
 0427IbnMuhammadThacalibi
 	KashfWaBayan
+
+0428IbnCandAllahShirazi
+	Juz
+
 0428IbnManjuwayhIsbahani
 	RijalSahihMuslim
+
 0428IbnSina
-	IsharatWaTanbihat
-	Mantiq
-	QanunFiTibb
-	Siyasa
+	IsharatWaTanbihat, Mantiq, QanunFiTibb, Siyasa
+
 0428MihyarDaylami
 	Diwan
+
 0429AbuMansurThacalibi
-	AhsanMaSamictu
-	Diwan
-	DurarHikm
-	FiqhLugha
-	IcjazWaIjaz
-	KhassKhass
-	LataifWaZaraif
-	LubabAdab
-	Lutf
-	ManGhabaCanhuMutrib
-	Muntahal
-	MutanabbiWaMaLahu
-	Rasail
-	Shakwa
-	SihrBalagha
-	TahsinQabih
-	Tamthil
-	ThimarQulub
-	YatimaDahr
+	AhsanMaSamictu, Diwan, DurarHikm, FiqhLugha, IcjazWaIjaz, KhassKhass, LataifWaZaraif, LubabAdab, Lutf, ManGhabaCanhuMutrib, Muntahal, MutanabbiWaMaLahu, Rasail, Shakwa, SihrBalagha, TahsinQabih, Tamthil, ThimarQulub, YatimaDahr
+
+0429IbnIbrahimSarakhsiQarrab
+	FadailRamy
+
+0429IbnShihabCukburi
+	RisalaFiUsulFiqh
+
+0429IbnTahirBaghdadi
+	FarqBaynaFiraq
+
 0430AbuNucaymIsbahani
-	AhadithMusnadaFiAbwabQada
+	AhadithMusnadaFiAbwabQada, Amali, ArbacunaCalaMadhhabMutahaqqiqinMinSufiyya, ArbacunaMinTibb, DalailNubuwwa, DhikrManIsmuhuShucba, Ducafa, FadailKhulafaRashidin, FadilatCadilin, HilyaAwliya, ImamaWaRaddCalaRafida, JuzAhadithCanAbiCaliSawwaf, MacrifaSahaba, MajlisMinAmali, MasanidAbiYahyaKufi, MuntakhabMinHadithYunusIbnCubayd, MuntakhabMinShucara, MusnadAbiHanifa, MusnadMustakhrajCalaSahihMuslim, RiyadatAbdan, SifatJanna, SifatNifaq, TarikhIsbahan, TasmiyaMaIntahaIlayna, TasmiyyaMaIntahaIlaynaMinRuwat, TathbitImama, TibbNabawi, TuruqHadithInnaLillah99Isman
+
+0430AswadGhundijani
+	FarhatAdib
+
+0430IbnBushranBaghdadi
 	Amali
-	ArbacunaCalaMadhhabMutahaqqiqinMinSufiyya
-	ArbacunaMinTibb
-	DalailNubuwwa
-	DhikrManIsmuhuShucba
-	Ducafa
-	FadailKhulafaRashidin
-	FadilatCadilin
-	HilyaAwliya
-	ImamaWaRaddCalaRafida
-	JuzAhadithCanAbiCaliSawwaf
-	MacrifaSahaba
-	MajlisMinAmali
-	MasanidAbiYahyaKufi
-	MuntakhabMinHadithYunusIbnCubayd
-	MuntakhabMinShucara
-	MusnadAbiHanifa
-	MusnadMustakhrajCalaSahihMuslim
-	RiyadatAbdan
-	SifatJanna
-	SifatNifaq
-	TarikhIsbahan
-	TasmiyaMaIntahaIlayna
-	TasmiyyaMaIntahaIlaynaMinRuwat
-	TibbNabawi
-	TuruqHadithInnaLillah99Isman
+
+0431IbnFadlMisri
+	Fawaid
+
+0431IbnMuhammadZuzani
+	HamasatZurafa
+
+0432IbnMuhammadNasafi
+	FadailQuran
+
+0433IbnAhmadCamidi
+	IbanaCanSariqat
+
+0433IbnCaliHarawi
+	IsfarFasih
+
+0434IbnAhmadHarawi
+	Fawaid, Masmucat
+
 0435MuhallabAndalusi
 	MukhtasarNasih
+
+0436AbuFadlMikali
+	Diwan
+
 0436HusaynSaymari
 	AkhbarAbiHanifa
+
+0436IbnCaliBasri
+	MuctamadFiUsulFiqh
+
+0436SharifMurtada
+	Amali, Dharica, Intisar, MuqnicFiGhayba, Nasiriyyat, Rasail, ShafiFiImama, TanzihAnbiya
+
+0437IbnHammushQayruwani
+	Hidaya, Ibana, MushkilIcrabQuran
+
+0437IbnJamic
+	Hadith
+
+0438IbnYusufJuwayni
+	MawqifImam, RisalaFiIthbat
+
+0439IbnMuhammadKhallal
+	AkhbarThuqala, Amali, DhikrManLamYakunLahuIllaHadithWahid, FadailShahrRajab, FadailSuratIkhlas, KaramatAwliya
+
 0440AbuRayhanBiruni
-	TahqiqMaLilHind
+	Jamahir, TahqiqMaLilHind
+
+0440IbnMuhammadHimyari
+	Badic
+
+0440IbnMuhammadSawwaq
+	Hadith
+
+0441IbnCaliSuri
+	FawaidCawali, FawaidMuntaqat
+
 0441IbnIflili
 	SharhShicrMutanabbi
+
+0441IbnMuhammadCatiqi
+	Takhrij
+
 0442Tanukhi
 	TarikhCulamaNahwiyyin
+
+0443IbnCaliBasri
+	HadithMalik
+
+0443IbnCaliShamukhi
+	Ahadith
+
 0444AbuCamrDani
-	AhrufSabca
-	BayanFiCaddAyyQuran
-	CilmHadith
-	FarqBaynaDaWaZa
-	JamicBayanFiQiraatSabc
-	MuhkamFiNaqtMasahif
-	MuktafiFiWaqf
-	MuqnicFiRasmMasahif
-	Naqt
-	RisalaWafiya
-	SunanWarida
-	TahdidFiItqan
-	TaysirFiQiraatSabc
+	AhrufSabca, BayanFiCaddAyyQuran, CilmHadith, FarqBaynaDaWaZa, JamicBayanFiQiraatSabc, MuhkamFiNaqtMasahif, MuktafiFiWaqf, MuqnicFiRasmMasahif, Naqt, RisalaWafiya, SunanWarida, TahdidFiItqan, TaysirFiQiraatSabc
+
 0444AbuFadlIbnMahdi
 	DhikrShuyukh
+
+0444IbnAbiHawl
+	FadailSham
+
+0444IbnSacidSijzi
+	RisalaFiRadd
+
+0445IbnCaliShajari
+	FadlZiyaratHusayn
+
+0445IbnHasanZuzani
+	QishrFasr
+
 0446AbuYaclaKhalili
-	IrshadFiMacrifaCulama
+	Fawaid, IrshadFiMacrifaCulama
+
+0446IbnCaliAhwazi
+	Wajiz
+
+0447AbuSalahHalabi
+	Kafi, TaqribMacarif
+
+0447IbnAyyubRazi
+	CawaliMalik
+
 0448HilalSabi
-	TuhfaUmara
+	RusumDarKhilafa, TuhfaUmara
+
+0448SallarIbnCabdCaziz
+	MarasimCalawiyya
+
 0449AbuCalaMacarri
-	Diwan
-	RisalatMalaika
-	RisalatSahilWaShajih
+	Diwan, FusulWaGhayat, MucjizAhmad, RisalatGhifran, RisalatMalaika, RisalatSahilWaShajih, TafsirAbyat
+
+0449AbuFathKarajiki
+	DalilNass, Istibsar, KanzFawaid, MacdanJawahir, QawlMubin, Tacajjub
+
 0450AbuHasanMawardi
-	AclamNubuwwa
-	AdabDunyaWaDin
-	AhkamSultaniyya
-	DurarSuluk
-	HawiKabir
-	IqnacFiFiqh
-	NukatWaCuyun
-	TashilNazar
+	AclamNubuwwa, AdabDunyaWaDin, AhkamSultaniyya, DurarSuluk, HawiKabir, IqnacFiFiqh, NukatWaCuyun, TashilNazar
+
 0450Najashi
 	Rijal
+
+0451AbuCuthmanBuhayri
+	Fawaid
+
+0451IbnCushariHanbali
+	FadailAbiBakr
+
 0453AbuIshaqHusri
-	JamcJawahir
-	NurTaraf
-	ZuhrAdab
+	JamcJawahir, NurTaraf, ZuhrAdab
+
+0454AbuMuhammadJawhari
+	Amali, MajlisFiTawaduc
+
+0454IbnAhmadRazi
+	AhadithFiDhammKalam, FadailQuran
+
+0454IbnBadisSanhaji
+	CumdatKuttab
+
+0454IbnSalamaMisri
+	DusturMacalim, MusnadShihab
+
+0455IbnHamdBarujirdi
+	FathCalaAbiFath
+
+0455IbnKhalafSaraqusti
+	CunwanFiQiraatSabca
+
 0456IbnHazm
-	AkhlaqWaSiyar
-	AsmaKhulafa
-	FadailAndalus
-	FaslFiMacrifatNafs
-	FaslFiMilal
-	HujjatWidac
-	IhkamFiUsulAhkam
-	JamharaAnsab
-	JawamicSira
-	MaratibIjmac
-	MuhallaBiAthar
-	NaqtCarus
-	NasikhWaMansukh
-	NubdhaKafiya
-	RaddCalaKindi
-	Rasail
-	RisalaFiAhlShaqa
-	RisalaFiAlamMawt
-	RisalaFiFutuhIslam
-	RisalaFiGhina
-	RisalaFiImama
-	RisalaFiMaratibCulum
-	RisalaFiRaddCalaHatif
-	RisalaFiRaddCalaIbnNaghrila
-	RisalaFiUmmahatKhulafa
-	RisalatBayan
-	RisalatTalkhis
-	RisalatTawqif
-	RisalatanFiTacnif
-	TafsirAlfazFiUsul
-	TaqribLiHaddMantiq
-	TawqHamama
+	AkhlaqWaSiyar, AsmaKhulafa, FadailAndalus, FaslFiMacrifatNafs, FaslFiMilal, HujjatWidac, IhkamFiUsulAhkam, JamharaAnsab, JawamicSira, MaratibIjmac, MuhallaBiAthar, NaqtCarus, NasikhWaMansukh, NubdhaKafiya, RaddCalaKindi, Rasail, RisalaFiAhlShaqa, RisalaFiAlamMawt, RisalaFiFutuhIslam, RisalaFiGhina, RisalaFiImama, RisalaFiMaratibCulum, RisalaFiRaddCalaHatif, RisalaFiRaddCalaIbnNaghrila, RisalaFiUmmahatKhulafa, RisalatBayan, RisalatTalkhis, RisalatTawqif, RisalatanFiTacnif, TafsirAlfazFiUsul, TaqribLiHaddMantiq, TawqHamama
+
+0457IbnAhmadSayrafi
+	Mashyakha
+
 0458Bayhaqi
-	Adab
-	AhkamQuranLiShafici
-	ArbacunaSughra
-	AsmaWaSifat
-	BacthWaNushur
-	BayanKhata
-	DacawatKabir
-	DalailNubuwwa
-	FadailAwqat
-	HadithJuwaybari
-	HayatAnbiya
-	Ictiqad
-	IthbatCidhabQabr
-	JamicFiKhatim
-	MacrifatSunanWaAthar
-	MadkhalIlaSunanKubra
-	QadaWaQadar
-	QiraatKhalfaImam
-	RisalaIlaJuwayni
-	ShucabIman
-	SunanKubra
-	SunanSaghir
-	ZuhdKabir
+	Adab, AhkamQuranLiShafici, ArbacunaSughra, AsmaWaSifat, BacthWaNushur, BayanKhata, DacawatKabir, DalailNubuwwa, FadailAwqat, HadithJuwaybari, HayatAnbiya, Ictiqad, IthbatCidhabQabr, JamicFiKhatim, MacrifatSunanWaAthar, MadkhalIlaSunanKubra, QadaWaQadar, QiraatKhalfaImam, RisalaIlaJuwayni, ShucabIman, SunanKubra, SunanSaghir, ZuhdKabir
+
+0458IbnSidahMursi
+	CadadFiLugha, MuhkamWaMuhit, Mukhassas, SharhMushkil
+
+0458QadiAbuYacla
+	AhkamSultaniyya, Amali, CuddaFiUsulFiqh, IbtalTawilat, RusulMuluk
+
+0459IbnMuhammadDimashqi
+	Fawaid
+
 0460AbuIshaqIlbiri
 	Diwan
-0460ShaykhTusi
+
+0460IbnFadlIsbahani
 	Amali
-	CiddatUsul
-	Fihrist
-	Ghayba
-	IkhtiyarMacrifaRijal
-	Iqtisad
-	Istibsar
-	Khilaf
-	Mabsut
-	MisbahMujtahid
-	Nihaya
-	RasailCashar
-	Rijal
-	TahdhibAhkam
-	TajridMantiq
-	Tibyan
+
+0460IbnSharafQayruwani
+	MasailIntiqad
+
+0460ShaykhTusi
+	Amali, CiddatUsul, Fihrist, Ghayba, IkhtiyarMacrifaRijal, Iqtisad, Istibsar, Khilaf, Mabsut, MisbahMujtahid, Nihaya, RasailCashar, Rijal, TahdhibAhkam, TajridMantiq, Tibyan
+
 0461IbnHusaynSughdi
 	NutafFifatawa
+
 0463IbnCabdBarr
-	AdabMujalasa
-	BahjatMajalis
-	Durar
-	InbahCalaQabail
-	Insaf
-	IntiqaFiFadail
-	IsticabFiMacrifaAshab
-	IstidhkarJamic
-	JamicBayan
-	KafiFiFiqh
-	TamhidMuwatta
+	AdabMujalasa, BahjatMajalis, Durar, InbahCalaQabail, Insaf, IntiqaFiFadail, IsticabFiMacrifaAshab, IstidhkarJamic, JamicBayan, KafiFiFiqh, TamhidMuwatta
+
+0463IbnRashiqQayrawani
+	CumdaFiMahasinShicr, Diwan
+
+0463IbnZaydun
+	Diwan
+
 0463KhatibBaghdadi
-	ArbacMajalis
-	AsmaMubhama
-	Bukhala
-	CawaliMalik
-	DhikrJahrBiBasmala
-	DhikrSalatTasbih
-	FaqihWaMutafaqqih
-	FaslLiWaslMudrajFiNaql
-	GhunyaMultamis
-	HadithSittaMinTabicin
-	IqtidaCilmCamal
-	JamicLiAkhlaqRawiWaAdabSamic
-	JuzTuruqHadithIbnCumarFiTaraiHilal
-	KifayaFiCilmRiwaya
-	MasalaIhtijajBiShafici
-	MuntakhabMinZuhdWaRaqaiq
-	MuttafiqWaMuftariq
-	MuwaddihAwham
-	NasihatAhlHadith
-	QawlFiCilmNujum
-	RihlaFiTalabCilm
-	SabiqWaLahiq
-	SharafAshabHadith
-	TalkhisMutashabih
-	TaqyidCilm
-	TarikhBaghdad
-	Tatfil
+	ArbacMajalis, AsmaMubhama, Bukhala, CawaliMalik, DhikrJahrBiBasmala, DhikrSalatTasbih, FaqihWaMutafaqqih, FaslLiWaslMudrajFiNaql, GhunyaMultamis, HadithSittaMinTabicin, IqtidaCilmCamal, JamicLiAkhlaqRawiWaAdabSamic, JuzTuruqHadithIbnCumarFiTaraiHilal, KalamCalaSifat, KifayaFiCilmRiwaya, MasalaIhtijajBiShafici, MuntakhabMinZuhdWaRaqaiq, MuttafiqWaMuftariq, MuwaddihAwham, NasihatAhlHadith, QawlFiCilmNujum, RihlaFiTalabCilm, SabiqWaLahiq, SharafAshabHadith, TalkhisMutashabih, TaqyidCilm, TarikhBaghdad, Tatfil
+
+0465IbnCaliMaghribi
+	KamilFiQiraat
+
+0465IbnHawazinQushayri
+	LataifIsharat, NahwQulub, RisalaQushayriyya
+
 0466CabdAzizKattani
-	DhaylTarikhMawlidCulama
+	DhaylTarikhMawlidCulama, MusalsalCidayn
+
+0466IbnSinanKhafaji
+	Diwan, SirrFasaha
+
+0467IbnHasanBakharzi
+	Diwan, DumyatQasr
+
+0468IbnAhmadWahidiNaysaburi
+	AsbabNuzul, SharhDiwanMutanabbi, WajizFiTafsir, WasitFiTafsir
+
+0468IbnCabdRahmanNaysaburi
+	Fawaid
+
+0468IbnMuhammadMihrawani
+	Fawaid
+
 0469IbnHayyanQurtubi
 	Muqtabas
+
+0470CaliIbnGhanaim
+	Fawaid
+
+0470IbnIsmacilTarabulusi
+	KifayatMutahaffiz
+
+0470IbnMalikYamani
+	KashfAsrarBatiniyya
+
+0470IbnMuhammadIbnMandahIsbahani
+	RaddCalaManYaqul
+
+0470IbnMuhammadKufi
+	Cawali
+
 0471CabdQadirJurjani
-	AsrarBalagha
-	DalailIcjaz
-	MiftahFiSarf
+	AsrarBalagha, DalailIcjaz, MiftahFiSarf
+
+0471IbnAhmadIbnBannaBaghdadi
+	FadlTahlil, RisalaMughniyya
+
+0471IbnCaliBalkhi
+	Wakhshiyat
+
+0471IbnMuhammadIsfaraini
+	TabsirFiDin
+
+0473IbnHayyush
+	Diwan
+
 0474IbnKhalafBaji
-	TacdilWaTakhrij
+	MuntaqaMinSharhMuwatta, Nasiha, TacdilWaTakhrij
+
 0475IbnMakula
-	IkmalFiRafcIrtiyab
-	TahdhibMustamirr
+	IkmalFiRafcIrtiyab, TahdhibMustamirr
+
+0475IbnMandahCabdWahhabIsbahani
+	Fawaid
+
 0476AbuIshaqShirazi
-	TabaqatFuqaha
+	LumacFiUsulFiqh, MacunaFiJadal, MuhadhdhabFiFiqh, TabaqatFuqaha, TabsiraFiUsulFiqh, TanbihFiFiqhShafici
+
+0476AclamShantamari
+	AshcarShucara
+
+0477BibiHarawiyya
+	Juz
+
+0478IbnCabSamadQattan
+	Juz
+
+0478ImamHaramaynJuwayni
+	BurhanFuUsulFiqh, GhiyathUmam, IjtihadMinTalkhis, LamcAdilla, NihayatMatlab, TalkhisFuUsulFiqh, Waraqat
+
+0478MutawalliNaysaburi
+	GhunyaFiUsulDin
+
+0479IbnFaddalQayruwani
+	NukatFiQuran
+
+0480IbnHaddadQaysi
+	Diwan
+
 0480IbnHilalSabi
 	HafawatNadira
+
+0481AnsariHarawi
+	ArbacunaFiDalailTawhid, DhammKalam, ManazilSairin
+
+0481IbnBarrajTarabulusi
+	JawahirFiqh, Muhadhdhib
+
+0481NasirKhusraw
+	SafarNamah
+
 0482AbuIshaqHabbal
 	WafayatMisriyyin
+
+0482IbnSacidNucmani
+	Juz
+
+0483IbnAhmadSarakhsi
+	Mabsut, SharhSiyarKabir, Usul
+
+0483IbnMuhammadIbnMaghaziliWasiti
+	ManaqibCali
+
+0485IbnMuhammadHaddadMahdawi
+	HasrHarfZa
+
 0485NizamMulkWazir
-	MajlisanMinAmali
-	SiyasatNama
+	Amali, SiyasatNama
+
+0486IbnAhmadHakkari
+	HadiyyatAhya
+
+0486IbnAhmadZuzani
+	SharhMucallaqat
+
 0487AbuCubaydBakri
-	MasalikWaMamalik
-	MucjamMaIstacjama
+	MasalikWaMamalik, MucjamMaIstacjama
+
+0487IbnCabdCazizAndalusi
+	FaslMaqal, LaaliFiSharhAmali, TanbihCalaAwham
+
+0487IbnCaliShirazi
+	Amali
+
 0488IbnFutuhHumaydi
-	AkhbarWaAshcar
-	JadhwaMuqtabis
-	JamcBaynaSahihayn
-	Tadhkira
-	TafsirGharib
+	AkhbarWaAshcar, JadhwaMuqtabis, JamcBaynaSahihayn, Tadhkira, TafsirGharib
+
+0488IbnWahhabHanbali
+	Masmucat
+
+0489IbnFadlIsbahani
+	FawaidCawali
+
+0489IbnHasanBaqillaniBaghdadi
+	IctiqadQadiri
+
+0489IbnMuhammadSamcani
+	IntisarAshabHadith, QawaticAdilla, TafsirQuran
+
+0489IbnYusufJurjani
+	CillatHadith
+
+0490IbnIbrahimNabulusi
+	Amali, TahrimNikahMutca
+
+0491IbnMuhammadZaynabi
+	Amali, Juz, MajlisYawmJumca
+
+0492AbuHasanKhulci
+	Fawaid, HadithSufyanIbnCuyayna, Khulciyat, MuntaqaMinKhulciyat
+
+0494IbnCaliMawsili
+	ArbacunaWacdaniyya
+
+0494IbnSacidIbnKarama
+	TanbihGhalifin
+
+0496IbnNajahAndalusi
+	MukhtasarTabyin
+
+0497IbnFarajIbnTallacQurtubi
+	AqdiyatRasul
+
+0497IbnIbnZahraTuraythithi
+	Hadith
+
 0498AbuCaliJayyani
-	AlqabSahaba
-	TaqyidMuhmal
+	AlqabSahaba, TaqyidMuhmal
+
+0498IbnMuhammadAbuBakrIsbahani
+	Juz
+
 0499IbnBattalQurtubi
 	SharhSahihBukhari
+
 0499IbnHusaynJurjani
 	TartibAmali
+
+0500HusaynIbnCabdWahhab
+	CuyunMucjizat
+
+0500IbnAhmadHakimHaskari
+	ShawahidTanzil
+
+0500IbnAhmadSarrajBaghdadi
+	MasaricCushshaq
+
+0500IbnCabdAllahQadiTanukhi
+	Qawafi
+
+0500IbnHusaynGhadairiWasiti
+	Rijal
+
+0500IbnMuhammadHulwani
+	NuzhatNazir
+
+0500IbnMuhammadKhatibBushanji
+	Juz
+
+0502IbnCaliTabriziShaybani
+	DiwanHamasa, SharhQasaid
+
 0502RaghibIsbahani
-	DharicaFiMakarimSharica
-	Mufradat
-	MuhadaratUdaba
-	TafsilNashatayn
-	Tafsir
+	DharicaFiMakarimSharica, Mufradat, MuhadaratUdaba, TafsilNashatayn, Tafsir
+
+0504IbnMuhammadCimadDinTabari
+	AhkamQuran
+
 0505Ghazali
-	AsnafMaghrurin
-	BidayatHidaya
-	Fadaih
-	IhyaCulumDin
-	Iqtisad
-	JawahirQuran
-	KimiyaSacada
-	MacarijQuds
-	MahkNazar
-	Mankhul
-	MaqsadAsna
-	MicyarCilm
-	MishkatAnwar
-	MizanCamal
-	Munqidh
-	Mustasfa
-	QawaidCaqaid
-	SirrCalamin
-	Tahafut
-	TibrMasbuk
-	Wasit
+	AsnafMaghrurin, BidayatHidaya, Fadaih, IhyaCulumDin, Iqtisad, JawahirQuran, KimiyaSacada, MacarijQuds, MahkNazar, Mankhul, MaqsadAsna, MicyarCilm, MishkatAnwar, MizanCamal, Munqidh, Mustasfa, QawaidCaqaid, SirrCalamin, Tahafut, TibrMasbuk, Wasit
+
+0505IbnHamzaTajQurraKirmani
+	AsrarTikrar, GharaibTafsir
+
+0507AbiwardiShacir
+	Diwan
+
 0507AbuBakrShashi
-	HilyaCulama
-0507IbnMuhammadKharkushi
-	SharafMustafa
+	Fawaid, HilyaCulama
+
 0507IbnQaysarani
-	AnsabMuttafiqa
-	AtrafGharaib
-	DhakhiratHuffaz
-	IdahIshkal
-	MacrifatTadhkira
-	Manthur
-	MasalatCuluwwWaNuzul
-	MasalatTasmiyya
-	Samac
-	TadhkiratHuffaz
+	AnsabMuttafiqa, AtrafGharaib, DhakhiratHuffaz, IdahIshkal, MacrifatTadhkira, Manthur, MasalatCuluwwWaNuzul, MasalatTasmiyya, Samac, TadhkiratHuffaz, TadhkiratMawducat
+
 0508FattalNaysaburi
 	RawdaWacizin
+
+0508IbnMukhtarBaghdadi
+	Fawaid
+
+0509IbnShahridarDaylami
+	Firdaws
+
+0510IbnCaliAbuGhanaimNursi
+	FawaidKufiyyin, ThawabQada
+
 0510IbnMascudBaghawi
-	AnwarFiShamailNabi
-	SharhSunna
-	SiyarMinTahdhib
-	Tafsir
+	AnwarFiShamailNabi, SharhSunna, SiyarMinTahdhib, Tafsir
+
 0511IbnMandahYahya
-	MacrifaAsamiArdaf
+	Amali, JuzFihiDhikr, MacrifaAsamiArdaf, ManCasha
+
 0511SalmaSahari
 	Ansab
+
+0514IbnAhmadIsbahaniJarkani
+	Juz
+
+0515CumarKhayyam
+	Rubaciyyat
+
+0515IbnMuhammadAminDinTarabulusi
+	MajmucLatif
+
 0515IbnQattac
-	DurraKhatira
-0521IbnAbiYacla
-	TabaqatHanabila
+	Afcal, DurraKhatira
+
+0516IbnCabdWahidDaqqaqIsbahani
+	Amali, MucjamMashaikh
+
+0516IbnCaliHariri
+	DurratGhawwas, MahallatIcrab, Maqamat, SharhMaqamat
+
+0517IbnKhayyatShacir
+	Diwan
+
+0518IbnMuhammadMaydaniNaysaburi
+	MucjamAmthal
+
+0520IbnMuhammadTurtushi
+	Hawadith, SirajMuluk
+
+0520IbnRushdJadd
+	BayanWaTahsil, Maqamat, RaddCalaManDhahaba
+
+0521IbnMuhammadBatlayusi
+	Hadaiq, HilalFiSharh, InsafFiTanbih, MushkilatMuwatta
+
 0521MuhammadHamadhani
 	TakmilaTarikhTabari
+
+0524IbnAhmadIbnAkfaniDimashqi
+	Hadith
+
 0524IbnAkfani
 	DhaylDhaylTarikhMawlidCulama
+
+0525IbnAhmadIbnHattabRazi
+	Ahadith
+
 0525IbnCaliTabari
 	BisharatMustafa
-0528FathIbnKhaqan
-	QalaidCiqyan
+
+0526IbnAbiYacla
+	Ictiqad, Masail, TabaqatHanabila
+
+0527IbnHamdis
+	Diwan
+
+0527IbnMuhammadIsbahaniYunarati
+	Hadith
+
+0528IbnMuhammadIbnHaqanIshbili
+	MatmahAnfus
+
 0528IbnZaqqaqBalansi
 	Diwan
+
+0529IbnIsmacilCabdGhafirFarisi
+	Amali
+
+0531IbnMuhammadJurjaniHusayni
+	HashiyaCalaKashshaf
+
+0532IbnCumarGhaziIsbahani
+	Juz
+
+0533IbnKhafajaShacir
+	Diwan
+
+0533IbnTahirAbuQasimShahhami
+	AhadithSubaciyyat, CawaliMalik, JuzTuhfatCidFitr
+
+0533IbnYahyaIbnSaighSaraqusti
+	RasailFalsafiyya
+
 0535QadiMaristan
 	Mashyakha
+
 0535QawwamSunna
-	Cawali
-	DalailNubuwwa
-	HujjaFiBayanMahajja
-	IcrabQuran
-	Musalsalat
-	SiyarSalaf
-	TarghibWaTarhib
+	Cawali, DalailNubuwwa, HujjaFiBayanMahajja, IcrabQuran, Musalsalat, SiyarSalaf, TarghibWaTarhib
+
+0536AbuTahirTanukhi
+	Tanbih
+
+0536IbnAhmadAbuQasimSamarqandi
+	Amali, MaQarubaSanaduhu
+
+0536IbnCaliMazariTamimi
+	SharhTalqin
+
+0537IbnMuhammadNajmDinNasafi
+	TalibatTalaba
+
+0537IbnMuhammadTabasi
+	ArbacunaMustakhraja
+
 0538JarAllahZamakhshari
-	AsasBalagha
-	AtwaqDhahab
-	FaiqFiGharib
-	JibalWaAmkinaWaMiyah
-	KalimNawabigh
-	Kashshaf
-	Maqamat
-	MufassilFiSuncatIcrab
-	MustaqsaFiAmthal
-	Qustas
-	RabicAbrar
+	AsasBalagha, AtwaqDhahab, FaiqFiGharib, JibalWaAmkinaWaMiyah, KalimNawabigh, Kashshaf, Maqamat, MufassilFiSuncatIcrab, MustaqsaFiAmthal, Qustas, RabicAbrar
+
 0540AbuMansurJawaliqi
-	SharhAdabKatib
+	MaJaaCalaFacaltu, SharhAdabKatib
+
+0540IbnAhmadAbuSacdIsbahani
+	Amali, Fawaid
+
+0540IbnAhmadCalaDinSamarqandi
+	TuhfatFuqaha
+
 0540IbnBadhish
 	IqnacFiQiraat
+
+0541IbnAhmadShaykhShuyukhSufi
+	Juz
+
 0541IbnCatiyaAndalusi
-	Fahrasa
-	MuharrirWajiz
+	Fahrasa, MuharrirWajiz
+
 0542IbnBassamShantarini
 	Dhakhira
+
+0542IbnCaliDiyaDinIbnShajari
+	MalamYunshar, MukhtaratShucara
+
+0542IbnCaliIbnJullabiWasiti
+	Juz
+
+0542IbnMunjibTajRiyasaIbnSayrafi
+	Afdaliyyat, MukhtarMinShicr
+
+0543IbnCarabiIshbili
+	AhkamQuran, CawasimMinQawasim, Mahsul, QanunTawil
+
+0543IbnHusaynBaquliIsbahani
+	IcrabQuran
+
+0543IbnIbrahimHamadhaniJurqani
+	Abatil
+
 0544CiyadIbnMusaYahsubi
-	Ghunya
-	TartibMadarik
+	Ghunya, IlmacIlaMacrifa, MashariqAnwar, ShifaBiTacrif, TartibMadarik
+
+0548IbnCabdKarimShahrastani
+	MilalWaNihal, NihayatIqdam
+
 0548IbnHasanTabarsi
-	IclamWara
-	Ihtijaj
-	MakarimAkhlaq
-	MishkatAnwar
-	TafsirJawamicJamic
-	TafsirMajmacBayan
-	TajMawalid
+	IclamWara, Ihtijaj, MakarimAkhlaq, TafsirJawamicJamic, TafsirMajmacBayan, TajMawalid
+
+0548IbnQaysaraniShacir
+	Diwan
+
+0548IbnYahyaAbuSacdNaysaburi
+	Arbacuna
+
 0550AbuHajjajAshcari
 	TacrifBiAnsab
+
+0550IbnIbrahimAzdiSalmasi
+	ManazilAimma
+
+0550IbnNasirAbuFadlSallami
+	TanbihCalaAlfaz
+
+0553BayanHaqqNaysaburi
+	BahirBurhan, IjazBayan
+
+0555IbnMuhammadHamadhaniTai
+	ArbacunaFiIrshad
+
 0555IbnQalanisi
 	Tarikh
+
+0558IbnAbiKhayrCimraniYamani
+	ByanFiMadhhabShafici, IntisarFiRadd
+
+0560IbnCaliIbnHamzaTusi
+	ThaqibFiManaqib, Wasila
+
 0560SharifIdrisi
 	NuzhaMushtaq
+
+0560WazirIbnHubayraShaybani
+	IkhtilafAimma
+
 0561Samcani
-	Ansab
-	Muntakhab
-	Tahbir
+	AdabImla, Ansab, FadailSham, Muntakhab, Tahbir
+
 0562IbnHamdun
 	TadhkiraHamduniyya
+
+0562IbnHasanIsbahaniThaqafi
+	CarusAjza, Fawaid
+
+0563AbuCalaKirmani
+	MafatihAghani
+
+0563IbnMuqarrabBaghdadiKarkhi
+	Arbacuna
+
+0564IbnCabdWahidSamarqandi
+	Majlis, MujibatJanna
+
+0564IbnNasrIbnDajajiHanbali
+	SafatMulah
+
+0565IbnMuhammadAbuBakrBaghdadi
+	Khumasiyyat, Mashyakha
+
 0565IbnZaydBayhaqi
-	LubabAnsab
-	TarikhBayhaq
-	TatimmaSiwanHikma
+	LubabAnsab, TarikhBayhaq, TatimmaSiwanHikma
+
 0566AbuMascudHajji
 	WafayatJamacatMinMuhaddithin
+
+0567CarqalaKalbi
+	Diwan
+
 0567IbnKhashshabBaghdadi
 	TarikhMawalidAimma
+
+0568IbnAhmadKhwarazmiMakki
+	Manaqib
+
+0569BinyaminTutili
+	Rihla
+
 0569CumaraHakami
 	NukatCasriyya
+
+0569IbnAhmadCattarHamadhani
+	Futya
+
+0570IbnMuhammadKarabisiNaysaburi
+	Furuq
+
+0570IbnYahyaSamawalMaghribi
+	BadhlMajhudFiIfhamYahud, GhayatMaqsud, IfhamYahud
+
+0571IbnCaliDiyaDinRawandi
+	Nawadir
+
 0571IbnCasakir
-	AkhbarLiHifzQuran
-	ArbacunaAbdalCawali
-	ArbacunaBuldaniyya
-	ArbacunaFiHathth
-	ArbacunaMinMusawat
-	DhammDhiWajhayn
-	DhammMalahi
-	DhammManLaYacmaluBiCilmihi
-	DhammQuranaSu
-	FadilatDhikrAllah
-	FadlShahrRamadan
-	FadlUmmMumininCaisha
-	FadlYawmCarafa
-	HadiWaKhamsunMinAmali
-	JuzFiFadlRajab
-	KashfMughatta
-	MadhTawaduc
-	MinHadithAhlHurdan
-	MucjamShuyukh
-	TabyinImtinan
-	TabyinKadhb
-	TacziyatMuslim
-	TarikhDimashq
-	TarjamatHasan
-	TarjamatHusayn
-	Tawba
+	AkhbarLiHifzQuran, ArbacunaAbdalCawali, ArbacunaBuldaniyya, ArbacunaFiHathth, ArbacunaMinMusawat, DhammDhiWajhayn, DhammMalahi, DhammManLaYacmaluBiCilmihi, DhammQuranaSu, FadilatDhikrAllah, FadlShahrRamadan, FadlUmmMumininCaisha, FadlYawmCarafa, HadiWaKhamsunMinAmali, JuzFiFadlRajab, KashfMughatta, MadhTawaduc, MinHadithAhlHurdan, MucjamShuyukh, TabyinImtinan, TabyinKadhb, TacziyatMuslim, TarikhDimashq, TarjamatHasan, TarjamatHusayn, Tawba
+
+0571IbnIbrahimIbnSacdKhayrAnsari
+	QurtCalaKamil
+
+0572RusafiBalansi
+	Diwan
+
+0573IbnHibatAllahQutbDinRawandi
+	Dacawat, FihqQuran, Kharaij, QisasAnbiya
+
 0573NashwanHimyari
-	KhulasaSiyar
+	HurCin, KhulasaSiyar, ShamsCulum
+
 0573RashidWatwat
 	MatlubKullTalib
+
 0574ShuhdaBintAhmad
 	Cumda
+
 0575IbnBabawayh
-	Arbacuna
-	Fihrist
+	Arbacuna, Fihrist
+
 0575IbnKhayrIshbili
 	Fahrasa
+
 0576IbnMuhammadSilafi
-	AhadithCanJacfarSarraj
-	AhadithCidiyya
-	AhadithShaykhKhujani
-	AhadithWaHikayat
-	ArbacunaFiHaqqFuqara
-	HadithCanHakimKufa
-	HadithMusahafa
-	JuzBiIntikhab
-	JuzThalathatAhadith
-	MajalisKhamsa
-	Mashyakha
-	MashyakhaBaghdadiyya
-	MucjamSafar
-	MuntaqaMinSafinaBaghdadiyya
-	QasidaSilafi
-	RihlaIlaAbhar
-	Tuyurat
-	Wajiz
+	AhadithCanJacfarSarraj, AhadithCidiyya, AhadithShaykhKhujani, AhadithWaHikayat, ArbacunaBuldaniyya, ArbacunaFiHaqqFuqara, HadithCanHakimKufa, HadithMusahafa, JuzBiIntikhab, JuzThalathatAhadith, MajalisKhamsa, Mashyakha, MashyakhaBaghdadiyya, MucjamSafar, MuntaqaMinSafinaBaghdadiyya, QasidaSilafi, RihlaIlaAbhar, Sualat, Tuyurat, Wajiz
+
 0577IbnAnbari
 	NuzhaAlibba
+
+0577IbnMuhammadAbuBarakatAnbari
+	AsrarCarabiyya, BulghaFiFarq, InsafFiMasail
+
+0578AhmadRifaci
+	BurhanMuayyid
+
 0578IbnBashkuwal
-	GhawamidAsma
-	MaRuwiyaFiHawd
-	Sila
+	AtharMarwiyya, GhawamidAsma, MaRuwiyaFiHawd, Mustaghithin, Sila
+
+0578IbnMuhammadIbnCataAllahSikandarani
+	CunwanTawfiq
+
+0579IbnCaliMuwaffaqDinRahbi
+	BughyatBahith
+
 0580IbnCaliIbnAbiYacla
 	TajridAsmaWaKuna
+
 0580IbnCimrani
 	InbaFiTarikhKhulafa
+
 0581AbuQasimSuhayli
-	Faraid
-	NataijFikrFiNahw
-	RawdUnuf
+	Faraid, NataijFikrFiNahw, RawdUnuf
+
 0581IbnCumarIsbahani
-	Amali
-	DhikrIbnAbiDunya
-	DhikrIbnMandah
-	KalamCalaHadithIstilqa
-	KhasaisMusnadAhmad
-	Lataif
-	MuntahaRaghabat
-	NuzhatHuffaz
-	RubaciTabicin
-	TiwalatAkhbar
+	Amali, DhikrIbnAbiDunya, DhikrIbnMandah, KalamCalaHadithIstilqa, KhasaisMusnadAhmad, Lataif, MuntahaRaghabat, NuzhatHuffaz, RubaciTabicin, TiwalatAkhbar
+
 0581IbnKharratIshbili
-	AhkamSharciyya
-	CaqibaFiDhikrMawt
+	AhkamSharciyya, CaqibaFiDhikrMawt
+
 0581IbnTufayl
 	HayyIbnYaqzan
+
+0582IbnBariMisriMuqaddasi
+	FiTacrib, GhalatDucafaMinFuqaha, MasailManthuraFiTafsir
+
+0583SibtIbnTacawidhiShacir
+	Diwan
+
 0584IbnMunqidhShayzari
-	Ictibar
+	BadicFiNaqdShicr, Diwan, Ictibar, LubabAdab, ManazilWaDiyar
+
 0584IbnMusaHazimi
-	Amakin
-	CujalaMubtadi
+	Amakin, CujalaMubtadi, IctibarFiNasikhWaMansukh
+
+0585IbnCaliIbnZuhraHalabi
+	GhunyatNuzuc
+
+0586IbnMuhammadAbuNasrCattabi
+	SharhNukat
+
+0587AbuMacaliFurawi
+	Subaciyat
+
+0587IbnMascudCalaDinKasani
+	BadaicSanaic
+
+0588IbnShahrAshub
+	MacalimCulama, ManaqibAlAbiTalib
+
+0590IbnFirruhShatibi
+	HirzAmani
+
+0590IbnNasrJalalDinShayzari
+	ManhajMasluk, NihayatRutba
+
+0592IbnCabdRahmanLakhmiQurtubi
+	RaddCalaNuhat
+
+0592IbnCaliFakhrDinIbnDahhan
+	TaqwimNazar
+
+0593BurhanDinFarghaniMarghinani
+	Bidaya, HidayaFiSharhBidaya
+
+0593IbnHusaynShihabDinIsbahani
+	GhayaWaTaqrib
+
+0593IbnMuhammadJamalDinGhaznawi
+	UsulDin
+
+0595IbnCabdQadirBaghdadiJilani
+	ArbacunaJilaniyya
+
 0595IbnRushdHafid
-	BidayatMujtahid
-	DaruriFiUsulFiqh
-	FaslMaqal
-	Qiyas
-	RisalatNafs
-	TalkhisKhitaba
-	TalkhisSafsata
+	BidayatMujtahid, DaruriFiUsulFiqh, FaslMaqal, Qiyas, RisalatNafs, TalkhisKhitaba, TalkhisSafsata
+
 0597CimadDinKatib
-	BarqShami
-	KharidaQasr
+	BarqShami, Diwan, KharidaQasr
+
 0597IbnJawzi
-	Adhkiya
-	AkhbarNisa
-	BahrDumuc
-	BirrWaSila
-	BirrWalidayn
-	BustanWacizin
-	CilalMutanahiyya
-	DafcShubahTashbih
-	DhammHawa
-	DucafaWaMatrukin
-	FadailQuds
-	FununAfnan
-	GharibHadith
-	HamqaWaMughallifin
-	Hathth
-	HifzCumr
-	IclamMacalim
-	IkhbarAhlRusukh
-	KashfMushkil
-	Laali
-	Lataif
-	Manthur
-	Mashyakha
-	Mawducat
-	Mudhish
-	Muntazam
-	Muqliq
-	MusaffaBiAkuff
-	Musalsalat
-	MuthirGharam
-	NawasikhQuran
-	NuzhatAcyun
-	QussasWaMudhakkirin
-	SaydKhatir
-	SifaSafwa
-	Tabsira
-	TaczimFutya
-	TadhkiraFiWacz
-	TadhkiratArib
-	TahqiqFiAhadithKhilaf
-	TalbisIblis
-	TalqihFuhum
-	TanbihNaim
-	TanwirGhabash
-	TarikhBaytMuqaddas
-	ThibatCindaMamat
-	WafaBiAhwalMustafa
-	Yaquta
-	ZadMasir
-	ZirafWaMutamajinin
+	Adhkiya, AkhbarNisa, BahrDumuc, BirrWaSila, BirrWalidayn, BustanWacizin, CilalMutanahiyya, DafcShubahTashbih, DhammHawa, DucafaWaMatrukin, FadailQuds, FununAfnan, GharibHadith, HamqaWaMughallifin, Hathth, HifzCumr, IclamMacalim, IkhbarAhlRusukh, KashfMushkil, Laali, Lataif, Manthur, Mashyakha, Mawducat, Mudhish, Muntazam, Muqliq, MusaffaBiAkuff, Musalsalat, MuthirGharam, NawasikhQuran, NuzhatAcyun, QussasWaMudhakkirin, SaydKhatir, SifaSafwa, Tabsira, TaczimFutya, TadhkiraFiWacz, TadhkiratArib, TahqiqFiAhadithKhilaf, TalbisIblis, TalqihFuhum, TanbihNaim, TanwirGhabash, TarikhBaytMuqaddas, ThibatCindaMamat, WafaBiAhwalMustafa, Yaquta, ZadMasir, ZirafWaMutamajinin
+
+0597IbnMubarakBaghdadi
+	MuntahaTalab
+
+0598IbnIbrahimIbnHajjQunawi
+	HazzGhalasim
+
+0598IbnIdrisHilli
+	MustatrafatSarair, Sarair
+
+0599IbnHasanCabdi
+	Juz
+
+0599IbnMuhammadBaghbanIsbahani
+	Fawaid
+
 0599IbnYahyaDabbi
-	BughyaMultamis
+	BughyatMultamis
+
+0599IbnYahyaHanafiKufi
+	Ahadith
+
 0600AbuBaqaHilli
 	ManaqibMazidiya
+
 0600CabdGhaniMuqaddasi
-	AhadithJamacili
-	AkhbarDajjal
-	AkhbarSalat
-	AmrBiMacruf
-	Caqida
-	CumdatAhkam
-	DhikrNar
-	FadailCumarIbnKhattab
-	FadailShahrRamadan
-	HadithIfk
-	IqtisadFiIctiqad
-	JuzAhadithShicr
-	MinManaqibNisaSahabiyyat
-	MisbahFiCuyunSihah
-	NihayatMurad
-	SharhCumdatAhkam
-	TahrimQatl
-	TarghibFiDuca
-	Tawakkul
-	TawhidLiLlah
-	ZawajAbiCasBiZaynab
+	AhadithJamacili, AkhbarDajjal, AkhbarSalat, AmrBiMacruf, Caqida, CumdatAhkam, DhikrNar, FadailCumarIbnKhattab, FadailShahrRamadan, HadithIfk, IqtisadFiIctiqad, JuzAhadithShicr, MinManaqibNisaSahabiyyat, MisbahFiCuyunSihah, NihayatMurad, SharhCumdatAhkam, TahrimQatl, TarghibFiDuca, Tawakkul, TawhidLiLlah, ZawajAbiCasBiZaynab
+
+0600IbnCabdAllahQaysi
+	IdahShawahid
+
+0600IbnCumarShaficiNaysaburi
+	ArbacunaMinMasanid
+
+0600IbnHasabAbuMajdHalabi
+	IsharatSabq
+
+0600IbnHasanIbnBitriq
+	Cumda, KhasaisWahy
+
+0600IbnJacfarMashhadi
+	FadlKufa
+
+0600IbnMuhammadLaythiWasiti
+	CuyunHikam
+
+0600IbnTahirSuri
+	QadaHuquqMuminin
+
 0600KatibMarrakushi
 	Istibsar
+
+0600QadiSayyidQummi
+	TacliqaCalaFawaidRadawiyya
+
+0600QutbdinBayhaqiKaydari
+	IdahShica
+
 0604AbuDharrKhushani
 	ImlaMukhtasar
+
 0606FakhrDinRazi
-	Ictiqadat
-	MafatihGhayb
-	Mahsul
+	Ictiqadat, MafatihGhayb, Mahsul
+
 0606IbnAthirMajdDin
-	MucjamJamic
-	NihayaFiGharib
+	MucjamJamic, NihayaFiGharib
+
+0606IbnCumarFakhrDinRazi
+	AsasTaqdis, CismatAnbiya, MacalimUsulDin
+
 0606IbnMamati
 	LataifDhakhira
+
+0607IbnMuhammadBaghdadiDarqazzi
+	Ahadith, Juz
+
+0608IbnCutyaQudaciTurtushi
+	TahrirMaqal
+
+0608IbnJacfarKatib
+	DarTiraz
+
 0609AbuCabbasJarrawi
 	HamasaMaghribiyya
+
+0610BurhanDinKHarazmiMutarrizi
+	MugharrabFiTacribMucarrab
+
+0610MuhammadIbnMashhadi
+	Mazar
+
 0611CaliHarawi
 	Isharat
+
+0611IbnMufaddalSharafDinMuqaddasi
+	AhadithMuqtabasa, Arbacuna, JuzFihiTuruqCabdRahman
+
 0611SharafDinMuqaddasi
-	Arbacin
-	ArbacunaFiFadlDuca
+	Arbacin, ArbacunaFiFadlDuca
+
 0613CaliIbnZafir
-	BadaicBadaih
-	GharaibTanbihat
+	BadaicBadaih, GharaibTanbihat
+
+0613IbnBaninDaqiqiNahwi
+	IttifaqMabani
+
+0613IbnHasanTajDinKindi
+	CawaliMalik, KhabarShicr
+
+0614IbnAhmadIbnKhumayrSabti
+	TanzihAnbiya
+
 0614IbnJubayr
 	Rihla
+
 0615MuwaffaqDinShafici
 	MurshidZuwwar
+
 0616BurhanDinBukhari
 	MuhitBurhani
+
 0616MuhibbDinCukbari
-	IcrabLamiyatShanfara
-	IcrabMaYushkil
-	Imla
-	Lubab
-	MasailKhilafiyya
-	SharhDiwanMutanabbi
-	TibyanFiIcrabQuran
+	IcrabLamiyatShanfara, IcrabMaYushkil, Imla, Lubab, MasailKhilafiyya, SharhDiwanMutanabbi, TibyanFiIcrabQuran
+
 0617MansurIbnShahanshah
 	MidmarHaqaiq
+
+0617RadiDinTusi
+	Arbacuna
+
+0618IbnCabdRahmanMuqriWasiti
+	ArbacinaFiJihad
+
+0619IbnNabih
+	Diwan
+
+0620IbnCisaAzdiQurtubi
+	InjadFiAbwabJihad
+
+0620IbnMuhammadIbnCasakir
+	ArbacunaFiManaqibUmmahat
+
 0620IbnQudamaMaqdisi
-	BulghatTalibHathith
-	CujmdatFiqh
-	DhammTawil
-	FadlYawmTarwiyya
-	HikayatMunazara
-	IthbatSifatCuluww
-	KafiFiFiqh
-	LumcatIctiqad
-	MughniFiFiqh
-	MuntakhabMinCilal
-	MutahabbinFiLlah
-	RawdatNazir
-	RiqqaWaBuka
-	RisalaFiQuran
-	SharhKitabSiyam
-	TahrimNazar
-	Tawwabin
+	BulghatTalibHathith, CujmdatFiqh, DhammTawil, FadlYawmTarwiyya, HikayatMunazara, IthbatSifatCuluww, KafiFiFiqh, LumcatIctiqad, MughniFiFiqh, MuntakhabMinCilal, MutahabbinFiLlah, RawdatNazir, RiqqaWaBuka, RisalaFiQuran, SharhKitabSiyam, TahrimNazar, Tawwabin
+
+0622IbnBadrDiyaDinMawsili
+	MughniCanHifzWaKitab
+
+0622IbnShamsKhilafa
+	AdabNafica
+
+0623IbnCabWahidBukhariMuqaddasi
+	FadlJihad, MajmucTakhrij
+
 0623Qazwini
-	Tadwin
+	SharhKabir, Tadwin
+
+0624IbnIbrahimBahaDinMuqaddasi
+	CuddaSharhCumda, HadithCisaIbnMaryam
+
+0626IbnAbiGhanaimShamsDinIbnSasra
+	Mashyakha
+
+0626IbnMuhammadKhwarazmiSakkaki
+	MiftahCulum
+
 0626YaqutHamawi
-	Khazal
-	MucjamBuldan
-	MucjamUdaba
+	Khazal, MucjamBuldan, MucjamUdaba
+
 0628IbnCaliSanhaji
 	AkhbarMuluk
+
 0628IbnQattanFasi
 	BayanWahm
+
 0629IbnNuqta
-	IfadaWaIctibar
-	TakmilaIkmal
-	TaqyidLiMacrifa
+	IfadaWaIctibar, TakmilaIkmal, TaqyidLiMacrifa
+
 0630IbnAthirCizzDin
-	Kamil
-	LubabFiTahdhibAnsab
-	UsdGhaba
+	Kamil, LubabFiTahdhibAnsab, UsdGhaba
+
+0630IbnCaliShaficiQalci
+	TahdhibRiyasa
+
+0630IbnCunaynShacir
+	Diwan
+
 0630IbnHajib
 	CawaliMalik
-0632AbyHafsSuhrawardi
+
+0630IbnMuhammadBadrDinRazi
+	HujajQuran, MabahithTafsir
+
+0631SayyidDinAmidiThaclabi
+	AhkamFiUsulAhkam, GhayatMaram
+
+0632AbuHafsSuhrawardi
 	Mashyakha
+
 0632BahaDinIbnShaddad
 	NawadirSultaniyya
+
 0632IsmacilMarwazi
 	FakhriFiAnsab
+
+0632SharafDinIbnFarid
+	Diwan
+
+0633IbnHasanIbnDihyaKalbi
+	AdaMaWajaba, MaWadahaWaMaIstabana, MutribMinAshcar
+
 0634AbuRabicHimyari
-	Iktifa
-	Musalsalat
+	Iktifa, Musalsalat
+
+0634IbnNajmIbnHanbaliJazari
+	IstikhrajJidal
+
 0635AbuMunajjaIbnLatti
 	Mashyakha
+
+0636IbnAbiMucammarAbuKhayrTabrizi
+	NasihaLiRaci
+
+0636IbnYusufBirzaliIshbili
+	SulukTariqSalaf
+
 0637IbnAthirDiyaDin
-	JamicKabir
-	MathalSair
+	JamicKabir, MathalSair
+
 0637IbnMustafwi
 	TarikhIrbil
+
+0638IbnAhmadAndalusiHarali
+	TurathFiTafsir
+
 0638IbnCarabi
-	FutuhatMakkiyya
-	Tafsir
+	Diwan, FutuhatMakkiyya, Tafsir
+
 0639AbuBakrMalaqi
 	MatlacAnwar
+
 0640AbuHafsDunaysiri
 	TarikhDunaysir
+
 0641Sarifini
 	Muntakhab
+
 0642IbnNajjar
-	DhaylTarikhBaghdad
+	DhaylTarikhBaghdad, DurraThamina, RaddCalaKhatibBaghdadi
+
 0643CaliSakhawi
-	HidayatMurtab
-	JamalQurra
+	HidayatMurtab, JamalQurra
+
 0643DiyaDinMuqaddasi
-	AhadithMukhatara
-	AhadithSahihaMimmaRawahuMuslim
-	AmradWaKaffarat
-	BulghatTalibHathith
-	Cudda
-	DhikrMusahafa
-	FadailAcmal
-	FadailBaytMaqdis
-	FadailQuran
-	HadithIbnAbiMakarim
-	IkhtisasQuran
-	IttibacSunan
-	JuzAwham
-	KhamsatAhadithMusalsalat
-	ManaqibJacfarIbnAbiTalib
-	MinHadithIbnYazidMuqri
-	MuntaqaHadithCabdawi
-	MuntaqaMinMasmucatMarw
-	MuwafaqatCawali
-	NahyCanSabbAshab
-	RuwatArbacatCashar
-	RuwatCanMuslim
-	SifatJanna
-	SunanWaAhkamCanMustafa
-	TuruqHadithNabi
-	ZiyadatCalaKabair
+	AhadithMukhatara, AhadithSahihaMimmaRawahuMuslim, AmradWaKaffarat, BulghatTalibHathith, Cudda, DhikrMusahafa, FadailAcmal, FadailBaytMaqdis, FadailQuran, HadithIbnAbiMakarim, IkhtisasQuran, IttibacSunan, JuzAwham, KhamsatAhadithMusalsalat, ManaqibJacfarIbnAbiTalib, MinHadithIbnYazidMuqri, MuntaqaHadithCabdawi, MuntaqaMinMasmucatMarw, MuwafaqatCawali, NahyCanSabbAshab, RuwatArbacatCashar, RuwatCanMuslim, SifatJanna, SifatNabi, SunanWaAhkamCanMustafa, TuruqHadithNabi, ZiyadatCalaKabair
+
 0643FathBundari
 	MukhtasarSanaBarqShami
+
+0643IbnHusaynIbnMuqirNajjar
+	Juz
+
 0643IbnSalahShahrazuri
-	AdabMuftiWaMustafti
-	AhadithFiFadtIskandariyyaWaCasqalan
-	Fatawa
-	SiyanatSahihMuslim
-	TabaqatFuqaha
-	WaslBalaghatMuwatta
+	AdabMuftiWaMustafti, AhadithFiFadtIskandariyyaWaCasqalan, Fatawa, MuqaddimatCulumHadith, SiyanatSahihMuslim, TabaqatFuqaha, WaslBalaghatMuwatta
+
+0644IbnCaliCizzDinMuhallabi
+	MaakhidhCalaShurrah
+
+0645IbnNimaHilli
+	DhawabNudar, MuthirAhzan
+
 0645TilimsaniBurri
 	Jawhara
+
 0646IbnBaytarAndalusi
 	JamicLiMufradat
+
+0646IbnCaliTajDinSubki
+	RafcHajib
+
+0646IbnCumarIbnHajibKurdi
+	JamicUmmahat, ShafiyaFiCilmTasrif
+
+0646IbnNamawarKhunaji
+	JumalFiMantiq
+
 0646IbnQifti
-	IkhbarCulama
-	InbahRuwat
-	Muhammadun
+	IkhbarCulama, InbahRuwat, Muhammadun
+
 0647CabdWahidMarrakushi
 	Mucjib
+
 0648IbnKhalilHalabi
-	CawaliAbiHanifa
-	CawaliHishamIbnCurwa
+	CawaliAbiHanifa, CawaliHishamIbnCurwa
+
+0649IbnSahlAndalusi
+	Diwan
+
+0649ibnCabdAllahMuzaffariShafici
+	Juz
+
+0650IbnMuhammadRadiDinSaghani
+	CubabZakhir, Mawducat, NaqcatSadyan, Shawarid
+
 0650IbnNazifHamawi
 	TarikhMansuri
+
 0650RashidDinDimashqi
 	MashyakhaBaghdadiyya
+
+0651IbnYusufAbuCabbasTifashi
+	SururNafs
+
+0652IbnTalhaKamalDinNasibi
+	MatalibSaul
+
 0652IbnTaymiyyaMajdDin
 	Muharrar
+
+0654IbnCabdWahidIbnAbiIsbac
+	TahrirTahbir
+
 0654SibtIbnJawzi
 	ItharInsaf
+
+0655CabdMuncimTaqiDinShafici
+	Fawaid
+
 0656IbnAbiHadid
-	FalakDair
-	RawdaMukhtara
-	SharhNahjBalagha
+	FalakDair, RawdaMukhtara, SharhNahjBalagha
+
+0656IbnAhmadShihabDinZanjani
+	TakhrijFuruc
+
+0656IbnCabdQawiMundhiri
+	HadithMutabayicinBiKhiyar, JawabFiJarhWaTacdil, RisalaFiJarhWaTacdil, TarghibWaTarhib
+
+0656IbnFadlMuzaffarCiraqi
+	NagratIghrid
+
+0656IbnMuhammadSadrDinNaysaburi
+	ArbacunaCanArbacina
+
 0657IbnIbrahimIrbili
 	MudhakaraFiAlqab
+
 0658IbnAbbar
-	HullaSiyara
-	MucjamAshab
-	TakmilaLiSila
-	TuhfaQadim
+	DurarSamt, HullaSiyara, IctabKitab, MucjamAshab, TakmilaLiSila, TuhfaQadim
+
+0659SadrDinBasri
+	Hamasa
+
 0659SainDinNaccal
 	Mashyakha
+
 0660IbnCadim
-	BughyatTalib
-	ZubdaHalab
+	BughyatTalib, Darari, ZubdaHalab
+
+0660ShadhanIbnJibrailQummi
+	Fadail, Rawda
+
+0660SultanCulamaCizzDinDimashqi
+	BidayatSul, FawaidFiIkhtisarMaqasid, ImamFiBayan, MaqasidRicaya, MunyatSul, QawacidAhkam, TafsirQuran
+
+0662HusaynIbnBadrDin
+	CiqdThamin
+
 0662RashidAttar
-	NuzhatNazir
+	GhurarFawaid, MujradAsma, NuzhatNazir
+
+0664IbnHatimCamiliShami
+	DurrNazim
+
 0664IbnTawus
-	AmanMinAkhtarAsfar
-	BinaMaqalaFatimiyya
-	DurucWaqiya
-	FalahSail
-	FarajMahmum
-	FathAbwab
-	IqbalAcmal
-	JamalUsbuc
-	KashfMahajja
-	LuhufFiQatlaTufuf
-	MalahimWaFitan
-	MujtanaMinDucaMujtaba
-	QabasMinKitabGhiyath
-	SacdSucud
-	Tahsin
-	TaraifFiMacrifatMadhahib
-	Yaqin
+	AmanMinAkhtarAsfar, BinaMaqalaFatimiyya, DurucWaqiya, FalahSail, FarajMahmum, FathAbwab, IqbalAcmal, JamalUsbuc, KashfMahajja, LuhufFiQatlaTufuf, MalahimWaFitan, MujtanaMinDucaMujtaba, QabasMinKitabGhiyath, SacdSucud, Tahsin, TaraifFiMacrifatMadhahib, Yaqin
+
 0665AbuShama
-	Rawdatayn
+	BacithCalaInkarBidac, IbrazMacani, KhutbatMuammal, MukhtasarMuammal, MurshidWajiz, Rawdatayn, SharhHadithMuqtafa
+
+0666IbnAbiBakrZaynDinRazi
+	AnmudhajJalil, MukhtarSihah, TuhfatMuluk
+
+0666IbnCadlanMawsiliRabci
+	IntikhabLiKashfAbyat
+
 0668IbnAbiUsaybica
 	CuyunAnba
+
+0668IbnCabdDaimZaynDinMuqaddasi
+	MunntaqaMinHadithJassas
+
+0668IbnHusaynJacfariHashimi
+	Takhjil
+
+0669IbnCusfurHadramiIshbili
+	DarairShicr, MumticKabirFiTasrif
+
+0671IbnCabdMuncimHanbaliHarrani
+	Juz
+
+0671IbnHasanSharafDinDimashqiNabulusi
+	AhadithSittaCiraqiyya
+
 0671ShamsDinQurtubi
-	IclamBimaFiDinNasara
-	JamicLiAhkamQuran
-	TacliqCalaTafsir
-	TadhkiraiAhwalMuta
+	IclamBimaFiDinNasara, JamicLiAhkamQuran, TacliqCalaTafsir, TadhkiraiAhwalMuta
+
+0672IbnAhmaLuluDarir
+	Juz
+
+0672IbnMalikJayyaniTai
+	AlfazMukhtalifa, AlfiyyatIbnMalik, IctimadFiNazair, IjazTacrif, IkmalAclam, SharhKafiya, ShawahidTawdih, ZakhairFiLugha
+
 0673AbuMacaliQunawi
 	MiftahGhayb
+
 0673AbuMahasinYaghmuri
 	NurQabas
+
+0673IbnMansurIbnHaddad
+	JawharNafis
+
+0676IbnHasanMuhaqqiqHilli
+	MacarijUsul, MaslakFiUsuslDin, MuctabarFiSharhMukhtasar, MukhtasarNafic, RasailTisac, SharaicIslam
+
+0676IbnIbrahimShamsDinMuqaddasi
+	KalamCalaWusul
+
 0676Nawawi
-	AdabFatwa
-	Adhkar
-	ArbacunaNawawiyya
-	BustanCarifin
-	DaqaiqMinhaj
-	IctiqadSalafFiHuruf
-	IdahFiManasikHajj
-	IjazFiSharhSunanAbiDawud
-	KhulasatAhkam
-	Majmuc
-	MasailManthura
-	MinhajTalibin
-	RawdatTalibin
-	RiyadSalihin
-	SharhArbacinaNawawi
-	SharhMuslim
-	TahdhibAsma
-	TahrirAlfaz
-	Taqrib
-	Tibyan
-	UsulWaDawabit
-0677SahibTaji
+	AdabFatwa, Adhkar, ArbacunaNawawiyya, BustanCarifin, DaqaiqMinhaj, IctiqadSalafFiHuruf, IdahFiManasikHajj, IjazFiSharhSunanAbiDawud, KhulasatAhkam, Majmuc, MasailManthura, MinhajTalibin, RawdatTalibin, RiyadSalihin, SharhArbacinaNawawi, SharhMuslim, TahdhibAsma, TahrirAlfaz, Taqrib, Tibyan, UsulWaDawabit
+
+0677IbnAhmadIbnZahirIrbili
+	Sabr
+
+0677JamalDinAhmadAlTawus
+	CaynCibra
+
+0677SahibiTaji
 	HalbaFiAsmaKhayl
+
+0678IbnAbiMansurIbnSayrafiHarrani
+	CillatHadithMusalsal
+
+0678IbnAhmadCizzDinMuqaddasi
+	KashfAsrar, TalkhisCibara
+
+0679IbnCaliKamalDinBahrani
+	SharhMiatKalima
+
 0680IbnSabuni
 	TakmilaIkmalIkmal
+
+0681IbnCabdWahidKamalDinSiwasi
+	SharhFathQadir
+
 0681IbnKhallikan
 	WafayatAcyan
+
+0682CabdRahmanIbnQudama
+	SharhKabir
+
+0682IbnYahhaGhassani
+	TakhrijAhadithDicaf
+
 0682ZakariyaQazwini
 	AtharBilad
+
+0683IbnMahmudMajdDinMawsili
+	IkhriyarLiTaclil
+
+0683IbnMansurIbnKammuna
+	JadidFiHikma
+
+0683IbnMuhammadIbnMunirIskandari
+	Insaf, Mutawari
+
+0684IbnBalabanDimashqiMuqaddasi
+	Juz
+
+0684IbnHazimQartajanni
+	MinhajBulagha
+
 0684IbnShaddad
 	AclaqKhatira
+
+0684ShihabDinQarafi
+	Dhakhira, Furuq, SharhTanqih, Umniyya
+
 0685IbnCibri
 	TarikhMukhtasarDuwal
+
 0685IbnSacidMaghribi
-	GhusunYanica
-	Jughrafiya
-	Mughrib
-	Muqtataf
-	MurqisatWaMutribat
+	GhusunYanica, Jughrafiya, Mughrib, Muqtataf, MurqisatWaMutribat, NashwatTarab
+
 0685IbnYahyaSulami
 	CiqdDurar
+
 0685NasirDinBaydawi
 	AnwarTanzil
+
 0686AbuYamanIbnCasakir
-	AhadithSafar
-	IthafZair
-	JuzFihiAhadithShahrRamadan
+	AhadithSafar, IthafZair, JuzFihiAhadithShahrRamadan
+
 0686IbnZakariyaManbiji
 	LubabFiJamc
+
 0686RadiDinAstarabadhi
-	SharhRadiCalaKafiya
-	SharhShafiyaIbnHajib
+	SharhRadiCalaKafiya, SharhShafiyaIbnHajib
+
 0687IbnNafis
-	ShamilFiSinacaTibbiyya
-	SharhTashrihQanun
+	ShamilFiSinacaTibbiyya, SharhTashrihQanun
+
+0688IbnAhmadIshbiliUmawi
+	TafsirKitabCaziz
+
+0688IbnCabdRahimIbnKamalDinHanbali
+	MuntaqaMinSamacat
+
+0688ShabZarif
+	Diwan
+
+0689AhmadIbnCabdRahmanIbnQudama
+	MukhtasarMinhajQasidin
+
+0689IbnSacidYahyaHilli
+	JamicLiSharaic, NuzhatNazir
+
+0690IbnAbiTalibFadilYusufi
+	KashfRumuz
+
 0690IbnMujawirDimashqi
 	TarikhMustabsir
+
 0691IbnYusufLabli
 	Fihrist
+
+0692IbnCisaBahaDinIrbili
+	RisalatTayf, TadhkiraFakhriyya
+
 0692TaqiDinIscirdi
 	FadailKitabJamic
+
 0693CabdKarimIbnTawus
 	FarhatGhari
+
 0693IbnAbiFathIrbili
 	KashfGhumma
+
 0694MuhibbDinTabari
-	Dhakhair
-	RiyadNadira
+	Dhakhair, KhulasatSiyar, RiyadNadira
+
 0695IbnCidhariMarrakushi
 	BayanMaghrib
+
+0695IbnHamdanHarraniNumayri
+	SifatFatwa
+
 0696CumarSunami
 	NisabIhtisab
+
 0696Dabbagh
 	MacalimIman
+
+0696DiyaDinTurkumani
+	Mashyakha
+
 0696IbnZahiri
 	Mashyakha
+
+0696SharafDinBusiri
+	Diwan
+
+0697AbuCabbasShihabDinNabulusi
+	QawacidTafsirAhlam
+
+0699IbnCabdRahmanIbnMurahhal
+	MatnMuwattatFasih
+
+0699IbnCabdRahmanQazwiniShafici
+	MukhtasarShucabIman
+
+0699IbnMaythamBahrani
+	NajatFiQiyama, QawacidMaram
+
+0699ShihabDinIshbiliLakhmi
+	MukhtasarKhilafiyyat
+
+0700AbuFadlCaliTabarsi
+	MishkatAnwar
+
+0700CaliIbnMuhammadSabzawariQummi
+	JamicKhilaf
+
+0700IbnAbiBakrAnsariBurri
+	JawharaFiNasab
+
+0700IbnYusufIbnJabar
+	NahjIman
+
+0700MuhammadIbnHasanQummi
+	CiqdNadid
+
+0700MuhammadIbnMuhammadSabzawari
+	MacarijYaqin
+
+0700MuhammadIbnSacidRawandi
+	CujalatMacrifa
+
+0701IbnNasrAllahIbnSayqalJazari
+	Maqamat
+
 0701SharafDinYunini
 	Mashyakha
+
+0702IbnCabdRahmanCubaydi
+	TadhkiraSacdiyya
+
+0702IbnDaqiqCidQushayri
+	ArbacunaHadithanTusaciyatIsnad, IhkamAhkamSharhCumdatAhkam, IlmamBiAhadith, Iqtirah, SharhArbacinaNawawiyya
+
 0703MuhammadMarrakushi
 	DhaylWaTakmila
+
+0705IbnYusufHilli
+	CudadQawiyya
+
 0705SharafDinDimyatti
-	AhadithCawali
-	ArbacunaAbdal
-	IthafFudalaBashar
-	JuzMusafahatMuslim
-	MucjamShuyukh
-	Muwafaqiyyat
-	Tasalli
+	AhadithCawali, ArbacunaAbdal, JuzMusafahatMuslim, MucjamShuyukh, Muwafaqiyyat, Tasalli
+
+0708IbnIbrahimAbuJacfarGharnati
+	Burhan, MalakTawilQatic
+
 0709CaliCalawi
 	Majdi
+
+0709IbnAbiFathShamsDinBacli
+	MatlacCalaAbwabMuqnic
+
+0709IbnAtaAllahSikandari
+	HikamCataiyya
+
 0709IbnTiqtaqa
 	FakhriFiAdab
+
+0710IbnAhmadHafizDinNasafi
+	Tafsir
+
+0710IbnIbrahimShamsDinSuruji
+	NafahatNasamat
+
+0711IbnIbrahimCimadDinWasiti
+	NasihaFiSifatRabb
+
 0711IbnManzurIfriqi
-	MukhtasarTarikhDimashq
+	LisanCarab, MukhtasarTarikhDimashq, NitharAzhar
+
 0714AhmadGhibrini
 	CunwanDiraya
+
+0715RuknDinAstarabadhi
+	SharhShafiya
+
+0716NajmDinSarsari
+	Intisarat, SharhMukhtasarRawda
+
 0718AbuIshaqWatwat
-	GhurarKhasais
-	MabahijFikar
+	GhurarKhasais, MabahijFikar
+
+0718IbnAhmadNabulusi
+	Cawali
+
+0719MascudBukhari
+	SharhTalwih
+
+0720IbnCumarKurdi
+	Juz
+
+0720IbnSaigh
+	LamhaFiSharhMulha
+
+0721IbnMuhammadMarrakushi
+	CunwanDalil
+
 0721IbnRushaydSabti
-	MalCayba
-	SunanAbyan
+	MalCayba, SunanAbyan
+
+0723IbnAjrum
+	Ajrumiyya
+
 0723IbnFuwati
 	Hawadith
+
 0724IbnCattar
-	TuhfaTalibin
+	Juz, TuhfaTalibin
+
 0725KhazinBaghdadi
 	LubabTawil
+
 0726CallamaHilli
-	IdahIshtibah
-	IrshadAdhhan
-	KashfMurad
-	KashfYaqin
-	KhulasatAqwal
-	KitabAlfayn
-	MabadiWusul
-	MinhajKarama
-	MukhtalafShica
-	MuntahaMatlab
-	MustajadMinIrshad
-	NaficYawmHashr
-	NahjHaqq
-	NihayatAhkam
-	QawacidAhkam
-	RisalaSacdiya
-	TabsiratMutacallimin
-	TadhkiratFuqaha
-	TahrirAhkam
+	IdahIshtibah, IrshadAdhhan, KashfMurad, KashfYaqin, KhulasatAqwal, KitabAlfayn, MabadiWusul, MinhajKarama, MukhtalafShica, MuntahaMatlab, MustajadMinIrshad, NaficYawmHashr, NahjHaqq, NihayatAhkam, QawacidAhkam, RisalaSacdiya, TabsiratMutacallimin, TadhkiratFuqaha, TahrirAhkam
+
 0726Yunini
 	DhaylMiratZaman
+
+0727IbnIbrahimIbnJamaca
+	IdahDalil
+
 0728IbnTaymiyya
-	AhadithCawaliMinIbnCurfa
-	AhadithQussas
-	AmrBiMacruf
-	AmradQulub
-	ArbacunaTaymiyya
-	BacithHathith
-	BayanTalbisJahmiyya
-	BughyatMurtad
-	CaqidaWasitiyya
-	Cubudiyya
-	DaqaiqTafsir
-	DarTacarud
-	FadlAbiBakr
-	FaslFiAnnaDinAnbiyaWahid
-	FaslFiDalilCalaFadlArab
-	FatawaHamawiyya
-	FatawaKubra
-	FurqanBaynaAwliya
-	HasanaWaSayyia
-	HijabMara
-	Hisba
-	HuquqAlBayt
-	Iklil
-	Iman
-	IqtidaSirat
-	Istighatha
-	Istiqama
-	JamicMasail
-	JamicRasail
-	JawabFiHilf
-	JawabSahih
-	KalimTayyib
-	KhilafaWaMulk
-	MajmucFatawa
-	MajmucatRasailFiHijabWaSufur
-	MajucatRasailWaMasail
-	MasalaFiKanais
-	MasalaFiMurataba
-	MasalaMahabba
-	MasalaMardiniyya
-	MazalimMushtaraka
-	MinTurathShaykh
-	MinhajSunna
-	MukhtasarMinhajSunna
-	MuqaddimaFiUsulTafsir
-	MusawwadaFiUsulFiqh
-	MustadrakCalaMajmucFatawa
-	NaqdMaratibIjmac
-	Nubuwwat
-	Nusayriyya
-	QacidaCazimaFiFarq
-	QacidaFiInghimas
-	QacidaFiMahabba
-	QacidaFiSabr
-	QacidaHasanaFiBaqiyat
-	QacidaJalila
-	QacidaJamicaFiTawhid
-	QacidaMukhtaciraFiWujubTaca
-	QacidaTatadammanuDhikrMalabisNabi
-	QasidaTaiyyaFiQadar
-	QawacidNuraniyya
-	RaddCalaAkhnai
-	RaddCalaManQalaBiFanaJanna
-	RaddCalaMantiqiyyin
-	RaddCalaShadhili
-	RafcMalam
-	RasHusayn
-	RasailWaFatawa
-	RisalaAkmaliyya
-	RisalaCarshiyya
-	RisalaFiDukhulJanna
-	RisalaFiFadlKhulafaRashidin
-	RisalaFiLafzSunna
-	RisalaFiMacnaKawnRabb
-	RisalaFiQunutAshya
-	RisalaFiRaddCalaIbnCarabi
-	RisalaFiTahqiqShukr
-	RisalaFiTahqiqTawakkul
-	RisalaFiUsulDin
-	RisalaFiWaIstacinuBiSabr
-	RisalaMadaniyya
-	RisalaQubrusiyya
-	RisalaTadmuriyya
-	Safadiyya
-	SarimMaslul
-	SharhCaqidaIsfahaniyya
-	SharhCumdatFiqh
-	SharhHadithNuzul
-	SiyasaSharciyya
-	SujudTilawa
-	SunnatJumca
-	TahqiqQawlFiMasalaCisa
-	Tawba
-	TuhfaCiraqiyya
-	WasitaBaynaHaqqWaKhalq
-	ZiyaratQubur
-	ZuhdWaWarac
+	AhadithCawaliMinIbnCurfa, AhadithQussas, AmrBiMacruf, AmradQulub, ArbacunaTaymiyya, BacithHathith, BayanTalbisJahmiyya, BughyatMurtad, CaqidaWasitiyya, Cubudiyya, DaqaiqTafsir, DarTacarud, FadlAbiBakr, FaslFiAnnaDinAnbiyaWahid, FaslFiDalilCalaFadlArab, FatawaHamawiyya, FatawaKubra, FurqanBaynaAwliya, HasanaWaSayyia, HijabMara, Hisba, HuquqAlBayt, IhtijajBiQadar, IkhtiyaratFiqhiyya, Iklil, Iman, IqtidaSirat, Istighatha, Istiqama, JamicMasail, JamicRasail, JawabFiHilf, JawabSahih, KalimTayyib, KhilafaWaMulk, MajmucFatawa, MajucatRasailWaMasail, MasalaFiKanais, MasalaFiMurataba, MasalaMahabba, MasalaMardiniyya, MazalimMushtaraka, MinTurathShaykh, MinhajSunna, MukhtasarMinhajSunna, MuqaddimaFiUsulTafsir, MusawwadaFiUsulFiqh, MustadrakCalaMajmucFatawa, NaqdMaratibIjmac, Nubuwwat, Nusayriyya, QacidaCazimaFiFarq, QacidaFiInghimas, QacidaFiMahabba, QacidaFiSabr, QacidaHasanaFiBaqiyat, QacidaJalila, QacidaJamicaFiTawhid, QacidaMukhtaciraFiWujubTaca, QacidaTatadammanuDhikrMalabisNabi, QasidaTaiyyaFiQadar, QawacidNuraniyya, RaddCalaAkhnai, RaddCalaManQalaBiFanaJanna, RaddCalaMantiqiyyin, RaddCalaShadhili, RafcMalam, RasHusayn, RasailWaFatawa, RisalaAkmaliyya, RisalaCarshiyya, RisalaFiDukhulJanna, RisalaFiFadlKhulafaRashidin, RisalaFiLafzSunna, RisalaFiMacnaKawnRabb, RisalaFiQunutAshya, RisalaFiRaddCalaIbnCarabi, RisalaFiTahqiqMasalaCilmAllah, RisalaFiTahqiqShukr, RisalaFiTahqiqTawakkul, RisalaFiUsulDin, RisalaFiWaIstacinuBiSabr, RisalaIlaSultan, RisalaMadaniyya, RisalaQubrusiyya, RisalaTadmuriyya, Safadiyya, SarimMaslul, SharhCaqidaIsfahaniyya, SharhCumdatFiqh, SharhHadithNuzul, SiyasaSharciyya, SujudTilawa, SunnatJumca, TahqiqQawlFiMasalaCisa, Tawba, TuhfaCiraqiyya, WasitaBaynaHaqqWaKhalq, ZiyaratQubur, ZuhdWaWarac
+
+0729IbnMuhammadDiyaDinQurashi
+	MacalimQurba
+
+0730IbnAhmadCalaDinBukhari
+	KashfAsrar
+
 0730MuhammadTujibi
 	Barnamaj
+
 0732AbuFida
-	MukhtasarFiAkhbar
-	Yawaqit
+	MukhtasarFiAkhbar, Yawaqit
+
+0732IbnCumarBurhanDinJacbari
+	RusumTahdith
+
+0732IbnMuhammadShihabDinBaghdadi
+	IrshadSalik
+
 0732IbnYacqubJanadi
 	SulukFiTabaqat
-0733IbnJamaca
-	Mashyakha
+
+0733IbnJamacaBadrDinHamawi
+	AhadithTusaciyya, Fawaid, IdahDalil, KashfMacani, ManhalRawi, Mashyakha, TahrirAhkam, TanqihMunazara
+
 0733Nuwayri
 	NihayaArab
-0734IbnQaddahHarawi
-	MulhaqFatawa
+
+0734IbnCaliTajDinFakihani
+	MawridFiCamalMawlid
+
+0734IbnQaddahHawari
+	MasailFiqhiyya, MulhaqFatawa
+
 0734IbnSayyidNas
 	CuyunAthar
+
+0737IbnMuhammadIbnHajjFasi
+	Madkhal
+
+0738IbnCabdRahimSharafDinHamawi
+	NasikhQuran
+
+0739IbnMuhammadBirzaliIshbili
+	Mashyakha
+
 0739JalalDinQazwini
 	IdahFiCulumBalagha
+
 0739SafiDinHanbali
 	Marasid
+
 0740IbnDawudHilli
 	Rijal
+
 0741CabdAllahWasiti
 	KanzFiQiraatCashr
+
+0741IbnAhmadGharnatiKalbi
+	QawaninFiqhiyya, TashilLiCulumTanzil
+
+0741IbnYahyaAndalusiMalaqi
+	TamhidWaBayan
+
 0741KhatibTabrizi
-	Ikmal
+	Ikmal, MishkatMasabih
+
+0742IbnMuhammadBurhanDinSafaqsi
+	MajidFiIcrab
+
 0742Mizzi
-	TahdhibKamal
+	MuntaqaMinFawaid, TahdhibKamal, TarjamatMaslama, TuhfatAshraf
+
 0743FakhrDinZaylaci
 	TabyinHaqaiq
+
 0744MuhammadIbnQudamaMaqdisi
-	CuqudDurriyya
-	MuharrirFiHadith
-	SarimMunki
-	SharhMuharrir
-	TacliqaCalaCilal
-	TanqihTahqiq
+	CuqudDurriyya, MuharrirFiHadith, SarimMunki, SharhMuharrir, TacliqaCalaCilal, TanqihTahqiq
+
+0745AbuHayyanAndalusi
+	TafsirBahrMuhit
+
+0745IbnHamzaMuayyadBiLlahTalibi
+	AtwaqHamama, TirazLiAsrar
+
+0745IbnMuhammadTaqiDinIbnImam
+	SilahMumin
+
 0747MuhyiDinYunini
 	Mashyakha
+
 0748Dhahabi
-	AhadithMukhtaraMinMawducat
-	ArbacinaFiSifat
-	Carsh
-	CibarFiKhabar
-	Culuww
-	DhaylCibar
-	DhaylDiwanDucafa
-	DhikrAsmaManTakallama
-	DhikrFiJarh
-	DinarMinHadith
-	DiwanDucafa
-	HaqqJar
-	IthbatShifaca
-	Kashif
-	MacrifaQurraKibar
-	ManaqibAbiHanifa
-	MawducatMustadrak
-	MizanIctidal
-	MucinFiTabaqatMuhaddithin
-	MucjamLatif
-	MucjamMuhaddithin
-	MucjamShuyukh
-	MughniFiDucafa
-	MukhtasarCuluww
-	MukhtasarMinDubaythi
-	MuntaqaMinMinhajIctidal
-	MuqaddimaZahra
-	MuqizaFiCilmMustalahHadith
-	Muqtana
-	Radd
-	RisalaTuruqHadith
-	RuwatThiqat
-	SiyarAclamNubala
-	TadhkiraHuffaz
-	TalkhisMawducatIbnJawzi
-	TamassukBiSunan
-	TanqihTahqiq
-	TarikhIslam
-	TarjamatImamMuslim
-	ThalathatTarajim
-	ZaghlCilm
+	AhadithMukhtaraMinMawducat, ArbacinaFiSifat, Carsh, CibarFiKhabar, Culuww, DhaylCibar, DhaylDiwanDucafa, DhikrAsmaManTakallama, DhikrFiJarh, DinarMinHadith, DiwanDucafa, HaqqJar, IthbatShifaca, Kabair, Kashif, MacrifaQurraKibar, ManaqibAbiHanifa, MawducatMustadrak, MizanIctidal, MucinFiTabaqatMuhaddithin, MucjamLatif, MucjamMuhaddithin, MucjamShuyukh, MughniFiDucafa, MukhtasarCuluww, MukhtasarMinDubaythi, MuntaqaMinMinhajIctidal, MuqaddimaZahra, MuqizaFiCilmMustalahHadith, Muqtana, Radd, RisalaTuruqHadith, RuwatThiqat, SiyarAclamNubala, TadhkiraHuffaz, TalkhisMawducatIbnJawzi, TamassukBiSunan, TanqihTahqiq, TarikhIslam, TarjamatImamMuslim, ThalathatTarajim, WasiyyaLiMuhammadIbnRafic, ZaghlCilm
+
 0748IbnDimyati
 	Mustafad
+
+0749BadrDinMisriMuradi
+	JanaDani, TawdihMaqasid
+
+0749IbnCabdRahmanShamsDinIsbahani
+	BayanMukhtasar
+
+0749IbnCaliSirajDinBazzaz
+	AclamCaliyya
+
+0749IbnHafizMizzi
+	AhadithSihah
+
+0749IbnIbrahimIbnAkfaniBukhari
+	NukhabDhakhair
+
 0749IbnWardi
-	KharidaCajaib
 	Tarikh
+
 0749ShihabDinCumari
-	MasalikAbsar
+	MasalikAbsar, TacrifBiMustalahSharif
+
 0749Wadiashi
 	Barnamaj
+
 0750AbuHafsQazwini
 	Mashyakha
+
 0750IbnTurkamani
 	JawharNaqi
+
+0750IbnYusufZarandi
+	MacarijWusul, NazmDurar
+
+0750SafiDinHilli
+	Diwan
+
 0751IbnQayyimJawziyya
-	AclamMuwaqqicin
-	AhkamAhlDhimma
-	AmthalFiQuran
-	AsmaMuallafatIbnTaymiya
-	BadaicFawaid
-	CuddatSabirin
-	DaWaDawa
-	FaidaJalila
-	Fawaid
-	Furusiyya
-	HadiArwah
-	HashiyaCalaSunanAbiDawud
-	HidayatHayara
-	IghathaLahfan
-	IghathatLahfan
-	IjtimacJuyush
-	JalaAfham
-	JawabFiSiyaghHamd
-	MadarijSalikin
-	ManarMunif
-	MatnQasidaNuniyya
-	MiftahDarSacada
-	MukhtasarSawaciqMursala
-	NaqdManqul
-	RawdatMuhibbin
-	RisalaIlaAhadIkhwan
-	RisalaTabukiyya
-	RuhFiKalam
-	Salat
-	SawaciqMursala
-	ShifaCalil
-	SifatMunafiqin
-	TafsirQuran
-	TariqHijratayn
-	TibbNabawi
-	TibyanFiAqsamQuran
-	TuhfatMawdud
-	TuruqHukmiyya
-	WabilSayyib
-	ZadMacad
+	AclamMuwaqqicin, AhkamAhlDhimma, AmthalFiQuran, AsmaMuallafatIbnTaymiya, BadaicFawaid, CuddatSabirin, DaWaDawa, FaidaJalila, Fawaid, Furusiyya, HadiArwah, HashiyaCalaSunanAbiDawud, HidayatHayara, IghathaLahfan, IghathatLahfan, IjtimacJuyush, JalaAfham, JawabFiSiyaghHamd, MadarijSalikin, ManarMunif, MatnQasidaNuniyya, MiftahDarSacada, MukhtasarSawaciqMursala, NaqdManqul, RawdatMuhibbin, RisalaIlaAhadIkhwan, RisalaTabukiyya, RuhFiKalam, Salat, SawaciqMursala, ShifaCalil, SifatMunafiqin, TafsirQuran, TariqHijratayn, TibbNabawi, TibyanFiAqsamQuran, TuhfatMawdud, TuruqHukmiyya, WabilSayyib, ZadMacad
+
+0756IbnAhmadCadudDinIji
+	Maqaqif
+
+0756IbnYusufSaminHalabi
+	DurrMasun
+
 0756TaqiDinSubki
-	Fatawa
-	Ibhaj
-	IbrazHikam
+	Fatawa, Ibhaj, IbrazHikam, SayfSaqil, ShifaSiqam
+
+0758MaryamSittQudatHanbaliyya
+	Musnad
+
 0758NajmDinTarsusi
 	TihfatTurk
+
 0761IbnKaykaldi
-	JamicTahsil
-	Mukhtalitin
+	JamicTahsil, Mukhtalitin
+
 0761IbnKaykaldiDimashqi
-	BughyatMultamis
-	FusulMufida
-	IjmalIsaba
-	ItharatFawaid
-	JuzFiTafsirBaqiyat
-	MusalsalatMukhtara
-	NaqdSahih
-	TahqiqMunifRutba
-	TahqiqMurad
-	Tanbihat
+	BughyatMultamis, FusulMufida, IjmalIsaba, ItharatFawaid, JuzFiTafsirBaqiyat, MusalsalatMukhtara, NaqdSahih, TahqiqMunifRutba, TahqiqMurad, Tanbihat
+
+0761JamalDinIbnHisham
+	AsilaWaAjwibaFiIcrabQuran, AwdahMasalik, IctiradShart, MabahithMurdiyya, MasailSafariyya, MatnQatrNada, MatnShudhurDhahab, MughniLabib, NuktatIcrab, SharhQatrNada, SharhShudhurDhahab
+
 0762IbnYusufZaylaci
-	NasbRaya
-	TakhrijAhadith
+	NasbRaya, TakhrijAhadith
+
 0762MughaltayIbnQalij
-	IkmalTahdhib
-	Intikhab
-	SharhSunanIbnMajah
+	IkmalTahdhib, Intikhab, SharhSunanIbnMajah
+
+0763IbnCabdRahmanAndalusiFazari
+	HilyatFursan
+
+0763IbnMuflihHanbaliMuqaddasi
+	AdabSharciyya, FurucWaTashihFuruc
+
+0764IbnCabdRahmanIkhmimiMaraghi
+	RisalaFiRaddCalaIbnTaymiyya
+
 0764IbnShakirKutubi
 	FawatWafayat
+
 0764Safadi
-	AcyanCasr
-	KashfHal
-	LawcatShaki
-	NaktHimyan
-	NusratThair
-	ShucurBiCur
-	TashihTashif
-	TawshicTawshih
-	WafiBiWafayat
+	AcyanCasr, KashfHal, LawcatShaki, NaktHimyan, NusratThair, ShucurBiCur, TashihTashif, TawshicTawshih, WafiBiWafayat
+
 0765AbuMahasinHusayni
-	DhaylTadhkira
-	IkmalLiRijal
+	DhaylTadhkira, IkmalLiRijal
+
+0766IbnIbrahimIbnImamSakhra
+	Mashyakha
+
 0767Balawi
 	TajMafriq
+
+0767IbnIshaqDiyaDinMisri
+	MukhtasarKhalil
+
+0767IbnMuhammadCizzDinKinani
+	MukhtasarKabir
+
+0768IbnMuhammadTaqiDinBaclabakki
+	Hadith
+
+0768IbnNubataShacir
+	Diwan
+
 0768Yafici
-	MiratJanan
+	MarhamCilalMucdila, MiratJanan
+
+0769IbnCabdAllahTaqiDinShibli
+	AkamMarjan
+
+0769IbnCaqilBahaDinMisri
+	SharhCalaAlfiyya
+
+0769IbnLuluShihabDinIbnNaqibShafici
+	CumdatSalik
+
+0770IbnCallamaHilli
+	IdahFawaid
+
+0770IbnMuhammadFayyumiHamawi
+	MisbahMunir
+
 0771Subki
-	AshbahWaNazair
-	MucjamShuyukh
-	QacidaFiJarh
-	QacidaFiMuarrikhin
-	RafcHajib
-	TabaqatShaficiyaKubra
+	AhadithIhyaLaIsnadaLaha, AshbahWaNazair, MucjamShuyukh, QacidaFiJarh, QacidaFiMuarrikhin, RafcHajib, TabaqatShaficiyaKubra
+
+0772IbnHasanJamalDinIsnawi
+	KawkabDurri, NihayatSul, TamhidFiTakhrijFuruc
+
+0772ShamsDinHanbaliZarqashi
+	SharhCalaMukhtasarKhiraqi
+
+0773IbnIshaqSirajDinGhaznawi
+	GhurraMunifa
+
 0774IbnKathir
-	AdabDukhulHammam
-	Bidaya
-	FadailQuran
-	FusulMinSira
-	IkhtisarCulumHadith
-	JamicMasanid
-	MusnadCumarIbnKhattab
-	NihayatFiFitan
-	QisasAnbiya
-	SharhIkhtisarCulumHadith
-	TabaqatShaficiyyin
-	TafsirQuran
-	Takmil
-	TalkhisKitabIstighatha
-	TuhfatTalib
+	AdabDukhulHammam, Bidaya, FadailQuran, FusulMinSira, IkhtisarCulumHadith, JamicMasanid, MusnadCumarIbnKhattab, NihayatFiFitan, QisasAnbiya, SharhIkhtisarCulumHadith, TabaqatShaficiyyin, TafsirQuran, Takmil, TalkhisKitabIstighatha, TuhfatTalib
+
+0774IbnMuhammadShamsDinIbnMawsili
+	HusnSuluk
+
 0774IbnRaficSallami
-	MashyakhaBayani
-	Wafayat
+	MashyakhatBayani, Wafayat
+
 0775IbnAbiWafa
 	JawahirMudiya
+
 0775IbnCadilHanbali
 	LubabFiCulumKitab
+
+0776IbnAbiHajalaShihabDinMaghribi
+	DiwanSababa
+
 0776LisanDinIbnKhatib
-	Diwan
-	Ihata
-	KatibaKamina
-	KhatraTayf
-	MicyarIkhtiyar
-	NafadaJirab
-	RayhanatKitab
-0777BadrDinBacli
-	MukhtasarFatawaMisriyya
+	Diwan, Ihata, JayshTawshih, KatibaKamina, KhatraTayf, MicyarIkhtiyar, NafadaJirab, RayhanatKitab
+
 0778AbuHafsMaraghi
 	Mashyakha
+
+0778BadrDinBacli
+	ManhajQawim, MukhtasarFatawaMisriyya
+
 0779BadrDinHalabi
-	MuntaqaMinSira
-	NasimSaba
+	MuntaqaMinSira, NasimSaba
+
 0779IbnBattuta
 	Rihla
+
+0779IbnYahyaHarraniMuqaddasi
+	TacbirRuya
+
+0779IbnYusufAndalusiGharnati
+	IqtitafAzahir, TuhfatAqran
+
 0782IbnSallar
 	TabaqatQurra
+
+0784IbnMahmudJalalDinQahiri
+	UnsMala
+
+0785IbnMuhammadShamsDinManbiji
+	TasliyatAhlMasaib
+
+0786IbnCabdRahmanJamalDinHubayshi
+	NashrTayy
+
+0786IbnMuhammadBabarti
+	CinayaSharhHidaya
+
+0786ShahidAwwal
+	Alfiyya, Arbacuna, Bayan, Dhikra, DurraBahira, Durus, LumcaDimashqiyya, Mazar, Qawacid
+
 0789IbnMuhammadKhuzaci
 	TakhrijDalalat
+
+0790IbnMusaGharnatiShatibi
+	Ictisam, Ifadat, Muwafaqat
+
+0791IbnCumarHalabiHamawi
+	QawacidWaIsharat
+
+0792IbnCabdAllahRimiSardafi
+	MacaniBadica
+
+0792IbnCumarTaftazani
+	MukhtasarMacani, SharhMaqasid, SharhTalwih
+
+0792SadrDinIbnAbiCizzAdhraci
+	Ittibac, SharhCaqidaTahawiyya, Tafsir
+
 0793AbuHasanMalaqi
 	TarikhQudat
+
 0794BadrDinZarkashi
-	BahrMuhit
-	BurhanFiCulumQuran
-	IjabaLiIrad
-	KhabayaZawaya
-	MacnaLaIlahaIllaLlah
-	ManthurFiQawacid
-	NukatCalaMuqaddimatIbnSalah
-	TadhkiraFiAhadithMashhura
-	ZahrCarishFiTahrimHashish
+	BahrMuhit, BurhanFiCulumQuran, IjabaLiIrad, KhabayaZawaya, MacnaLaIlahaIllaLlah, ManthurFiQawacid, NukatCalaMuqaddimatIbnSalah, TadhkiraFiAhadithMashhura, ZahrCarishFiTahrimHashish
+
 0795IbnRajabHanbali
-	AhwalQubur
-	AkhamIkhtilafFiRuyaHilal
-	AsbabMaghfira
-	DhaylTabaqatHanabila
-	FadlCilmSalaf
-	FarqBaynaNasihaWaTacyir
-	FathBariFiSharhSahihBukhari
-	HikamJadiraBiIdhaca
-	IstikhrajLiAhkamKharaj
-	JamicCulumWaHikam
-	KalimatIkhsas
-	KashfKurba
-	LataifMacarif
-	MajmucRasail
-	QacidaDhahabiyya
-	Qawacid
-	RawaicTafsir
-	SharhCilalTirmidhi
-	SharhHadithLabbayka
-	TakhwifMinNar
-	TasliyatNufusNisa
+	AhwalQubur, AkhamIkhtilafFiRuyaHilal, AsbabMaghfira, DhaylTabaqatHanabila, FadlCilmSalaf, FarqBaynaNasihaWaTacyir, FathBariFiSharhSahihBukhari, HikamJadiraBiIdhaca, IkhtiyarUla, IstikhrajLiAhkamKharaj, JamicCulumWaHikam, KalimatIkhsas, KashfKurba, LataifMacarif, MajmucRasail, QacidaDhahabiyya, Qawacid, RawaicTafsir, SharhCilalTirmidhi, SharhHadithLabbayka, TakhwifMinNar, TasliyatNufusNisa
+
+0795IbnZumruq
+	Diwan
+
 0799IbnFarhun
-	DibajMudhahhab
+	DibajMudhahhab, TabsiratHukkam
+
+0800CabdHaqqMaghribiSabti
+	HusamMamdud
+
+0800IbnAbiHasanDaylami
+	AclamDin
+
+0800IbnAhmadAbuCabdAllahSalimi
+	IsharaIlaCilmCibara
+
+0800IbnCaliYamaniZabidi
+	JawharaNayyira
+
+0800IbnSulaymanCizzDinHilli
+	Mukhtasar
+
+0801IbnCuthmanIbnQasihBaghdadiCudhri
+	SirajQari
+
 0802IbnMusaAbnasi
 	ShadhaFayyah
+
 0803BahaDinNajafi
 	MuntakhabAnwar
+
+0803BarciYamaniShacir
+	Diwan
+
 0803IbnCarafaWarghami
-	MukhtasarFiMantiq
-	Tafsir
+	MukhtasarFiMantiq, Tafsir
+
+0803IbnLahhamCalaDinBacli
+	IkhtiyaratCilmiyya, MukhtasarFiUsulFiqh, Qawacid
+
+0803IbnMusaJamalDinMalati
+	MuctasarMinMukhtasar
+
 0804IbnMulaqqin
-	BadrMunir
-	TabaqatAwliya
-	TuhfaMuhtaj
+	BadrMunir, GhayatSul, KhulasatBadrMunir, MuqnicFiCulumHadith, MustadrakDhahabi, TabaqatAwliya, TadhkiraFiCulumHadith, TadhkiraFiFiqhShafici, TadhkiratMuhtaj, TuhfaMuhtaj
+
 0805SirajDinBulqini
-	MuqaddimatIbnSalah
-0806IbnHusaynCiraqi
-	Alfiyya
-	AlfiyyatSira
-	ArbacunaCushariyya
-	DhaylMizan
-	MustakhrajCalaMustadrak
-	SharhAlfiyya
-	Taqyid
-	TarhTarthib
+	MuqaddimatIbnSalah, TarjumnaShucabIman
+
+0806IbnHusaynZaynDinCiraqi
+	AlfiyyaTabsira, AlfiyyatSira, ArbacunaCushariyya, DhaylMizan, KhamsatAhadith, Mughni, MustakhrajCalaMustadrak, SharhAlfiyyaTabsira, TaqribAsanid, Taqyid, TarhTarthib, TawsicaCalaCiyal
+
 0807IbnAhmarKhazraji
 	NafhaNisriniyya
+
 0807NurDinHaythami
-	GhayatMaqsad
-	KashfAstar
-	MaqsadAli
-	MawaridZaman
-	MucjamZawaid
+	GhayatMaqsad, KashfAstar, MaqsadAli, MawaridZaman, MucjamZawaid
+
+0808IbnCimadDinShihabDinAqfahsi
+	AdabAkl, AkhbarNilMisr
+
 0808IbnKhaldun
-	Rihla
-	Tarikh
+	Rihla, Tarikh
+
 0808MuhammadDamiri
-	HayatHayawanKubra
+	HayatHayawanKubra, SharhLamiyyatCajam
+
 0809IbnQunfudh
-	Wafayat
+	Wafayat, WasilatIslam
+
 0812CaliKhazraji
 	CuqudLuluiyya
+
+0813RajabIbnMuhammadBursi
+	MashariqAnwar
+
 0815IbnCabdAllahGhazuli
 	MatalicBudur
+
+0815IbnMuhammadShihabDinIbnHaim
+	TibyanFiTafsirGharib
+
 0816AbuBakrMaraghi
-	Mashyakha
+	ArbacunaMinMacali, Mashyakha
+
+0816IbnMuhammadSharifJurjani
+	Nahw, Risalatan, Tacrifat
+
 0817MajdDinFiruzabadi
-	BasairDhawiTamyiz
-	BulghaFiTarajim
-	QamusMuhit
-	RaddCalaRafida
-	RisalaFiBayan
-	TanwirMiqbas
+	BasairDhawiTamyiz, BulghaFiTarajim, QamusMuhit, RaddCalaRafida, RisalaFiBayan, TanwirMiqbas
+
 0821Qalqashandi
-	Maathir
-	NihayaArab
-	QalaidJuman
-	SubhAcsha
+	Maathir, NihayaArab, QalaidJuman, SubhAcsha
+
 0825IbnQasimSabti
 	IkhtisarAkhbar
+
+0826IbnCabdAllahSuyuri
+	NadadQawacid
+
 0826IbnCiraqi
-	Mudallisin
-	TuhfaTahsil
+	Mudallisin, TuhfaTahsil
+
+0827BadrDinDamaminiMakhzumi
+	CuyunGhamiza
+
 0828IbnCinaba
 	CumdatTalib
+
+0829IbnMuhammadGharnatiQaysi
+	HadaiqAzahir, TuhfatHukkam
+
+0829TaqiDinDimashqiHisni
+	DafcShubh, KifayatAkhyar
+
+0830IbnMuhammadBasiliTunisi
+	NukatWaTanbihat
+
+0830IbnSulaymanHilli
+	MukhtasarBasair
+
 0832AbuTayyibFasi
-	DhaylTaqyid
-	ShifaGharam
+	DhaylTaqyid, ShifaGharam
+
 0833IbnJazari
-	Cawali
-	DurraMudiyya
-	GhayaNihaya
-	ManaqibAsadGhalib
-	ManzumaJazariyya
-	MatnTayyibaNashr
-	MunjidMuqriyyin
-	Nashr
-	SharhTayyibaNashr
-	TahbirTaysir
-	TamhidFiCulumTajwid
-	ZahrFaih
+	Cawali, DurraMudiyya, GhayaNihaya, ManaqibAsadGhalib, ManzumaJazariyya, MatnTayyibaNashr, MunjidMuqriyyin, Nashr, SharhTayyibaNashr, TahbirTaysir, TamhidFiCulumTajwid, ZahrFaih
+
+0834IbnHamzaFanari
+	MisbahUns
+
+0837IbnCaliIbnHijjaHamawi
+	BulughAmal, KhizanatAdab, TayyibMadhaq, ThamaratAwraq
+
 0838ShihabDinDalji
 	Falaka
+
+0840IbnCabdAllahJundariImamMurtada
+	SharhAzhar
+
 0840IbnWazirYamani
-	CawasimWaQawasim
-	ItharHaqq
-	RawdBasim
+	CawasimWaQawasim, ItharHaqq, RawdBasim
+
 0840ShihabDinBusiri
-	IthafKhayra
-	MisbahZujaja
+	IthafKhayra, MisbahZujaja
+
+0841BurhanDinSibtIbnCajami
+	Ightibat, KashfHathith, TabyinLiAsma
+
+0841JamalDinIbnFahdHilli
+	CuddatDaci, MuhadhdhabBaric, RasailCashar, Tahsin
+
 0842IbnNasirDinDimashqi
-	RaddWafir
-	TawdihMushtabih
+	AhadithArbacuna, AhadithSitta, CarfCanbar, ImlaAnfus, MajlisFiHadithJabir, MajlisFiKhatmKitabShifa, RaddWafir, SalwatKaib, TanwirFikra, TawdihMushtabih
+
+0843IbnIsmacilKhirabiti
+	DurraGharra
+
+0844IbnHusaynIbnRaslanRamli
+	ZubdFiFiqh
+
+0844IbnKhalilCalaDinTarabulusi
+	MucinHukkam
+
+0844IbnRassamHamawi
+	ArbacunaMinAhadithNabawiyya
+
+0844ShamsDinMisri
+	MiftahSacidiyya
+
 0845Maqrizi
-	Bayan
-	DuSari
-	FadlAlBayt
-	ImtacAsmac
-	IqazHunafa
-	Mawaciz
-	MikhtasarKitabWitr
-	MukhtasarKamil
-	NizacWaTakhasum
-	Rasail
-	Suluk
-	TajridTawhid
+	Bayan, DuSari, FadlAlBayt, ImtacAsmac, IqazHunafa, Mawaciz, MikhtasarKitabWitr, MukhtasarKamil, NizacWaTakhasum, Rasail, Suluk, TajridTawhid
+
 0848IbnSarrajAndalusi
 	Fatawa
+
+0850NizamDinNaysaburi
+	GharaibQuran
+
 0850ShihabDinIbshihi
 	Mustatraf
+
 0851IbnQadiShuhba
 	TabaqatShaficiya
+
 0852IbnHajarCasqalani
-	AhadithCashara
-	AmaliAdhkarFiFadlSalatTasbih
-	AmaliHalabiyya
-	AmaliMutlaqa
-	BulughMaram
-	CawaliMuslimArbacuna
-	CujabFiBayanAsbab
-	DirayaFiTakhrijAhadithHidaya
-	DurarKamina
-	FathBari
-	ImtacBiArbacin
-	InbaGhumr
-	IsabaFiTamyiz
-	IthafMahara
-	ItharBiMacrifa
-	ItrafMusnadMuctali
-	KalamCalaHadithImraati
-	LisanMizan
-	MarhamaGhaythiyya
-	MasailAjabaCanha
-	MatalibCaliyya
-	MucjamMufahras
-	MucjamShaykhaMaryam
-	MuntakhabMinAmali
-	MuqaddimatFathBari
-	NazmLaali
-	NukatCalaIbnSalah
-	NukatZiraf
-	NukhbatFikr
-	NuzhaAlbab
-	NuzhatNazar
-	NuzhatSamicin
-	QawlMusaddad
-	RafcCisr
-	SharhBulughMaram
-	SharhNukhbatFikr
-	SilsilatDhahab
-	TabaqatMudallisin
-	TabsirMuntabih
-	TacjilManfaca
-	TacrifAhlTaqbis
-	TaghliqTacliq
-	TahdhibTahdhib
-	TakhrijAhadithAsmaHusna
-	TalkhisHabir
-	TaqribTahdhib
-	TuruqHadithLaTasubbuAshabi
-	WuqufCalaMawquf
-	ZahrNadirFiHalKhadir
+	AhadithCashara, AmaliAdhkarFiFadlSalatTasbih, AmaliHalabiyya, AmaliMutlaqa, BulughMaram, CawaliMuslimArbacuna, CujabFiBayanAsbab, DirayaFiTakhrijAhadithHidaya, DurarKamina, FathBari, ImtacBiArbacin, InbaGhumr, IsabaFiTamyiz, IthafMahara, ItharBiMacrifa, ItrafMusnadMuctali, KalamCalaHadithImraati, LisanMizan, MarhamaGhaythiyya, MasailAjabaCanha, MatalibCaliyya, MucjamMufahras, MucjamShaykhaMaryam, MuntakhabMinAmali, MuqaddimatFathBari, NazmLaali, NukatCalaIbnSalah, NukatZiraf, NukhbatFikr, NuzhaAlbab, NuzhatNazar, NuzhatSamicin, QawlMusaddad, RafcCisr, RisalatTadhakkurAthar, SharhBulughMaram, SharhNukhbatFikr, SilsilatDhahab, TabaqatMudallisin, TabsirMuntabih, TacjilManfaca, TacrifAhlTaqbis, TaghliqTacliq, TahdhibTahdhib, TakhrijAhadithAsmaHusna, TalkhisHabir, TaqribTahdhib, TuruqHadithLaTasubbuAshabi, WuqufCalaMawquf, ZahrNadirFiHalKhadir
+
+0852SirajDinIbnWardi
+	KharidaCajaib
+
 0854IbnCarabshah
-	CajaibMaqdur
+	CajaibMaqdur, FakihatKhulafa, MarzubanNamah
+
 0854IbnDiyaMakki
-	TarikhMakka
+	Juz, TarikhMakka
+
 0855BadrDinCayni
-	BinayaSharhHidaya
-	CiqdJuman
-	CumdatQari
-	MaghaniAkhyar
-	SharhSunanAbiDawud
+	BinayaSharhHidaya, CiqdJuman, CumdatQari, MaghaniAkhyar, SharhSunanAbiDawud
+
+0855IbnAhmadShamsDinDimashqi
+	MasailMuhimma
+
+0855IbnFaramuzMullaKhusru
+	DurarHukkam, Insaf
+
+0855IbnSabbaghMakki
+	FusulMuhimma
+
+0855IbnTayyFaqacani
+	DurrMandud
+
+0855ShamsDinDikunquz
+	SharhCalaMarahArwah
+
+0857MuhibbDinNuwayri
+	SharhTayyibatNashr
+
+0859IbnHasanShamsDinNawaji
+	ShifaFiBadicIktifa
+
+0860IbnMuhammadShihabDinAndalusiBijai
+	HududFiCilmNahw
+
+0861IbnCabdWahidIbnHumamSiwasi
+	FathQadir
+
 0862IbnMuhammadMujari
 	Barnamaj
+
+0864IbnAhmadJalalDinMahalli
+	SharhWaraqatFiUsulFiqh
+
+0866MuhammadIbnSayyidHasan
+	RamuzCalaSihah
+
+0868IbnCumarBulqini
+	TuhfatAmin
+
+0869IbnKhalilZaynDinQabuni
+	BisharatMahbub
+
+0871IbnAhmadShamsDinBacuni
+	JawahirMatalib
+
+0871IbnCuthmanShamsDinMardini
+	AnjumZahirat
+
 0871IbnFahdMakki
 	LahzAlhaz
+
+0873IbnShahinZahiri
+	Isharat
+
 0874IbnTaghribirdi
-	HawadithDahriya
-	ManhalSafi
-	MawridLatafa
-	NujumZahira
+	HawadithDahriya, ManhalSafi, MawridLatafa, NujumZahira
+
+0875IbnMuhammadShihabDinHijazi
+	JannatWildan, KansJawari
+
 0875IbnMuhammadThacalibi
 	JawahirHisan
+
+0877IbnYusufZaynDinCamili
+	SIratMustaqim
+
+0879IbnMuhammadIbnAmirHajj
+	TaqrirWaTahbir
+
 0879IbnQutlubugha
-	TajTarajim
-	Thiqat
-0884IbnMuflih
-	MaqsidArshad
-0884SibtIbnCajami
-	Ightibat
-	KashfHathith
+	AhkamSalatCalaJanaza, MusnadCuqba, RafcIshtibah, TajTarajim, Thiqat
+
+0879IbnSulaymanMuhyiDinKafiji
+	MukhtasarFiCilmAthar
+
+0880IbnAbiJumhurAhsai
+	CawaliLaali
+
+0880IbnAhmadShamsDinAsyuti
+	JawahirCuqud
+
+0882IbnAhmadShadhiliTunisi
+	FarahAsma
+
+0882LisanDinIbnShihnaHalabi
+	LisanHukkam
+
+0884AbuDharrSibtIbnCajami
 	KunuzDhahab
-	TabyinLiAsma
+
+0884IbnMuflih
+	MaqsidArshad, MubdicFiSharhMuqnic, NukatWaFawaid
+
 0885BurhanDinBiqaci
-	MasacidNazar
-	MasracTasawwuf
-	NazmDurar
-	NukatWafiyya
+	MasacidNazar, MasracTasawwuf, NazmDurar, NukatWafiyya
+
+0885IbnSulaymanCalaDinMardawi
+	TahbirSharhTahrir
+
+0889IbnCabdMuncimShamsDinQahiri
+	SharhShudhurDhahab
+
+0891AhmadBakri
+	SiratImamCali
+
 0893IbnAbiBakrHadari
 	BahjatMahafil
+
+0893IbnAbiBakrIbnCayniHanafi
+	SharhAlfiyyatCiraqi
+
+0893IbnAhmadZaynDinSharji
+	TajridSarih
+
+0893IbnIsmacilShihabDinKurani
+	GhayatAmani
+
 0894CabdRahmanSufuri
 	NuzhatMajalis
+
+0894IbnMuhammadDimashqiHaydari
+	JuzFiCadamSihha
+
+0894IbnQasimCassacTunisi
+	SharhHudud
+
+0895AbuCabdAllahSanusi
+	MatnSanusiyya
+
+0896IbnCaliIbnAzraqGharnati
+	BadaicSilk
+
+0897IbnYusufCabdariGharnati
+	MukhtasarKhalil, TajWaIklilLiMukhtasarKhalil
+
+0899ZarruqShihabDinFasi
+	NasihaKafiya
+
 0900AbuCabdAllahHimyari
 	RawdMictar
+
+0900IbnAbiJumhurAhsai
+	AqtabFiqhiyya
+
+0900IbnMuhammadBurhanDinQabibati
+	CajalatImla, Risala, TacliqRashiq
+
+0900IbnMuhammadNurDinAshmuni
+	SharhCalaAlfiyyatMalik
+
+0900IbnSulaymanHilli
+	MukhtasarBasair
+
+0900MuflihIbnRashid
+	IlzamNawasib
+
 0902Sakhawi
-	Buldaniyyat
-	DuLamic
-	FakhrMutawali
-	FathMughith
-	GhayaFiSharh
-	IltimasSacd
-	ManhalCadhb
-	MaqasidHasana
-	MutakallimunFiRijal
-	QawlBadic
-	SirrMaktum
-	TawdihAbhar
-	TuhfaLatifa
+	Buldaniyyat, DuLamic, FakhrMutawali, FathMughith, GhayaFiSharh, IltimasSacd, ManhalCadhb, MaqasidHasana, MutakallimunFiRijal, QawlBadic, SirrMaktum, TawdihAbhar, TuhfaLatifa
+
 0904Burayhi
 	TabaqatSulahaYaman
+
 0905Basrawi
 	Tarikh
+
+0905IbnCabdAllahWaqqadAzhari
+	MuwassilTullab, SharhAzhariyya, SharhTasrih
+
+0905IbnCabdRahmanIjiShafici
+	Tafsir
+
+0905IbnCaliTaqiDinKafcami
+	Misbah, MuhasabatNafs
+
 0909IbnMibradHanbali
-	ArbacunaMinHadithAbiHanifa
-	ArbacunaMusalsala
-	BahrDamm
-	CasharaMinMarwiyatSalih
-	CiqdTamam
-	IkhtilafBaynaRuwatBukhari
-	IsticanaCalaFatiha
-	JamcJuyushWaDasakir
-	JawabBacdKhadam
-	MahdSawab
-	MucjamKutub
-	Nujat
-	ZinatCarais
+	ArbacunaMinHadithAbiHanifa, ArbacunaMusalsala, BahrDamm, CasharaMinMarwiyatSalih, CiqdTamam, IkhtilafBaynaRuwatBukhari, IsticanaCalaFatiha, JamcJuyushWaDasakir, JawabBacdKhadam, MahdSawab, MucjamKutub, Nujat, SiyarHathth, ZinatCarais
+
+0910MuhammadIbnZahiraQurashi
+	ManhalMahul
+
 0911Samhudi
-	KhulasaWafaWafa
-	WafaWafa
+	KhulasaWafaWafa, WafaWafa
+
 0911Suyuti
-	AlfiyaFiCilmHadith
-	AmrBiIttibac
-	ArbacunaMinRiwayatMalikCanNafic
-	Ashbah
-	AsmaMudallisin
-	AsmaMukhadramin
-	AsrarKawn
-	AsrarTartibQuran
-	Baha
-	BastKaff
-	BughyaWucat
-	BushraKaib
-	BuzughHilal
-	CuqudJuman
-	CuqudZabarjad
-	Cushariyat
-	DafcTashnic
-	DhammMaks
-	DhammQada
-	DhaylTabaqatHuffaz
-	DibajCalaMuslim
-	DurarMuntathira
-	DurrManthur
-	FaddWica
-	FadlThughrIskandariyya
-	Fanid
-	FathKabir
-	GhurarFiFadailCumar
-	Habaik
-	HamcHawamic
-	HawiLiFatawa
-	HusnMuhadara
-	HusnSamt
-	IfadatKhabar
-	Iklil
-	IscafMubatta
-	ItmamDiraya
-	Itqan
-	Ittibac
-	Izdihar
-	JamicAhadith
-	JamicSaghir
-	JiyadMusalsalat
-	KhasaisKubra
-	LaaliMasnuca
-	LubabHadith
-	LubabNuqul
-	LubbLubab
-	LumacFiAsbabHadith
-	LumcaFiKhasaisJumca
-	LumcaFiTahqiq
-	MadrajIlaMudraj
-	ManahilSafa
-	Maqamat
-	MarasidMatalic
-	MatlacBadrayn
-	MiftahJanna
-	MimmaRawahuAsatin
-	MucjamMaqalid
-	MuctarakAqran
-	MufhimatAqran
-	Muhadarat
-	MuhadhdhabFimaWaqaca
-	MuzhirFiCulumLugha
-	NawahidAbkar
-	NazmCiqyan
-	NuzhatJulasa
-	QutMughtadhi
-	RawdAniqFiFadlSiddiq
-	RihNisrin
-	SababWadc
-	SahihWaDacif
-	ShamailSharifa
-	Shamarikh
-	SharhMuqaddimatTafsir
-	SharhSudur
-	SharhSunanIbnMaja
-	SharhSunanNisai
-	SifatSahibDhawqSalim
-	TabaqatHuffaz
-	TabaqatMufassirin
-	TabarriMinMacarratMacarri
-	TacliqCalaTafsirJalalayn
-	TadhkiratMutasi
-	TadribRawi
-	TafsirJalalayn
-	TahdhirKhawass
-	TakhirZalama
-	TakrirIstinad
-	TamhidFarsh
-	TanwirHawalik
-	TarikhKhulafa
-	Tatrif
-	TawqHamama
-	TirazFiAlghaz
-	TuhfatAbrar
-	UnmudhajLabib
+	AlfiyaFiCilmHadith, AmrBiIttibac, ArbacunaMinRiwayatMalikCanNafic, Ashbah, AsmaMudallisin, AsmaMukhadramin, AsrarKawn, AsrarTartibQuran, Baha, BastKaff, BughyaWucat, BushraKaib, BuzughHilal, CuqudJuman, CuqudZabarjad, Cushariyat, DafcTashnic, DhammMaks, DhammQada, DhaylTabaqatHuffaz, DibajCalaMuslim, DurarMuntathira, DurrManthur, FaddWica, FadlThughrIskandariyya, Fanid, FathKabir, GhurarFiFadailCumar, Habaik, HamcHawamic, HawiLiFatawa, HusnMuhadara, HusnSamt, IfadatKhabar, Iklil, IscafMubatta, ItmamDiraya, Itqan, Ittibac, Izdihar, JamicAhadith, JamicSaghir, JiyadMusalsalat, KhasaisKubra, LaaliMasnuca, LubabHadith, LubabNuqul, LubbLubab, LumacFiAsbabHadith, LumcaFiKhasaisJumca, LumcaFiTahqiq, MadrajIlaMudraj, ManahilSafa, Maqamat, MarasidMatalic, MatlacBadrayn, MiftahJanna, MimmaRawahuAsatin, MucjamMaqalid, MuctarakAqran, MufhimatAqran, Muhadarat, MuhadhdhabFimaWaqaca, MuzhirFiCulumLugha, NawahidAbkar, NazmCiqyan, NuzhatJulasa, QutMughtadhi, RawdAniqFiFadlSiddiq, RihNisrin, SababWadc, SahihWaDacif, ShamailSharifa, Shamarikh, SharhMuqaddimatTafsir, SharhSudur, SharhSunanIbnMaja, SharhSunanNisai, SifatSahibDhawqSalim, TabaqatHuffaz, TabaqatMufassirin, TabarriMinMacarratMacarri, TacliqCalaTafsirJalalayn, TadhkiratMutasi, TadribRawi, TafsirJalalayn, TahdhirKhawass, TakhirZalama, TakrirIstinad, TamhidFarsh, TanwirHawalik, TarikhKhulafa, Tatrif, TawqHamama, TirazFiAlghaz, TuhfatAbrar, UnmudhajLabib
+
+0912IbnMuhammadBadrDinSibtMardini
+	SharhFusul
+
+0914IbnYahyaWansharisi
+	AsnaMatajir
+
+0918BafadlHadrami
+	MuqaddimaHadramiyya
+
+0918IbnAscadJalalDinDawwani
+	HujajBahira
+
+0918IbnQasimShamsDinGhazzi
+	FathQarib
+
+0920IbnKhalilZaynDinMalati
+	GhayatSul
+
+0920IbnMahmudNakhjawani
+	FawatihIlahiyya
+
 0922IbnShaykhTarabulusi
 	IscafAwqaf
+
 0923AhmadQastallani
-	IrshadSari
-	MawahibLaduniyya
+	IrshadSari, MawahibLaduniyya
+
 0923IbnCabdAllahKhazraji
 	KhulasaTahdhib
+
+0925IbnCabdWahhabAcraj
+	TahrirSuluk
+
 0926ZakariyaAnsari
-	HududCaniqa
+	AsnaMatalib, FathBaqi, FathRahman, FathWahhab, GhayatWusul, GhurarBahiyya, HududAniqa, IcrabQuran, ManhajTullab, MaqsadLiTalkhis, Munfarijatan
+
 0927Culaymi
 	UnsJalil
+
 0927Nucaymi
 	DarisFiMadaris
+
 0929IbnKayyal
 	KawakibNayyirat
+
+0930IbnCumarBahraqHadrami
+	HadaiqAnwar, HusamMaslul
+
 0938IbnCaliBalawi
 	Thabat
+
+0938IbnQasimSirajDinNashshar
+	Mukarrar
+
+0940IbnHusaynMuhaqqiqThaniKaraki
+	JamicMaqasid, Kharajiyyat, Rasail
+
+0940IbnQasimMuhyiDinAmasi
+	RawdAkhyar
+
+0940IbnSulaymanIbnKamalBasha
+	RisalaFiTahqiqMacna, TalwinKhitab
+
 0942IbnYusufShami
 	SubulHuda
+
+0944IbnCaliIbnDaybacShaybani
+	MukaffiratDhunub
+
 0945ShamsDinDawudi
 	TabaqatMufassirin
+
+0950IbnSulaymanFadilQatifi
+	SirajWahhaj
+
 0953IbnTulun
-	MufakahaKhillan
+	AhadithMia, ArbacunaFiFadlRahma, FassKhawatim, IclamSailin, MufakahaKhillan, RisalaFiTafsirInnaIbrahim
+
+0954IbnMuhammadHattabRucayniMaghribi
+	MawahibJalil, MutammimatAjrumiyya
+
+0956IbnCumarShamsDinSafiri
+	MajalisWacziyya
+
+0956IbnMuhammadHalabiHanafi
+	MajmacAnhur, NicmatDharica
+
 0957ShihabDinRamli
-	FatawaRamli
+	FatawaRamli, HashiyatCumayra
+
+0963CabdRahmanAbuFathCabbasi
+	MacahidTansis
+
+0963IbnMuhammadIbnCiraqKanani
+	TanzihSharica
+
+0965SharafDinAstarabadiHusayni
+	TawilAyat
+
 0966HusaynDiyarbakri
 	TarikhKhamis
+
+0966ShanidThani
+	HaqaiqIman, MasalikAfham, MaskanFuad, MunyatMurid, Rasail, RawdJinan, RicayaFiCilmDiraya, SharhLumca
+
+0968IbnAhmadAbuNajaHajjawi
+	Iqnac, ZadMustaqnic
+
 0968Tashkubruizadah
 	ShaqaiqNucmaniyya
+
+0970IbnIbrahimIbnNujaymMisri
+	AshbahWaNazair, BahrRaiq
+
+0971IbnIbrahimIbnHanbaliHalabi
+	QafwAthar, SahmAlhaz
+
+0972IbnAhmadIbnNajjarHanbali
+	SharhKawkabMunir
+
+0972IbnCaliKarakiCamili
+	AtaibKalam
+
+0972IbnMahmudAmirBadishahBukhari
+	TaysirTahrir
+
 0973CabdWahhabShacrani
-	LawaqihAnwar
+	CuhudMuhammadiyya, CulamaMuslimin, LawaqihAnwar
+
 0973IbnHajarHaythami
-	DurrMandud
-	FatawaHadithiyya
-	FatawaKubra
-	IfsahCanHadithNikah
-	Inafa
-	SawaciqMuhriqa
-	TuhfatMuhtaj
-	Zawajir
+	DurrMandud, FatawaHadithiyya, FatawaKubra, IfsahCanHadithNikah, Inafa, SawaciqMuhriqa, TuhfatMuhtaj, Zawajir
+
 0973ShihabDinHaythami
-	KaffRicac
-	MablaghArab
-	MinhajQawim
+	KaffRicac, MablaghArab, MinhajQawim
+
 0975CalaDinHindi
 	KanzCummal
+
 0977KhatibShirbini
-	Iqnac
-	KhisalMukaffira
-	MughniMuhtaj
-	SirajMunir
+	Iqnac, KhisalMukaffira, MughniMuhtaj, SirajMunir
+
 0978QasimQunawi
 	AnisFuqaha
+
+0979IbnTurkiMaliki
+	KhulasatJawahirZakiyya
+
+0981IbnMusaMuwaqqitDimashqi
+	CiqdTalid
+
+0981TaqiDinRumi
+	RisalatInqadhHalikin
+
+0982IbnMuhammadAbuSacud
+	IrshadCaqlSalim
+
+0983IbnMuhammadSahgirAkhdari
+	MukhtasarFiCibadat
+
 0984BardDinGhazzi
-	MatalicBadriya
+	AdabCishra, AdabMuwakala, MatalicBadriya, MurahFiMuzah
+
+0984WalidBahaiCamili
+	CiqdHusayni, WusulAkhyar
+
+0986IbnCaliFattani
+	TadhkiratMawducat
+
+0987ZaynDinMalibari
+	FathMucin, IsticdadLiMawt
+
+0989SharafDinCimriti
+	DurraBahiyya
+
+0992IbnBaliQustantini
+	KhayrKalam
+
+0992IbnQasimMisri
+	RisalaFiIsmFacil
+
+0993IbnFalahShaybani
+	RisalaFiKharaj
+
+0993MuhaqqiqArdabili
+	MajmacFaida, RisalatanFiKharaj, ZubdatBayan
+
+1000IbnAhmadQahiri
+	MatnCashmawiyya
+
 1004ShamsDinRamli
-	FatawaRamli
+	FatawaRamli, GhayatBayan, HashiyatRamli, NihayatMuhtaj
+
+1004ShamsDinTumurtashi
+	BadhlMajhud
+
 1008DawudAntaki
-	TadhkiratUlaAlbab
-	TazyinAswaq
+	TadhkiratUlaAlbab, TazyinAswaq
+
+1009MuhammadCamili
+	MadarikAhkam, NihayatMaram
+
 1010TamimiDari
 	TabaqatSaniya
+
+1011IbnShahidThani
+	MacalimDin, MuntaqaJuman
+
 1011SahibMacalim
 	TahrirTawusi
+
 1014IbnSultanHarawi
-	Adilla
-	AhadithQudsiyya
-	AsrarMarfuca
-	FaydMucin
-	JamcWasail
-	MawducatSughra
-	MirqatMafatih
-	RaddCalaQailinBiWahdatWujud
-	ShammCawarid
-	SharhMusnadAbiHanifa
-	SharhNakhbatFikr
-	SharhShifa
-	TasliyyatAcma
+	Adilla, AhadithQudsiyya, AsrarMarfuca, FaydMucin, JamcWasail, MawducatSughra, MirqatMafatih, RaddCalaQailinBiWahdatWujud, ShammCawarid, SharhMusnadAbiHanifa, SharhNakhbatFikr, SharhShifa, TasliyyatAcma
+
+1014ZaynDinTablawi
+	ShamcaMudiyya
+
 1016MuhibbDinHamawi
-	HadiAzcan
+	HadiAzcan, TanzilAyat
+
+1019NurAllahTustari
+	IhqaqHaqq, SawarimMuhraqa
+
+1020IbnAhmadBadrDinCamiliHusayni
+	HashiyaCalaUsulKafi
+
+1029IbnMuhammadMansurBiLlah
+	IrshadIlaSabilRashad
+
+1030IbnGhanimBaghdadiHanafi
+	MajmacDamanat
+
 1031BahaDinCamili
-	Kashkul
+	HablMatin, HadiqaHilaliyya, Ithnacashariyya, Kashkul, MashriqShamsayn, MiftahFalah, TawdihMaqasid, ZubdatUsul
+
 1031CabdRaufMunawi
-	FathSamawi
-	FaydQadir
-	IthafSail
-	Ittihafat
-	Tawqif
-	TaysirBiSharh
-	YawaqitWaDurar
+	FathSamawi, FaydQadir, IthafSail, Ittihafat, SayyidatNisa, Tawqif, TaysirBiSharh, YawaqitWaDurar
+
+1033MarciKarmi
+	AqawilThiqat, DalilTalibCalaMadhhabIbnHanbal, DalilTalibLiNaylMatalib, DalilTalibinLiKalamNahwiyyin, FawaidMawduca, IthafDhawiAlbab, KalimatBayyinat, MasbukDhahab, QalaidMarjan, RafcShubha, ShahadaZakiyya, TahqiqRujhan
+
+1034AhmadSirhindi
+	RaddRawafid
+
 1037CabdQadirCaydarus
 	TarikhNurSafir
+
 1041BurhanDinMaliki
 	BahjaMahafil
+
 1041Maqarri
-	AzharRiyad
-	NafhTib
+	AzharRiyad, NafhTib
+
+1041MuhammadBaqirDamadAstarabadi
+	IthnacasharRisala, RawashihSamawiyya
+
 1044IbnBurhanDinHalabi
 	SiraHalabiyya
+
+1050IbnMansurBiLlahYamani
+	AdabCulama
+
+1050SadrDinShirazi
+	HikmaMutacaliya, MabdaWaMacad, Mashacir
+
 1051Cimadi
 	RawdaRayya
+
+1051IbnYunusBuhutiHanbali
+	KashshafQinac, RawdMurbic, SharhMuntahaIradat
+
+1052IbnSayfDinBukhariDihlawi
+	MuqaddimaFiUsulHadith
+
 1057IbnCallan
-	DalilFalihin
-	IthafFadil
+	DalilFalihin, IthafFadil
+
+1061IbnMullaFarrukhRumi
+	QawlSadid
+
 1061NajmDinGhazzi
 	KawakibSaira
+
+1062NurDinMusawiCamili
+	FawaidMadaniyya
+
+1066IbnYusufZaynCabidinKurani
+	MukhtasarYamaniyyat
+
 1067HajjiKhalifa
 	KashfZunun
+
+1069IbnAhmadShihabDinQalyubi
+	Hashiyatan
+
+1069IbnCammarShurunbulali
+	IthafDhawiItqan, MaraqiFalahSharhNurIdah, NurIdah, SacadatMajid, TajaddudMasarrat
+
+1069MuhammadShawbari
+	RaddCalaWahhabiyya
+
 1069ShihabDinKhafaji
-	RayhanaAlibba
+	HashiyaCalaTafsirBaydawi, RayhanaAlibba
+
 1069ShihabDinQalyubi
 	HashiyataQalyubiWaCumayra
+
 1070MuhammadKibrit
 	RihlaShita
+
+1071FadilTuniKhurasani
+	Wafiya
+
+1071IbnFaqihFussaBacliDimashqi
+	CaynWaAthar
+
+1072IbnAhmadMayyaraFasi
+	SharhMayyara
+
+1073YusufBadiciDimashqi
+	SubhMunbi
+
 1078RiyadZadah
 	AsmaKutub
+
+1078ShaykhiZadahDamadAfandi
+	MajmacAnhur
+
+1079HabalShacir
+	Diwan
+
+1080IbnMuhammadBayquniDimashqi
+	ManzumaBayquniyya
+
 1081MuhammadSalihMazandarani
 	SharhUsulKafi
+
+1082IbnHaydarRaficDinNaili
+	HashiyaCalaUsulKafi
+
+1082IbnShadqamMadani
+	WaqcatJamal
+
+1083IbnBalabanDimashqi
+	AkhsarIkhtisarat
+
+1084MuhammadMuqimYazdi
+	SalatJumca
+
+1085FakhrDinTurayhi
+	MajmacBahrayn, TafsirGharibQuran
+
+1085IbnCabdRidaBasri
+	FaiqMaqal
+
 1086IbnCajamiMisri
 	DhaylLubbLubab
+
+1087IbnMactuqShacir
+	Diwan
+
+1088IbnCaliHaskafi
+	DurrMukhtar
+
 1089IbnCimad
-	Shadharat
+	MuctiyatAman, Shadharat
+
+1090IbnCabdWahidAndalusiFasi
+	TanbihKhillan
+
+1090MuhammadBaqirSabzawari
+	KifayatAhkam
+
 1090NizamDinBalkhi
 	FatawaHindiyya
+
+1091MuhammadMuhsinFaydKashani
+	HaqqMubin, TafsirAsfa, TafsirSafi, UsulAsila
+
 1093CabdQadirBaghdadi
 	KhizanatAdab
+
 1094IbnMuhammadSusi
-	JamcFawaid
+	JamcFawaid, SilatKhalaf
+
+1094IbnMusaKaffawi
+	Kulliyat
+
+1096IbnMuhammadJazairiMalyani
+	TuhafRabbaniyya
+
+1097IbnAhmadHanbaliNajdi
+	RisalatAyyMushaddada
+
+1098IbnMuhammadShihabDinHamawi
+	GhamzCuyun, RaddCalaWahhabiyya
+
+1098MuhammadTahirShiraziQummi
+	Arbacina
+
+1099IbnMuhammadKhuwansari
+	MashariqShumus
+
+1100IbnCabdKarimAshmuniMisri
+	ManarHuda
+
 1100IbnMuhammadAdnahwi
 	TabaqatMufassirin
+
 1100MuhammadItlidi
 	IclamNas
+
 1100MustafaTafrishi
 	NaqdRijal
+
+1100ZiyadahIbnYahyaRasi
+	BahthSarih
+
+1101IbCabdAllahKharshi
+	SharhMukhtasarSayyidiKhalil
+
 1101MuhammadCaliArdabili
 	JamicRuwat
+
 1102NurDinYusi
-	MuhadaratFiLugha
-	ZahrAkam
+	MuhadaratFiLugha, ZahrAkam
+
+1104IbnHasanHurrCamili
+	AmalAmil, FususMuhimma, IqazMinHajca, Ithnacashariyya, JawahirSaniyya, RasailShica
+
 1107HashimBahrani
-	GhayatMaram
+	GhayatMaram, HilyatAbrar, KashfMihimm, MadinatMacajiz, YanabicMacajiz
+
 1111Majlisi
-	BiharAnwar
+	BiharAnwar, IjazatHadith
+
 1111MuhammadAminMuhibbi
-	KhulasaAthr
+	DhaylNafahatRayhana, KhulasaAthr, NafahatRayhana
+
+1112IbnJumcaHuwayzi
+	TafsirNurThaqalayn
+
+1112NicmatAllahJazairi
+	NurBarahin, QisasAnbiya
+
+1117IbnMuhammadSharafDinDimyatti
+	IthafFudalaBashar
+
+1118CabdHamidShirwani
+	Hawashi
+
+1118IbnMuhammadNuriSafaqsi
+	GhaythNafc, TanbihGhafilin
+
 1119IbnMacsum
-	AnwarRabic
-	SulafaCasr
+	AnwarRabic, SulafaCasr
+
+1119IbnMacsumShacir
+	Diwan
+
 1120CaliKhanMadani
-	DarajatRafica
+	DarajatRafica, RiyadSalihin
+
+1120IbnMuhammadBurhanDinDimashqi
+	BayanWaTacrif
+
+1120IbnQasimIbnZakurFasi
+	TafrijKurah
+
+1121Mahuzi
+	Arbacuna
+
 1122MuhammadZarqani
-	SharhCalaMawahib
-	SharhCalaMuwatta
+	SharhCalaMawahib, SharhCalaMuwatta
+
+1124IbnCabdFattahTunukabuni
+	SafinatNajat
+
+1125IbnGhanimAzhariNafrawi
+	FawakihDawani
+
+1125MirzaMuhammadMashhadi
+	TafsirKanzDaqaiq
+
 1126MuhammadHanbali
 	Mashyakha
+
 1127IbnMustafaIstanbuli
 	RuhBayan
+
+1129CaliAmirSancani
+	Bidca
+
+1130CabdAllahBahrani
+	Cawalim
+
+1132IbnAhmadAbuMadyanFasi
+	MustacdhabIkhbar
+
+1135IbnCumarTaghlibiShaybani
+	NaylMaarib
+
+1137FadilHindi
+	SharhCayniyya
+
+1137IbnHasanBahaDinIsbahani
+	KashfLitham
+
+1138IbnCabdHadiNurDinSindi
+	HashiyaCalaIbnMajah, HashiyaCalaNisai
+
+1138IbnHusaynQadiriTawari
+	TakmilatBahrRaiq
+
+1140IbnMuhammadDimyatiShafici
+	JawahirGhawali
+
+1143CabdGhaniNabulusi
+	Diwan, KashfNur, TactirAnam
+
+1143IbnCabdKarimGhazziCamiri
+	JiddHathith
+
 1147CabdAllahSancani
 	TarikhYaman
+
 1147IbnSharafDinKhalili
 	FatawaKhalili
+
+1150IbnAhmadShamsDinMakki
+	FawaidJlalila
+
 1153IbnKannan
 	YawmiyyatShamiyya
+
+1156IbnMuhammadAbuSacidKhadimi
+	BariqaMahmudiyya
+
+1158IbnCaliFaruqiTahanawi
+	KashshafIstalahat
+
+1162IbnMuammadAbuFidaCajluni
+	KashfKhafa
+
+1163MuhammadHayatSindi
+	FathGhufur
+
 1167IbnCabrRahmanGhazzi
 	DiwanIslam
+
+1167IbnHamidMashtuli
+	SalwatAhzan
+
+1170IbnMuhammadMahalliMisri
+	MazidNicma
+
 1172IbnKhalifaMasakini
 	Fahrasa
+
+1173IbnCaliMusawiTustari
+	TadhyilSulafatCasr
+
+1173IbnHusaynKhwajuiMazandarani
+	JamicShatat
+
 1174AbuBarakatSuwaydi
 	NafhaMiskiya
+
 1175AhmadBudayri
 	HawadithDimashq
+
 1175MuhammadKarabisi
 	IklilManhaj
+
+1176ShahWaliAllahDihlawi
+	CiqdJayyid, FawzKabir, HujjatAllahBaligha, InsafFiBayan
+
+1179IbnAhmadShihabDinSujaci
+	RisalaFiIthbatKaramat
+
+1180CabdAllahJazairi
+	TuhfaSaniyya
+
 1182IbnIsmacilSancani
-	IftiraqUmma
-	InsafFiHaqiqatAwliya
-	IrshadNuqqad
-	IsbalMatar
-	IstifaAqwal
-	RafcAstar
-	SubulSalam
-	TathirIctiqad
-	TawdihAfkar
-	ThamaratNazar
-	UsulFiqh
+	IftiraqUmma, InsafFiHaqiqatAwliya, IrshadNuqqad, IsbalMatar, IstifaAqwal, RafcAstar, SubulSalam, TathirIctiqad, TawdihAfkar, ThamaratNazar, UsulFiqh
+
+1186YusufBahraniMuhaqqiq
+	HadaiqNadira
+
 1187SulaymanMahasini
 	HululTacab
+
 1188ShamsDinSaffarini
-	DurraMudiyya
-	GhadhaAlbab
-	LawamicAnwar
+	DurraMudiyya, GhadhaAlbab, LawamicAnwar
+
+1189CaliCadawi
+	HashiyatCadawi
+
+1192IbnCabdAllahBacliHanbali
+	BidayatCabid, KashfMukhaddarat
+
 1195CabdRahmanAnsari
 	Tuhfa
+
+1198SulaymanIbnMuhammadJamzuri
+	TuhfatAtfal
+
+1200CabdNabiAhmadnakari
+	DusturCulama
+
+1200CabdNabiQazwini
+	TatmimAmalAmil
+
+1200HaydarCaliIbnMuhammadShirwani
+	ManaqibAhlBayt
+
+1200IbnAhmadSafiDinBukhari
+	TaqrizLiIbnHajarCasqalani
+
+1200Nisari
+	Wafiya
+
+1200ShaykhCabdHusayn
+	AqtabDawair
+
+1201AhmadDardidAbuBarakat
+	SharhKabir
+
 1204SulaymanJamal
 	Hashiya
+
+1205MuhammadBaqirWahidBahbahani
+	FawaidHairiya, HashiyatMajmacFaidaWaBurhan, RasailFiqhiyya, TacliqaCalaManhaj
+
 1205MurtadaZabidi
-	BulghatArib
-	HikmatIshraf
-	TajCarus
+	BulghatArib, HikmatIshraf, TajCarus
+
 1205MurtadaZubidi
 	Amali
+
 1206IbnCabdWahhab
-	AdabMashyIlaSalat
-	AhadithFiFitan
-	AhkamSalat
-	AhkamTamanniMawt
-	ArbacQawacidTaduruAhkamCalayha
-	BacdFawaidSulhHudaybiyya
-	CaqidaFirqaNajiya
-	FadailQuran
-	FadlIslam
-	Fatawa
-	Hadith
-	JawahirMudiyya
-	Kabair
-	KashfShubuhat
-	KhutabMinbariyya
-	KitabTahara
-	MabhathIjtihadWaKhilaf
-	MacnaLaIlahaIllaLlah
-	MajmucatRasailFiTawhid
-	MansikHajj
-	MasailJahiliyya
-	MasailLakhkhasahaIbnCabdWahhab
-	MuallafatIbnCabdWahhab
-	MufidMustafid
-	MukhtasarInsaf
-	MukhtasarSira
-	MukhtasarTafsirSuratAnfal
-	MukhtasarZadMacad
-	QawacidArbaca
-	RasailShakhsiyya
-	RisalaFiRaddCalaRafida
-	RisalaMufida
-	SharhKitabTawhid
-	ShurutSalat
-	TafsirAyatMinQuran
-	Tawhid
-	ThalathatUsul
-	UsulDin
-	UsulIman
+	AdabMashyIlaSalat, AhadithFiFitan, AhkamSalat, AhkamTamanniMawt, ArbacQawacidTaduruAhkamCalayha, BacdFawaidSulhHudaybiyya, CaqidaFirqaNajiya, FadailQuran, FadlIslam, Fatawa, Hadith, JawahirMudiyya, Kabair, KashfShubuhat, KhutabMinbariyya, KitabTahara, MabhathIjtihadWaKhilaf, MacnaLaIlahaIllaLlah, MajmucatRasailFiTawhid, MansikHajj, MasailJahiliyya, MasailLakhkhasahaIbnCabdWahhab, MuallafatIbnCabdWahhab, MufidMustafid, MukhtasarInsaf, MukhtasarSira, MukhtasarTafsirSuratAnfal, MukhtasarZadMacad, QawacidArbaca, RasailShakhsiyya, RisalaFiRaddCalaRafida, RisalaMufida, SharhKitabTawhid, ShurutSalat, TafsirAyatMinQuran, Tawhid, ThalathatUsul, UsulDin, UsulIman
+
+1206IbnCaliSabbanShafici
+	HashiyaCalaSharhAshmuni
+
 1206Muradi
 	SilkDurar
+
+1207IbnAhmadCabdQadirKawkabani
+	FulkQamus
+
+1209MuhammadMahdiNiraqi
+	JamicJawamicCulum, JamicSacadat
+
+1210SulaymanAkhIbnCabdWahhab
+	FaslKhitab, SawaciqIlahiyya
+
+1211KazimUzri
+	DiwanUzri, Uzriyya
+
 1212BahrCulum
 	FawaidRijaliya
+
+1212WahidBahbahani
+	FawaidRijaliya
+
+1216HusaynBahraniAlCusfur
+	TatimmatHadaiq
+
+1218IbnMuhammadIbnSacud
+	RisalaMuhimma
+
 1218SalihFulani
-	QatfThamar
+	IqazHimam, QatfThamar
+
+1220CabdAllahShubbar
+	AnwarLamica
+
+1221IbnAhmadSayyaghi
+	TuhfatMushtaq
+
+1221IbnMuhammadBujayrimiMisri
+	TajridLiNafcCabid, TuhfatHabib
+
+1224IbnMuhammadIbnCajibaFasiSufi
+	BahrMadid
+
+1225IbnGhannamMalikiNajdi
+	CiqdThamin
+
 1225IbnNasirNajdi
-	MajmucatRasail
-	RasailWaFatawa
+	FawakihCidhab, MajmucatRasail, RasailFiqhiyya, RasailWaFatawa, TuhfaMadaniyya
+
 1225ThanaAllahPanipati
 	TafsirMazhari
+
+1226IbnCabdLatifBarbir
+	Mufakhara
+
+1226MuhammadJawadCamili
+	MiftahKarama
+
+1228IbnSulaymanHalabiRihawi
+	NukhbatLaali
+
+1228JacfarKashifGhita
+	KhashfGhita, ManhajRashad
+
+1228MuhammadAmirKabirMaliki
+	NukhbaBahiyya
+
+1230IbnAhmadDasuqi
+	HashiyatCalaSharhKabir
+
+1231IbnMuhammadHanafiTahtawi
+	HashiyaCalaMaraqi
+
+1231MirzaAbuQasimQummi
+	GhanaimAyyam, ManahijAhkam, QawaninUsul
+
+1231SayyidCaliTabatabai
+	RiyadMasail
+
 1232IbnKhatibCumari
 	RawdaFayha
+
+1233SulaymanSibtIbnCabdWahhab
+	Dalail, TawdihCanTawhid, Taysir
+
 1237Jabarti
 	CajaibAthar
+
+1239IbnAhmadFarharawiMultani
+	NahiyaCanTacnMucawiya
+
+1241IbnMuhammadKhalwatiSawi
+	BulghatSalik
+
+1242DiyaDinKhalidBaghdadi
+	RisalaFiTahqiqRabita
+
+1242IbnMuhammadIbnCabdWahhabNajdi
+	JawabAhlSunna, KalimatNafica
+
+1243IbnSacdRahyabaniSuyuti
+	MatalibUliNuha
+
+1244AhmadNiraqi
+	CawaidAyyam, MustanadShica
+
+1244IbnHamadAlMucammar
+	MinhatQaribMujib
+
+1246IbnCabdGhaniDihlawi
+	RisalatTawhid
+
 1246IbnHamadBassam
 	DurarMafakhir
+
+1248MuhammadTaqiRaziNajafi
+	HidayatMustarshidin
+
+1250CabdFattahHusayniMaraghi
+	Canawin
+
 1250IbnCaliShawkani
-	AdabTalab
-	BadrTalic
-	BahthMusaffir
-	DarariMudiyya
-	FathBariMinFatawa
-	FathQadir
-	IrshadFuhul
-	IrshadThiqat
-	NaylAwtar
-	QawlMufid
-	SawarimHidad
-	SaylJarrar
-	SharhSudur
-	TuhafMinMadhahibSalaf
-	TuhfatDhakirin
-	WilayatAllah
+	AdabTalab, AdillaRadiya, BadrTalic, BahthMusaffir, DarariMudiyya, FathBariMinFatawa, FathQadir, FawaidMajmuca, IrshadFuhul, IrshadThiqat, NaylAwtar, QawlMufid, SawarimHidad, SaylJarrar, SharhSudur, TuhafMinMadhahibSalaf, TuhfatDhakirin, WilayatAllah
+
+1250IbnMuhammadCattarShafici
+	HashiyaCalaJamcJawamic
+
+1250IbnMuhammadRaiqiSacidi
+	FathMutacal
+
+1250MuhammadHusaynHairiTihrani
+	FusulGharawiyya
+
 1252IbnCabidinDimashqi
-	TanqihFatawa
+	AjwibaMuhaqqaqa, FawaidCjiba, RaddMuhtar, TanqihFatawa
+
+1253IbnMuhammadAnsariShirwani
+	NafhatYaman
+
 1258IbnCabdSalamTusuli
-	AjwibatTusuli
+	AjwibatTusuli, Bahja
+
+1261IbrahimKilbasiIsbahani
+	MinhajHidaya
+
+1262IbnMuhammadKuzbari
+	IntikhabCawali
+
+1265IbnCumarCalawiHadrami
+	SuyufBawatir
+
+1266MuhammadHasanNajafiJawhari
+	JawahirKalam, RasailFiqhiyya
+
 1269CabdMalikCasimi
 	SamtNujum
+
+1270IbnMuhammadDawcaniHadrami
+	SharhMuqaddimaHadramiyya
+
+1270IbnMuhammadIhsaiHanafi
+	TanbihAfham
+
 1270ShihabDinAlusi
-	AjwibaCiraqiyya
-	GharaibIghtirab
-	RuhMacani
-	Tafsir
+	AjwibaCiraqiyya, GharaibIghtirab, RuhMacani, Tafsir
+
+1276IbnAhmadRibaciSancani
+	FathGhaffar
+
+1277IbnDarwishHut
+	AsnaMatalib
+
 1277MuhammadTantawi
 	NashaNahw
+
+1280MullaCimranFarisi
+	Qasida
+
+1280QadiMulkHindi
+	DhaylQawlMusaddad
+
+1281IbnShawkaniKabir
+	FiSulukIslami
+
 1281MurtadaAnsari
-	AhkamKhalaFiSalat
-	FaraidUsul
-	HashiyaCalaQawanin
-	Khums
-	Makasib
-	Nikah
-	QadaWaShahadat
-	RasailFiqhiyya
-	Salat
-	Sawm
-	Tahara
-	Taqiyya
-	Wasaya
-	Zakat
+	AhkamKhalaFiSalat, FaraidUsul, HashiyaCalaQawanin, Khums, Makasib, Nikah, QadaWaShahadat, RasailFiqhiyya, Salat, Sawm, Tahara, Taqiyya, Wasaya, Zakat
+
 1282AbaButayn
 	RasailWaFatawa
+
+1282Ababutayn
+	DahdShubuhat, IntisarLiHizbAllah, RaddCalaBurda, TasisTaqdis
+
 1285IbnHasanAlShaykh
-	BayanKalimatTawhid
-	BayanMahabba
-	FathMajid
-	Iman
-	KashfMaAlqahuIblis
-	Maqamat
-	MasailWaFatawaNajdiyya
-	MatlabHamid
-	MawridCadhbZulal
-	RasailWaFatawa
+	BayanKalimatTawhid, BayanMahabba, FathMajid, Iman, KashfMaAlqahuIblis, Maqamat, MasailWaFatawaNajdiyya, MatlabHamid, MawridCadhbZulal, RasailWaFatawa, TawhidWaQurratCuyunMuwahhidin
+
+1285IbnMushrifShacir
+	Diwan
+
 1286IcjazHusaynKunturi
 	KashfHajb
+
+1287NasifNasraniYaziji
+	MajmacBahrayn
+
+1290CabdGhaffarAkhras
+	Diwan
+
 1290RifacaTahtawi
 	NihayatIjaz
+
+1291IbnShaykhNasrAzhariHurini
+	MatalicNasriyya
+
 1292IbnIbrahimMaghribi
 	QurratCaynBiFatawa
+
 1292MuhammadNassarCiraqi
 	DiwanNassariyyat
+
 1293CabdLatifAlShaykh
-	CuyunRasailwaAjwiba
-1299IbnCalishMaliki
-	FathCali
+	BarahinIslamiyya, CuyunRasailwaAjwiba, Ithaf, MinhajTasisWaTaqdis, MisbahZalam, TuhfatTalib
+
+1293MahdiKujuriShirazi
+	FawaidRijaliyya
+
+1294IbnIbrahimQunduzi
+	YanabicMuwadda
+
+1298CaliMusawiQazwini
+	TacliqaCalaMacalimUsul, YanabicAhkam
+
+1298IbnTalibDimashqiMaydani
+	LubabFiSharhKitab
+
+1299IbnMuhammadNajafiQurashi
+	Hamasa
+
+1299IbnSibghatAllahFasihDinHaydari
+	NukatShanica
+
+1299MuhammadCulayshMaliki
+	FathCali, MinahJalil
+
+1300CabdHadiIbnMuhammadCujayli
+	TahqiqTajrid
+
+1300IbnMuhyiDinJazairi
+	DhikraCaqil
+
+1300MullaHadiSabzawari
+	SharhAsmaHusna
+
+1304AhmadFarisShidyaq
+	SaqCalaSaq
+
+1304AhmadZayniDahlan
+	DurarSaniyya, FitnaWahhabiyya, RisalaFiKayfiyyatMunazara, RisalatNasr
+
+1304HaydarIbnSulaymanHilli
+	CiqdMufassal, Diwan
+
+1304IbnMuhammadHindiLaknawi
+	AtharMarfuca, RafcWaTakmil, TacliqMumajjad
+
+1305IbnKhalilQawuqjiTarabulusi
+	LuluMarsuc
+
+1306FikriBasha
+	NazmLaal
+
 1306HamidNaqwi
 	KhulasatCuqubatAnwar
+
+1306IbnMuhammadIbnCabidinDimashqi
+	TakmilaRaddMuhtar
+
+1306MullaCaliKanni
+	TawdihMaqal
+
 1307Qannawji
-	AbjadCulum
-	BulghaFuUsulLugha
-	FathBayan
-	HittaFiDhikr
-	HusnUswa
-	LuqtaCajlan
-	NashwatSakran
-	NaylMaram
-	QatfThamar
-	RawdaNadiyya
-	Yaqza
+	AbjadCulum, BulghaFuUsulLugha, FathBayan, HittaFiDhikr, HusnUswa, LuqtaCajlan, NashwatSakran, NaylMaram, QatfThamar, RawdaNadiyya, Yaqza
+
+1308IbnKhalilHindiCuthmani
+	IzharHaqq, MukhtasarIzharHaqq, MunazaraTaqririyya
+
 1310BakriDimyati
 	HashiyaIcanaTalibin
+
+1310MuhammadCaliAnsariTabrizi
+	LumcaBayda
+
+1312CaliRuzdari
+	TaqriratAyatAllah
+
 1313Barujirdi
 	Taraif
+
+1313MuhammadBaqirKajuri
+	KhasaisFatimiyya
+
 1313VanDyck
 	IktifaQunuc
+
+1314ShakirBatluni
+	NafhAzhar
+
 1315AbuMacaliKalbasi
 	RasailRijaliyya
+
 1315Salawi
 	IstiqsaLiAhkbar
+
+1316IbnCumarBantaniJawi
+	MarahLabid, NihayatZayn, TanqihQawl
+
 1317KhayrDinAlusi
-	AyatBayyinat
-	JalaCaynayn
+	AyatBayyinat, JalaCaynayn
+
 1318AhmadDimashqi
 	MucjamAsmaAshya
+
 1318MuhammadSanusi
 	Musamarat
+
+1319IbnYasinLabadiNabulusi
+	HashiyatCalaNaylMaarib
+
+1319MuhammadHasanAshtiyani
+	Qada
+
+1320IbnAhmadSayyidFuratiKawakibi
+	TabaicIstibdad, UmmQura
+
+1320MuhammadHusaynIsbahani
+	AnwarQudsiyya
+
 1320NuriTabarsi
-	KhatimaMustadrak
-	MustadrakWasail
-	NafsRahman
+	KhatimaMustadrak, MustadrakWasail, NafsRahman
+
+1321MirzaJacfarTabatabai
+	IrshadCibad
+
+1322HasanTawfiqCadl
+	RasailBushra
+
+1323CabbasNajlJacfarKashifGhita
+	RisalaFiImama
+
+1323MuhammadCabduh
+	RisalatTawhid
+
+1324IbnNasifNasraniYaziji
+	NujcatRaid
+
+1326IbnMuhammadHindiSahsayani
+	SiyanatInsan
+
+1326MuhammadAlBahrCulum
+	BulghatFaqih
+
 1327AhmadIbrahimCisa
-	RaddCalaShubuhat
-	TawdihMaqasid
+	RaddCalaShubuhat, TawdihMaqasid
+
+1327FadlAllahNuri
+	QacidatDamanYad
+
 1328AbuHudaSayyadi
 	Diwan
+
+1328MuhammadJawadBalaghi
+	HudaIlaDinMustafa, RaddCalaWahhabiyya, RihlaMadrasiyya, TawhidWaTathlith
+
+1329AkhundMullaAbuTalibAraki
+	SharhNajatCibad
+
 1329MuhammadAshrafCazimabadi
 	CawmMacbud
+
+1329MuhammadKazimAkhundKhurasani
+	HashiyatMakasib, KifayatUsul, LamacatNayyira, NihayatNihaya
+
+1330IbnMuhammadJazairiDimashqi
+	NadratBahar
+
 1330IbnMusaTabrizi
 	MiratKutub
+
+1331IbnAminShinqiti
+	WasitFiTarajim
+
+1331IbnAmirCabdQadirJazairi
+	NukhbatCiqd
+
+1332HassunBuraqi
+	TarikhKufa
+
+1332IbnMuhammadJamalDinQasimi
+	IslahMasajid, JarhWaTacdil, MahasinTawil, Mash, MawcizatMuminin, QawacidTahdith, RisalaFiShay
+
 1332ZaynabFawwaz
 	DurrManthur
+
+1333CaliHairiYazdi
+	IlzamNasib
+
+1334NajmDinTabasi
+	DirasatFiqhiyya, IrsalTakfir, Rajca, RijalKhaqani, SalatTarawih
+
 1335CabdRazzaqBaytar
 	HilyaBashar
+
+1335IbnCabdSamicAbiAzhari
+	ThamrDani
+
 1336CabdHamidThani
 	MudhakkaratiSiyasiya
+
+1337MuhammadKazimTabatabaiYazdi
+	CurwaWuthqa, HashiyatMakasib, MunjazatMarid, ZannFiSalat
+
+1337MuhammadZahriGhamrawi
+	SirajWahhaj
+
 1338MuhammadFaridBey
-	Bahja
-	Tarikh
+	Bahja, Tarikh
+
+1338TahirJazairiDimashqi
+	TawjihNazar
+
 1339IsmacilBashaBaghdadi
-	HadiyaCarifin
-	IdahMaknun
+	HadiyaCarifin, IdahMaknun
+
+1339ShaykhSharicaIsbahani
+	QawlSurah
+
+1340CaliBadrani
+	AnwarBadrayn, ManarHuda
+
+1340HabibAllahSharifKashani
+	DurraFakhira
+
 1341CabdHayyTalibi
 	IclamBiMan
+
 1342MahmudShukriAlusi
-	FaslKhitab
-	GhayatAmani
-	MaDallaCalayhiQuran
-	MukhtasarTuhfaIthnaCashariyya
-	SabbCadhab
-	Suyuf
+	FaslKhitab, GhayatAmani, MaDallaCalayhiQuran, MukhtasarTuhfaIthnaCashariyya, SabbCadhab, Suyuf
+
+1343MustafaManfaluti
+	Cibarat, Hijab, Nazarat
+
+1345IbnCafifiKhudari
+	NurYaqin
+
 1345IbnJacfarKattani
-	RisalaMustatrafa
+	NazmMutanathir, RisalaMustatrafa, RisalatMusalsalat
+
+1345IbnMuhsinKashani
+	SahifaHadiya
+
+1346CabbasIbnMuhammadMadani
+	MukhtasarFathRabbArbab
+
 1346CbdQadirBadran
-	MadkhalIlaMadhhabAhmad
-	Munadama
+	MadkhalIlaMadhhabAhmad, Munadama
+
+1346HakimMicrajDin
+	UsulArbaca
+
+1346LuisShikhuYasuci
+	ShucaraNasraniyya
+
 1347BashirYamut
 	Shacirat
+
+1349IbnSahmanKhathcami
+	BayanMubdi, DiyaShariq, Futyayan, IqamatHujja, KashfAwham, KashfGhayahib, KashfShubhatayn, MinhajAhlHaqq, NazamIkhtiyarat, NazamMaInfaradaBihi, SawaciqMursala, TamayyuzSidq, TanbihDhawiAlbab
+
+1350SalihLahidan
+	WujubCadl
+
 1351IbnHusaynGhazzi
 	NahrDhahab
+
 1351YusufIlyanSarkis
 	MucjamMatbucat
+
 1353IbnCabdRahimMubarakfuri
 	TuhfatAhwadhi
+
 1354HasanSadr
 	Takmila
+
 1354RashidRida
 	Manar
+
 1355AhmadTahtawi
 	TanbihWaIqaz
+
 1356AbuHudaKalbasi
 	SamaMaqal
+
+1356MustafaSadiqRafici
+	IcjazQuran, Masakin, SumuwwRuhi, TahtaRayatQuran, TarikhAdabCarab, WahyQalam
+
 1359CabbasQummi
 	Kuna
+
 1360IbnQasimMakhluf
 	ShajaraNur
+
 1364IbnHamdMughiri
 	MuntakhabQabail
+
 1364MacrufRusafi
 	Diwan
+
+1368CaliJarim
+	NahwWadih
+
 1368HasanAmin
 	MustadrakatAcyanShica
+
 1369MuhammadRida
-	AbuBakr
-	Cuthman
-	Muhammad
+	AbuBakr, Cuthman, Muhammad
+
 1371MuhsinCamili
 	AcyanShica
+
 1372KurdCali
 	KhitatSham
+
 1373AbuYaclaZuwawi
 	TarikhZuwawa
+
 1376CabdRahmanSacdi
 	Muallafat
+
 1376MuhammadHajwiThacalibi
 	FikrSami
+
 1381MuhammadSancani
 	MulhaqBadr
+
 1383CadbHayyKattani
 	FihrisFaharis
+
 1389AghaBuzurgTihrani
-	DharicaFiTasanifShica
-	DhaylKashfZunun
-	TASHAnwarSatica
-	TASHNawabighRuwat
+	DharicaFiTasanifShica, DhaylKashfZunun, TASHAnwarSatica, TASHNawabighRuwat
+
 1389MuhammadAlShaykh
 	FatawaWaRasail
+
 1390MuhsinTabatabai
 	DalilNasik
+
+1393MuhammadTahirIbnCashurTunisi
+	TahrirWaTanwir
+
 1396KhayrDinZirikli
 	Aclam
+
 1400MuhammadBaqirSadr
 	FatawaWadiha
+
 1405CaliShahrudi
-	MustadrakSafinatBihar
-	Mustadrakat
+	MustadrakSafinatBihar, Mustadrakat
+
 1408CumarKahhala
-	MucjamMuallifin
-	MucjamQabail
+	MucjamMuallifin, MucjamQabail
+
 1409IbnSayyidCajamiMisri
 	HidayatQari
+
 1411SayyidMarcashi
 	SharhIhqaq
+
 1412SayyidTabatabai
-	SunanNabi
-	TafsirQuran
+	SunanNabi, TafsirQuran
+
 1413TajDinKhui
-	MinhajSalihin
-	MucjamRijal
-	TakmilatMinhajSalihin
+	MinhajSalihin, MucjamRijal, TakmilatMinhajSalihin
+
 1414MuhammadRidaGulpayagani
-	HidayatCibad
-	IrshadSail
-	MukhtasarAhkam
+	HidayatCibad, IrshadSail, MukhtasarAhkam
+
 1414SalimIbadi
 	IscafAcyan
+
 1418MuhammadRuhani
-	ManasikHajj
-	MasailMuntakhaba
-	MinhajSalihin
+	ManasikHajj, MasailMuntakhaba, MinhajSalihin
+
 1418SalihAhmadArkani
 	TihfaMajalis
+
 1419MahmudTanahi
 	MujizFiMarajic
+
 1420IbnBaz
-	FatawaNurCalaDarb
-	MajmucFatawa
+	FatawaNurCalaDarb, MajmucFatawa
+
 1421HamdJasir
 	MucjamQabailMCS
+
 1421MuhammadCuthaymin
-	FatawaArkanIslam
-	FatawaNurCalaDarb
-	MajmucFatawa
+	FatawaArkanIslam, FatawaNurCalaDarb, MajmucFatawa
+
 1422IbnHadiWadici
 	RijalHakim
+
 1422MuhammadSalimMuhaysin
 	MucjamHuffazQuran
+
 1422MuqbilWadici
 	TarajimRijal
+
 1424IhsanCabbas
-	ShadharatMinKutubMafquda
-	ShicrKhawarij
+	ShadharatMinKutubMafquda, ShicrKhawarij
+
+1424MuhammadCaliAbtahi
+	TarikhAlZarara
+
 1429BakrIbnCabdAllah
 	TabaqatNassabin
+
 1430IbnJibrin
 	Fatawa
+
 1450AbuTayyibMansuri
 	Irshad
+
 1450AkramFaluji
-	MucjamSaghir
-	MucjamShuyukhTabari
+	MucjamSaghir, MucjamShuyukhTabari
+
 1450CabdAllahBusayri
-	AbyatMukhtara
-	Hajj
-	MucjamAhammMusannafat
+	AbyatMukhtara, Hajj, MucjamAhammMusannafat
+
 1450CabdRahmanAlShaykh
 	Mashahir
+
 1450CadilNuwayhid
 	MucjamAclamJazair
+
 1450CulamaNajd
 	DurarSaniyya
+
 1450DarIftaMisriyya
 	FatawaDarIfta
+
+1450IbnMukhtarSusi
+	DalilMuallafatMukhtar
+
 1450JamicaIslamiyya
 	MajallaJIMN
+
 1450LajnaDaima
 	Fatawa
+
 1450Maghrawi
 	MawsucaMawaqifSalaf
+
 1450MajmacFikrIslami
 	MawsucaMuallifiImamiya
+
 1450MawqicIslam
 	Fatawa
+
 1450MawsucaShicriya
 	MucjamShucara
+
 1450Milani
-	NafahatAzhar
-	SharhMinhajKaramaLiHilli
-	TashyidMurajacat
+	NafahatAzhar, SharhMinhajKaramaLiHilli, TashyidMurajacat
+
 1450MuhammadAbtahi
 	TahdhibMaqal
+
+1450MuhammadCijajKhatib
+	AbuHurayra, LamahatFiMaktaba, SunnaQablaTadwin
+
 1450MuhammadHadiAmini
 	MucjamMatbicatNajafiya
+
 1450MuhammadHadiYusufi
 	MawsucatTarikhIslam
+
 1450MuhammadJawahiri
-	MucjamTabaatIrth
-	MufidMinMucjamRijal
+	MucjamTabaatIrth, MufidMinMucjamRijal
+
 1450MuhammadKhayrRamadan
 	TakmilaMucjamMuallifin
+
 1450MuhammadSancani
 	NaylWatar
+
 1450MurtadaCaskari
-	AhadithCaisha
-	CabdAllahIbnSaba
-	MacalimMadrasatayn
+	AhadithCaisha, CabdAllahIbnSaba, MacalimMadrasatayn
+
 1450MusaCaffana
 	Fatawa
+
 1450Musannifun
 	MawsucaMujaza
+
 1450SadiqRuhani
-	ManasikHajj
-	MasailMuntakhaba
-	MinhajSalihin
-	TakmilaMinhajSalihin
+	ManasikHajj, MasailMuntakhaba, MinhajSalihin, TakmilaMinhajSalihin
+
 1450SalahMahmudKhaymi
 	FaharisCulumQuran
+
 1450SalihFawzan
 	MajmucFatawa
+
 1450TarhibDawsari
-	MucjamMuallafatMalikiyya
-	MucjamMuallafatShaficiyya
+	MucjamMuallafatMalikiyya, MucjamMuallafatShaficiyya
+
 1450WahidKhurasani
 	MinhajSalihin
+
 1450WalidUmawi
 	MucjamAshabIbnTaymiyya
+
 1450WizaraAwqafMisriyya
 	TarajimMujaza

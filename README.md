@@ -1,3 +1,24 @@
+# META data
+
+**meta_OpenArabic_complete** : the latest version of metadata for `OpenArabic`
+
+Number of texts: 7,052; the number of unique: 4,278
+
+
+*Fields:*
+CSV STRUCTURE:
+
+`ID`: JK000001
+`AUTHOR`: 0505Ghazali
+`DATE`: 0505
+`TITLE`: IhyaCulumDin
+`#WORDS`: 992049
+`URI`: 0505Ghazali.IhyaCulumDin.JK000001-ara1
+`STATUS`: PRI
+`URL`: https://raw.githubusercontent.com/OpenArabic/0600AH/master/data/0505Ghazali/0505Ghazali.IhyaCulumDin/0505Ghazali.IhyaCulumDin.JK000001-ara1
+
+
+
 # uris - metadata for assigning URIs
 
 ## Temporary TAGs
